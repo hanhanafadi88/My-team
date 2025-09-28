@@ -1,0 +1,1931 @@
+--------- beginning of main
+09-28 17:36:27.079  7310  7310 W libprocessgroup: JoinCgroup: controller schedtune is not found
+09-28 17:36:27.093  7252  7293 I CameraManagerGlobal: Connecting to camera service
+09-28 17:36:27.109  7252  7328 D CameraManager2: GotArray:0
+09-28 17:36:27.109  7252  7328 D CameraManager2: GotArray:1
+09-28 17:36:27.109  7252  7328 D CameraManager2: GotArray:2
+09-28 17:36:27.109  7252  7328 D CameraManager2: GotArray:3
+09-28 17:36:27.109  7252  7328 D CameraManager2: GotArray:4
+09-28 17:36:27.109  7252  7328 D CameraManager2: GotArray:5
+09-28 17:36:27.111  7252  7331 D CameraManager2: GotArray:0
+09-28 17:36:27.111  7252  7331 D CameraManager2: GotArray:1
+09-28 17:36:27.111  7252  7331 D CameraManager2: GotArray:2
+09-28 17:36:27.111  7252  7331 D CameraManager2: GotArray:3
+09-28 17:36:27.111  7252  7331 D CameraManager2: GotArray:4
+09-28 17:36:27.111  7252  7331 D CameraManager2: GotArray:5
+09-28 17:36:27.122  7252  7331 D CameraManager2: GotArray:0
+09-28 17:36:27.122  7252  7331 D CameraManager2: GotArray:1
+09-28 17:36:27.122  7252  7331 D CameraManager2: GotArray:2
+09-28 17:36:27.122  7252  7331 D CameraManager2: GotArray:3
+09-28 17:36:27.122  7252  7331 D CameraManager2: GotArray:4
+09-28 17:36:27.122  7252  7331 D CameraManager2: GotArray:5
+09-28 17:36:27.135  7252  7331 D CameraManager2: GotArray:0
+09-28 17:36:27.135  7252  7331 D CameraManager2: GotArray:1
+09-28 17:36:27.135  7252  7331 D CameraManager2: GotArray:2
+09-28 17:36:27.135  7252  7331 D CameraManager2: GotArray:3
+09-28 17:36:27.135  7252  7331 D CameraManager2: GotArray:4
+09-28 17:36:27.135  7252  7331 D CameraManager2: GotArray:5
+09-28 17:36:27.135  7252  7325 W VideoCapabilities: Unsupported mime image/vnd.android.heic
+09-28 17:36:27.135  7252  7325 W VideoCapabilities: Unsupported mime image/vnd.android.heic
+09-28 17:36:27.140  7252  7331 D CameraManager2: GotArray:0
+09-28 17:36:27.140  7252  7331 D CameraManager2: GotArray:1
+09-28 17:36:27.140  7252  7331 D CameraManager2: GotArray:2
+09-28 17:36:27.140  7252  7331 D CameraManager2: GotArray:3
+09-28 17:36:27.140  7252  7331 D CameraManager2: GotArray:4
+09-28 17:36:27.140  7252  7331 D CameraManager2: GotArray:5
+09-28 17:36:27.148  7252  7252 D Zoran Log: : ZFlash State is : true
+09-28 17:36:27.162  7252  7252 D Zoran Log: : ZFlash State is : true
+09-28 17:36:27.165  7252  7325 D CameraManager2: GotArray:0
+09-28 17:36:27.165  7252  7325 D CameraManager2: GotArray:1
+09-28 17:36:27.165  7252  7325 D CameraManager2: GotArray:2
+09-28 17:36:27.165  7252  7325 D CameraManager2: GotArray:3
+09-28 17:36:27.165  7252  7325 D CameraManager2: GotArray:4
+09-28 17:36:27.165  7252  7325 D CameraManager2: GotArray:5
+09-28 17:36:27.178  7252  7252 I DeezNuts: MSG: SLIDER 1 FOCUS: 1.0E-4
+09-28 17:36:27.178  7252  7252 I ProReC  : setprogres0
+09-28 17:36:27.179  7252  7252 I DeezNuts: MSG: SLIDER 0 IDX: 0
+09-28 17:36:27.179  7252  7252 I ProReC  : setprogres_iso0
+09-28 17:36:27.179  7252  7252 I za.defcomk.prorec.cust2.RotSeek: setprogres_iso0
+09-28 17:36:27.203  7252  7325 W CAM_A   : Build number (2ca1c2-18a86) is not a number. Ignoring version check for b/149569689.
+09-28 17:36:27.199  7252  7252 W CriticalPath: type=1400 audit(0.0:117349): avc:  denied  { read } for  name="u:object_r:vendor_display_prop:s0" dev="tmpfs" ino=1948 scontext=u:r:untrusted_app_29:s0:c90,c257,c512,c768 tcontext=u:object_r:vendor_display_prop:s0 tclass=file permissive=0 app=com.google.android.GoogleCameraEngR18F1
+09-28 17:36:27.207  7252  7331 W libc    : Access denied finding property "vendor.display.enable_optimal_refresh_rate"
+09-28 17:36:27.203  7252  7252 W CriticalPath: type=1400 audit(0.0:117350): avc:  denied  { read } for  name="u:object_r:vendor_display_prop:s0" dev="tmpfs" ino=1948 scontext=u:r:untrusted_app_29:s0:c90,c257,c512,c768 tcontext=u:object_r:vendor_display_prop:s0 tclass=file permissive=0 app=com.google.android.GoogleCameraEngR18F1
+09-28 17:36:27.221  7252  7252 W HWUI    : Unknown dataspace 0
+09-28 17:36:27.251  7252  7252 W eCameraEngR18F1: type=1400 audit(0.0:117351): avc:  denied  { read } for  name="u:object_r:vendor_display_prop:s0" dev="tmpfs" ino=1948 scontext=u:r:untrusted_app_29:s0:c90,c257,c512,c768 tcontext=u:object_r:vendor_display_prop:s0 tclass=file permissive=0 app=com.google.android.GoogleCameraEngR18F1
+09-28 17:36:27.257  7252  7252 W libc    : Access denied finding property "vendor.display.enable_optimal_refresh_rate"
+09-28 17:36:27.258  7252  7300 I AdrenoGLES-0: QUALCOMM build                   : 923a446bf8, I23d7d7df15
+09-28 17:36:27.258  7252  7300 I AdrenoGLES-0: Build Date                       : 09/05/24
+09-28 17:36:27.258  7252  7300 I AdrenoGLES-0: OpenGL ES Shader Compiler Version: EV031.35.01.12
+09-28 17:36:27.258  7252  7300 I AdrenoGLES-0: Local Branch                     : 
+09-28 17:36:27.258  7252  7300 I AdrenoGLES-0: Remote Branch                    : refs/tags/AU_LINUX_ANDROID_LA.UM.9.14.11.00.00.571.148
+09-28 17:36:27.258  7252  7300 I AdrenoGLES-0: Remote Branch                    : NONE
+09-28 17:36:27.258  7252  7300 I AdrenoGLES-0: Reconstruct Branch               : NOTHING
+09-28 17:36:27.258  7252  7300 I AdrenoGLES-0: Build Config                     : S P 10.0.7 AArch64
+09-28 17:36:27.259  7252  7300 I AdrenoGLES-0: Driver Path                      : /vendor/lib64/egl/libGLESv2_adreno.so
+09-28 17:36:27.269  7252  7300 I AdrenoGLES-0: PFP: 0x016ee201, ME: 0x00000000
+09-28 17:36:27.294  7252  7300 I HWUI    : setGrContext nullptr-->validptr
+09-28 17:36:27.330  7252  7252 W CAM_A   : Was already registered as ThermalStatusListener on AppStart
+09-28 17:36:27.353  7252  7252 D CameraManager2: GotArray:0
+09-28 17:36:27.353  7252  7252 D CameraManager2: GotArray:1
+09-28 17:36:27.353  7252  7252 D CameraManager2: GotArray:2
+09-28 17:36:27.353  7252  7252 D CameraManager2: GotArray:3
+09-28 17:36:27.353  7252  7252 D CameraManager2: GotArray:4
+09-28 17:36:27.353  7252  7252 D CameraManager2: GotArray:5
+09-28 17:36:27.574  7252  7293 W System  : Attempt to load writable file: /data/user/0/com.google.android.GoogleCameraEngR18F1/files/libpatched_jni.so. This will throw on a future Android version
+09-28 17:36:27.571  7252  7252 W GcaGeneric-1: type=1400 audit(0.0:117352): avc:  granted  { execute } for  path="/data/user/0/com.google.android.GoogleCameraEngR18F1/files/libpatched_jni.so" dev="dm-51" ino=355953 scontext=u:r:untrusted_app_29:s0:c90,c257,c512,c768 tcontext=u:object_r:app_data_file:s0:c90,c257,c512,c768 tclass=file app=com.google.android.GoogleCameraEngR18F1
+09-28 17:36:27.581  7252  7293 D nativeloader: Load /data/user/0/com.google.android.GoogleCameraEngR18F1/files/libpatched_jni.so using class loader ns clns-7 (caller=/data/app/~~a9wSP1_7Mh4guBjRSfWJ0g==/com.google.android.GoogleCameraEngR18F1-bL_BM-ubZWzVdyQdTxFqBA==/base.apk): ok
+09-28 17:36:27.582  7252  7293 D nativeloader: Load /data/app/~~a9wSP1_7Mh4guBjRSfWJ0g==/com.google.android.GoogleCameraEngR18F1-bL_BM-ubZWzVdyQdTxFqBA==/lib/arm64/libpairipcoreX.so using class loader ns clns-7 (caller=/data/app/~~a9wSP1_7Mh4guBjRSfWJ0g==/com.google.android.GoogleCameraEngR18F1-bL_BM-ubZWzVdyQdTxFqBA==/base.apk!classes2.dex): ok
+09-28 17:36:27.592  7252  7252 D CameraManager2: GotArray:0
+09-28 17:36:27.592  7252  7252 D CameraManager2: GotArray:1
+09-28 17:36:27.592  7252  7252 D CameraManager2: GotArray:2
+09-28 17:36:27.592  7252  7252 D CameraManager2: GotArray:3
+09-28 17:36:27.592  7252  7252 D CameraManager2: GotArray:4
+09-28 17:36:27.592  7252  7252 D CameraManager2: GotArray:5
+09-28 17:36:27.597  7252  7252 D nativeloader: Load /data/app/~~a9wSP1_7Mh4guBjRSfWJ0g==/com.google.android.GoogleCameraEngR18F1-bL_BM-ubZWzVdyQdTxFqBA==/lib/arm64/libagc.so using class loader ns clns-7 (caller=/data/app/~~a9wSP1_7Mh4guBjRSfWJ0g==/com.google.android.GoogleCameraEngR18F1-bL_BM-ubZWzVdyQdTxFqBA==/base.apk!classes2.dex): ok
+09-28 17:36:27.618  7252  7252 D CameraManager2: GotArray:0
+09-28 17:36:27.618  7252  7252 D CameraManager2: GotArray:1
+09-28 17:36:27.618  7252  7252 D CameraManager2: GotArray:2
+09-28 17:36:27.618  7252  7252 D CameraManager2: GotArray:3
+09-28 17:36:27.618  7252  7252 D CameraManager2: GotArray:4
+09-28 17:36:27.618  7252  7252 D CameraManager2: GotArray:5
+09-28 17:36:27.631  7252  7252 D CameraManager2: GotArray:0
+09-28 17:36:27.631  7252  7252 D CameraManager2: GotArray:1
+09-28 17:36:27.631  7252  7252 D CameraManager2: GotArray:2
+09-28 17:36:27.631  7252  7252 D CameraManager2: GotArray:3
+09-28 17:36:27.631  7252  7252 D CameraManager2: GotArray:4
+09-28 17:36:27.631  7252  7252 D CameraManager2: GotArray:5
+09-28 17:36:27.647  7252  7252 D CameraManager2: GotArray:0
+09-28 17:36:27.647  7252  7252 D CameraManager2: GotArray:1
+09-28 17:36:27.647  7252  7252 D CameraManager2: GotArray:2
+09-28 17:36:27.647  7252  7252 D CameraManager2: GotArray:3
+09-28 17:36:27.647  7252  7252 D CameraManager2: GotArray:4
+09-28 17:36:27.647  7252  7252 D CameraManager2: GotArray:5
+09-28 17:36:27.648  7252  7252 D CameraManager2: GotArray:0
+09-28 17:36:27.649  7252  7252 D CameraManager2: GotArray:1
+09-28 17:36:27.649  7252  7252 D CameraManager2: GotArray:2
+09-28 17:36:27.649  7252  7252 D CameraManager2: GotArray:3
+09-28 17:36:27.649  7252  7252 D CameraManager2: GotArray:4
+09-28 17:36:27.649  7252  7252 D CameraManager2: GotArray:5
+09-28 17:36:27.650  7252  7252 D CameraManager2: GotArray:0
+09-28 17:36:27.650  7252  7252 D CameraManager2: GotArray:1
+09-28 17:36:27.650  7252  7252 D CameraManager2: GotArray:2
+09-28 17:36:27.650  7252  7252 D CameraManager2: GotArray:3
+09-28 17:36:27.650  7252  7252 D CameraManager2: GotArray:4
+09-28 17:36:27.650  7252  7252 D CameraManager2: GotArray:5
+09-28 17:36:27.651  7252  7252 D CameraManager2: GotArray:0
+09-28 17:36:27.651  7252  7252 D CameraManager2: GotArray:1
+09-28 17:36:27.651  7252  7252 D CameraManager2: GotArray:2
+09-28 17:36:27.651  7252  7252 D CameraManager2: GotArray:3
+09-28 17:36:27.651  7252  7252 D CameraManager2: GotArray:4
+09-28 17:36:27.651  7252  7252 D CameraManager2: GotArray:5
+09-28 17:36:27.652  7252  7331 W CAM_A   : UI view not yet initialized
+09-28 17:36:27.653  7252  7252 W FontsContract: Platform version of downloadable fonts is deprecated. Please use androidx version instead.
+09-28 17:36:27.688  7252  7252 D CameraManager2: GotArray:0
+09-28 17:36:27.688  7252  7252 D CameraManager2: GotArray:1
+09-28 17:36:27.688  7252  7252 D CameraManager2: GotArray:2
+09-28 17:36:27.688  7252  7252 D CameraManager2: GotArray:3
+09-28 17:36:27.688  7252  7252 D CameraManager2: GotArray:4
+09-28 17:36:27.688  7252  7252 D CameraManager2: GotArray:5
+09-28 17:36:27.704  7252  7252 D CameraManager2: GotArray:0
+09-28 17:36:27.704  7252  7252 D CameraManager2: GotArray:1
+09-28 17:36:27.704  7252  7252 D CameraManager2: GotArray:2
+09-28 17:36:27.704  7252  7252 D CameraManager2: GotArray:3
+09-28 17:36:27.704  7252  7252 D CameraManager2: GotArray:4
+09-28 17:36:27.704  7252  7252 D CameraManager2: GotArray:5
+09-28 17:36:27.705  7252  7252 D CameraManager2: GotArray:0
+09-28 17:36:27.705  7252  7252 D CameraManager2: GotArray:1
+09-28 17:36:27.705  7252  7252 D CameraManager2: GotArray:2
+09-28 17:36:27.705  7252  7252 D CameraManager2: GotArray:3
+09-28 17:36:27.705  7252  7252 D CameraManager2: GotArray:4
+09-28 17:36:27.705  7252  7252 D CameraManager2: GotArray:5
+09-28 17:36:27.706  7252  7252 D CameraManager2: GotArray:0
+09-28 17:36:27.706  7252  7252 D CameraManager2: GotArray:1
+09-28 17:36:27.706  7252  7252 D CameraManager2: GotArray:2
+09-28 17:36:27.706  7252  7252 D CameraManager2: GotArray:3
+09-28 17:36:27.706  7252  7252 D CameraManager2: GotArray:4
+09-28 17:36:27.706  7252  7252 D CameraManager2: GotArray:5
+09-28 17:36:27.706  7252  7252 D CameraManager2: GotArray:0
+09-28 17:36:27.706  7252  7252 D CameraManager2: GotArray:1
+09-28 17:36:27.706  7252  7252 D CameraManager2: GotArray:2
+09-28 17:36:27.706  7252  7252 D CameraManager2: GotArray:3
+09-28 17:36:27.706  7252  7252 D CameraManager2: GotArray:4
+09-28 17:36:27.706  7252  7252 D CameraManager2: GotArray:5
+09-28 17:36:27.710  7252  7252 W FontsContract: Platform version of downloadable fonts is deprecated. Please use androidx version instead.
+09-28 17:36:27.731  7252  7252 W CAM_A   : ModeSwitcher WAS ALREADY ENABLED!
+09-28 17:36:27.733  7252  7252 D CameraManager2: GotArray:0
+09-28 17:36:27.733  7252  7252 D CameraManager2: GotArray:1
+09-28 17:36:27.733  7252  7252 D CameraManager2: GotArray:2
+09-28 17:36:27.733  7252  7252 D CameraManager2: GotArray:3
+09-28 17:36:27.733  7252  7252 D CameraManager2: GotArray:4
+09-28 17:36:27.733  7252  7252 D CameraManager2: GotArray:5
+09-28 17:36:27.734  7252  7252 D CameraManager2: GotArray:0
+09-28 17:36:27.734  7252  7252 D CameraManager2: GotArray:1
+09-28 17:36:27.734  7252  7252 D CameraManager2: GotArray:2
+09-28 17:36:27.734  7252  7252 D CameraManager2: GotArray:3
+09-28 17:36:27.734  7252  7252 D CameraManager2: GotArray:4
+09-28 17:36:27.734  7252  7252 D CameraManager2: GotArray:5
+09-28 17:36:27.735  7252  7252 D CameraManager2: GotArray:0
+09-28 17:36:27.735  7252  7252 D CameraManager2: GotArray:1
+09-28 17:36:27.735  7252  7252 D CameraManager2: GotArray:2
+09-28 17:36:27.735  7252  7252 D CameraManager2: GotArray:3
+09-28 17:36:27.735  7252  7252 D CameraManager2: GotArray:4
+09-28 17:36:27.735  7252  7252 D CameraManager2: GotArray:5
+09-28 17:36:27.736  7252  7252 D CameraManager2: GotArray:0
+09-28 17:36:27.736  7252  7252 D CameraManager2: GotArray:1
+09-28 17:36:27.736  7252  7252 D CameraManager2: GotArray:2
+09-28 17:36:27.736  7252  7252 D CameraManager2: GotArray:3
+09-28 17:36:27.736  7252  7252 D CameraManager2: GotArray:4
+09-28 17:36:27.736  7252  7252 D CameraManager2: GotArray:5
+09-28 17:36:27.751  7252  7252 I Choreographer: Skipped 30 frames!  The application may be doing too much work on its main thread.
+09-28 17:36:27.768  7252  7252 I DeezNuts: MSG: SLIDER 1 FOCUS: 1.0E-4
+09-28 17:36:27.768  7252  7252 I ProReC  : setprogres0
+09-28 17:36:27.768  7252  7252 I DeezNuts: MSG: SLIDER 0 IDX: 0
+09-28 17:36:27.768  7252  7252 I ProReC  : setprogres_iso0
+09-28 17:36:27.768  7252  7252 I za.defcomk.prorec.cust2.RotSeek: setprogres_iso0
+09-28 17:36:27.769  7252  7252 W View    : requestLayout() improperly called by com.google.android.material.button.MaterialButton{d4d0046 VFED..C.. ......I. 0,0-0,0 #7f0b000b app:id/AuxButtonMain} during layout: running second layout pass
+09-28 17:36:27.770  7252  7252 W View    : requestLayout() improperly called by com.google.android.material.button.MaterialButton{db5d21e VFED..C.. ......I. 0,0-0,0 #7f0b0032 app:id/AuxButtonTele} during layout: running second layout pass
+09-28 17:36:27.770  7252  7252 W View    : requestLayout() improperly called by com.google.android.material.button.MaterialButton{368f22a VFED..C.. ......I. 0,0-0,0 #7f0b0033 app:id/AuxButtonWide} during layout: running second layout pass
+09-28 17:36:27.780  7252  7252 W libc    : Access denied finding property "vendor.display.enable_optimal_refresh_rate"
+09-28 17:36:27.802  7252  7252 D CameraManager2: GotArray:0
+09-28 17:36:27.802  7252  7252 D CameraManager2: GotArray:1
+09-28 17:36:27.802  7252  7252 D CameraManager2: GotArray:2
+09-28 17:36:27.802  7252  7252 D CameraManager2: GotArray:3
+09-28 17:36:27.802  7252  7252 D CameraManager2: GotArray:4
+09-28 17:36:27.802  7252  7252 D CameraManager2: GotArray:5
+09-28 17:36:27.802  7252  7252 W CAM_A   : ModeSwitcher WAS ALREADY ENABLED!
+09-28 17:36:28.166  7252  7521 W InteractionJankMonitor: Initializing without READ_DEVICE_CONFIG permission. enabled=false, interval=1, missedFrameThreshold=3, frameTimeThreshold=64, package=com.google.android.GoogleCameraEngR18F1
+09-28 17:36:29.197  7252  7325 W CAM_A   : Extractor (frame) of type feature.acmi.imu.frame-straightness depends on foreign type feature.acmi.imu.camera-orientation! Feature values may be calculated out of order!
+09-28 17:36:29.197  7252  7325 W CAM_A   : Extractor (frame) of type feature.acmi.imu.frame-straightness depends on foreign type feature.acmi.imu.camera-orientation! Feature values may be calculated out of order!
+09-28 17:36:29.191  7252  7252 W MicrovideoQShar: type=1400 audit(0.0:117369): avc:  granted  { execute } for  path="/data/user/0/com.google.android.GoogleCameraEngR18F1/files/libpatched_jni.so" dev="dm-51" ino=355953 scontext=u:r:untrusted_app_29:s0:c90,c257,c512,c768 tcontext=u:object_r:app_data_file:s0:c90,c257,c512,c768 tclass=file app=com.google.android.GoogleCameraEngR18F1
+09-28 17:36:29.219  7252  7252 W 00UiWorker: type=1400 audit(0.0:117370): avc:  granted  { execute } for  path="/data/user/0/com.google.android.GoogleCameraEngR18F1/files/libpatched_jni.so" dev="dm-51" ino=355953 scontext=u:r:untrusted_app_29:s0:c90,c257,c512,c768 tcontext=u:object_r:app_data_file:s0:c90,c257,c512,c768 tclass=file app=com.google.android.GoogleCameraEngR18F1
+09-28 17:36:29.231  7252  7719 D MediaCodecList: codecHandlesFormat: no format, so no extra checks
+09-28 17:36:29.233  7252  7719 D MediaCodecList: codecHandlesFormat: no format, so no extra checks
+09-28 17:36:29.243  7252  7719 I MediaCodec: (0x78ed370000) init name(c2.qti.avc.encoder)
+09-28 17:36:29.252  7252  7737 D CCodec  : allocate(c2.qti.avc.encoder)
+09-28 17:36:29.251  7252  7252 W 00UiWorker: type=1400 audit(0.0:117372): avc:  granted  { execute } for  path="/data/user/0/com.google.android.GoogleCameraEngR18F1/files/libpatched_jni.so" dev="dm-51" ino=355953 scontext=u:r:untrusted_app_29:s0:c90,c257,c512,c768 tcontext=u:object_r:app_data_file:s0:c90,c257,c512,c768 tclass=file app=com.google.android.GoogleCameraEngR18F1
+09-28 17:36:29.251  7252  7252 W GcaGeneric-2: type=1400 audit(0.0:117373): avc:  granted  { execute } for  path="/data/user/0/com.google.android.GoogleCameraEngR18F1/files/libpatched_jni.so" dev="dm-51" ino=355953 scontext=u:r:untrusted_app_29:s0:c90,c257,c512,c768 tcontext=u:object_r:app_data_file:s0:c90,c257,c512,c768 tclass=file app=com.google.android.GoogleCameraEngR18F1
+09-28 17:36:29.264  7252  7737 I Codec2Client: Available Codec2 services: "default" "default9" "software"
+09-28 17:36:29.268  7252  7737 I CCodec  : setting up 'default' as default (vendor) store
+09-28 17:36:29.272  7252  7361 W CAM_A   : UNINITIALIZED > result sensor delay = 2,00 > 1,10
+09-28 17:36:29.279  7252  7252 W 00UiWorker: type=1400 audit(0.0:117374): avc:  granted  { execute } for  path="/data/user/0/com.google.android.GoogleCameraEngR18F1/files/libpatched_jni.so" dev="dm-51" ino=355953 scontext=u:r:untrusted_app_29:s0:c90,c257,c512,c768 tcontext=u:object_r:app_data_file:s0:c90,c257,c512,c768 tclass=file app=com.google.android.GoogleCameraEngR18F1
+09-28 17:36:29.294  7252  7361 W CAM_A   : UNINITIALIZED > rel Δ(result sensor timestamp) = 0,50 > 0,25
+09-28 17:36:29.296  7252  7737 I CCodec  : Created component [c2.qti.avc.encoder]
+09-28 17:36:29.296  7252  7325 D nativeloader: Load /data/app/~~a9wSP1_7Mh4guBjRSfWJ0g==/com.google.android.GoogleCameraEngR18F1-bL_BM-ubZWzVdyQdTxFqBA==/lib/arm64/libsmartcapture_native.so using class loader ns clns-7 (caller=/data/app/~~a9wSP1_7Mh4guBjRSfWJ0g==/com.google.android.GoogleCameraEngR18F1-bL_BM-ubZWzVdyQdTxFqBA==/base.apk): ok
+09-28 17:36:29.296  7252  7737 D CCodecConfig: read media type: video/avc
+09-28 17:36:29.301  7252  7737 D ReflectedParamUpdater: ignored struct field coding.gop.values
+09-28 17:36:29.303  7252  7325 I tflite  : Initialized TensorFlow Lite runtime.
+09-28 17:36:29.304  7252  7737 D ReflectedParamUpdater: extent() != 1 for single value type: vendor.qti-ext-enc-info-metadata-cvp.reserved
+09-28 17:36:29.299  7252  7252 W GcaGeneric-1: type=1400 audit(0.0:117375): avc:  granted  { execute } for  path="/data/user/0/com.google.android.GoogleCameraEngR18F1/files/libpatched_jni.so" dev="dm-51" ino=355953 scontext=u:r:untrusted_app_29:s0:c90,c257,c512,c768 tcontext=u:object_r:app_data_file:s0:c90,c257,c512,c768 tclass=file app=com.google.android.GoogleCameraEngR18F1
+09-28 17:36:29.305  7252  7504 E GoLog   : INFO: Initialized TensorFlow Lite runtime.
+09-28 17:36:29.307  7252  7737 D ReflectedParamUpdater: extent() != 1 for single value type: output.buffers.pool-ids.values
+09-28 17:36:29.310  7252  7325 W libc    : Access denied finding property "ro.hardware.chipname"
+09-28 17:36:29.320  7252  7737 D CCodecConfig: ignoring local param raw.color (0xc2001809) as it is already supported
+09-28 17:36:29.320  7252  7325 I tflite  : Created TensorFlow Lite XNNPACK delegate for CPU.
+09-28 17:36:29.321  7252  7504 E GoLog   : INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+09-28 17:36:29.321  7252  7325 I tflite  : Replacing 5 node(s) with delegate (TfLiteXNNPackDelegate) node, yielding 1 partitions.
+09-28 17:36:29.321  7252  7504 E GoLog   : INFO: Replacing 5 node(s) with delegate (TfLiteXNNPackDelegate) node, yielding 1 partitions.
+09-28 17:36:29.324  7252  7737 I CCodecConfig: query failed after returning 23 values (BAD_INDEX)
+09-28 17:36:29.324  7252  7737 D CCodecConfig: c2 config diff is Dict {
+09-28 17:36:29.324  7252  7737 D CCodecConfig:   c2::u32 algo.bitrate-mode.value = 3
+09-28 17:36:29.324  7252  7737 D CCodecConfig:   c2::u32 algo.complexity.value = 0
+09-28 17:36:29.324  7252  7737 D CCodecConfig:   c2::i32 algo.priority.value = 0
+09-28 17:36:29.324  7252  7737 D CCodecConfig:   c2::float algo.rate.value = 30
+09-28 17:36:29.324  7252  7737 D CCodecConfig:   c2::u32 algo.secure-mode.value = 0
+09-28 17:36:29.324  7252  7737 D CCodecConfig:   c2::i32 coded.average-qp.value = 0
+09-28 17:36:29.324  7252  7737 D CCodecConfig:   c2::u32 coded.bitrate.value = 20000000
+09-28 17:36:29.324  7252  7737 D CCodecConfig:   c2::float coded.frame-rate.value = 30
+09-28 17:36:29.324  7252  7737 D CCodecConfig:   c2::u32 coded.picture-type.value = 0
+09-28 17:36:29.324  7252  7737 D CCodecConfig:   c2::u32 coded.pl.level = 0
+09-28 17:36:29.324  7252  7737 D CCodecConfig:   c2::u32 coded.pl.profile = 20484
+09-28 17:36:29.324  7252  7737 D CCodecConfig:   c2::u32 coded.vui.color.matrix = 255
+09-28 17:36:29.324  7252  7737 D CCodecConfig:   c2::u32 coded.vui.color.primaries = 0
+09-28 17:36:29.324  7252  7737 D CCodecConfig:   c2::u32 coded.vui.color.range = 0
+09-28 17:36:29.324  7252  7737 D CCodecConfig:   c2::u32 coded.vui.color.transfer = 255
+09-28 17:36:29.324  7252  7737 D CCodecConfig:   c2::u32 coding.intra-refresh.mode = 0
+09-28 17:36:29.324  7252  7737 D CCodecConfig:   c2::float coding.intra-refresh.period = 0
+09-28 17:36:29.324  7252  7737 D CCodecConfig:   c2::u32 coding.request-sync-frame.value = 0
+09-28 17:36:29.324  7252  7737 D CCodecConfig:   c2::i64 coding.sync-frame-interval.value = 1000000
+09-28 17:36:29.324  7252  7737 D CCodecConfig:   Buffer coding.temporal-layering = {
+09-28 17:36:29.324  7252  7737 D CCodecConfig:     00000000:  10 00 00 00 07 20 01 52  00 00 00 00 00 00 00 00  ..... .R........
+09-28 17:36:29.324  7252  7737 D CCodecConfig:   }
+09-28 17:36:29.324  7252  7737 D CCodecConfig:   c2::u32 default.color.matrix = 0
+09-28 17:36:29.324  7252  7737 D CCodecConfig:   c2::u32 default.color.primaries = 0
+09-28 17:36:29.324  7252  7737 D CCodecConfig:   c2::u32 default.color.range = 0
+09-28 17:36:29.324  7252  7737 D CCodecConfig:   c2::u32 default.color.trans
+09-28 17:36:29.325  7252  7737 W ColorUtils: expected specified color aspects (0:0:255:255)
+09-28 17:36:29.325  7252  7733 I MediaCodec: (0x78ed370000) Component Allocated (c2.qti.avc.encoder)
+09-28 17:36:29.332  7252  7293 W CAM_CameraDeviceVerifie: Tag CameraDeviceVerifier is 1 chars longer than limit.
+09-28 17:36:29.332  7252  7745 D MediaCodecList: codecHandlesFormat: no format, so no extra checks
+09-28 17:36:29.334  7252  7293 D CameraManager2: GotArray:0
+09-28 17:36:29.334  7252  7293 D CameraManager2: GotArray:1
+09-28 17:36:29.334  7252  7293 D CameraManager2: GotArray:2
+09-28 17:36:29.334  7252  7293 D CameraManager2: GotArray:3
+09-28 17:36:29.334  7252  7293 D CameraManager2: GotArray:4
+09-28 17:36:29.334  7252  7293 D CameraManager2: GotArray:5
+09-28 17:36:29.335  7252  7745 I MediaCodec: (0x78d6d73800) init name(c2.android.vorbis.decoder)
+09-28 17:36:29.335  7252  7331 D CameraManager2: GotArray:0
+09-28 17:36:29.335  7252  7331 D CameraManager2: GotArray:1
+09-28 17:36:29.335  7252  7331 D CameraManager2: GotArray:2
+09-28 17:36:29.335  7252  7331 D CameraManager2: GotArray:3
+09-28 17:36:29.335  7252  7331 D CameraManager2: GotArray:4
+09-28 17:36:29.335  7252  7331 D CameraManager2: GotArray:5
+09-28 17:36:29.335  7252  7744 D MediaCodecList: codecHandlesFormat: no format, so no extra checks
+09-28 17:36:29.339  7252  7753 D CCodec  : allocate(c2.android.vorbis.decoder)
+09-28 17:36:29.340  7252  7744 I MediaCodec: (0x78d6dd0000) init name(c2.android.vorbis.decoder)
+09-28 17:36:29.342  7252  7325 I Manager : DeviceManager::DeviceManager
+09-28 17:36:29.343  7252  7325 W ServerFlag: Failed to parse result of GetServerConfigurableFlag, errno=34
+09-28 17:36:29.343  7252  7325 I Manager : findAvailableDevices
+09-28 17:36:29.343  7252  7754 D CCodec  : allocate(c2.android.vorbis.decoder)
+09-28 17:36:29.343  7252  7719 D CodecSeeding: Seed: codec c2.qti.avc.encoder, mediatype video/avc, overrideable 1
+09-28 17:36:29.343  7252  7719 D CodecProperties: setTuningValue(vq-target-bpp,0)
+09-28 17:36:29.343  7252  7719 D CodecProperties: setTuningValue(vq-target-bpp-1080p,1.90)
+09-28 17:36:29.343  7252  7719 D CodecProperties: setTuningValue(vq-target-bpp-720p,2.25)
+09-28 17:36:29.343  7252  7719 D CodecProperties: setTuningValue(vq-target-bpp-540p,2.65)
+09-28 17:36:29.343  7252  7719 D CodecProperties: setTuningValue(vq-target-bpp-480p,3.00)
+09-28 17:36:29.343  7252  7719 D CodecProperties: setTuningValue(vq-target-bpp-320x240,0)
+09-28 17:36:29.343  7252  7719 D CodecProperties: setTuningValue(vq-target-qpmax,-1)
+09-28 17:36:29.343  7252  7719 D CodecProperties: setTuningValue(vq-target-qpmax-1080p,45)
+09-28 17:36:29.343  7252  7719 D CodecProperties: setTuningValue(vq-target-qpmax-720p,43)
+09-28 17:36:29.343  7252  7719 D CodecProperties: setTuningValue(vq-target-qpmax-540p,42)
+09-28 17:36:29.343  7252  7719 D CodecProperties: setTuningValue(vq-target-qpmax-480p,38)
+09-28 17:36:29.343  7252  7719 D CodecProperties: setTuningValue(vq-bitrate-phaseout,1.75)
+09-28 17:36:29.343  7252  7719 D CodecProperties: setTuningValue(vq-boost-missing-qp,0.20)
+09-28 17:36:29.343  7252  7719 D CodecProperties: setFeatureValue(can-swap-width-height,1)
+09-28 17:36:29.343  7252  7719 D CodecProperties: setFeatureValue(intra-refresh,0)
+09-28 17:36:29.343  7252  7719 D CodecProperties: setTuningValue(vq-target-bpp-1280x720,4.50)
+09-28 17:36:29.343  7252  7719 D CodecProperties: setTuningValue(vq-target-bpp-1920x1080,3.80)
+09-28 17:36:29.343  7252  7719 D CodecProperties: setTuningValue(vq-target-bpp-640x480,5.25)
+09-28 17:36:29.343  7252  7719 D CodecProperties: setTuningValue(vq-target-bpp-960x540,4.63)
+09-28 17:36:29.343  7252  7719 D CodecProperties: setFeatureValue(_vq_eligible.device,1)
+09-28 17:36:29.343  7252  7719 D CodecProperties: setFeatureValue(_quality.target,1)
+09-28 17:36:29.343  7252  7719 D CodecSeeding: Seed: codec c2.qti.avc.encoder, mediatype video/avc, overrideable 0
+09-28 17:36:29.343  7252  7719 D VQApply : minquality: 2048x1536 outside of shaping range
+09-28 17:36:29.344  7252  7719 D MediaCodec: shapeMediaFormat: deltas(1): AMessage(what = 0x00000000) = {
+09-28 17:36:29.344  7252  7719 D MediaCodec:     int32_t android._encoding-quality-level = 0
+09-28 17:36:29.344  7252  7719 D MediaCodec:   }
+09-28 17:36:29.344  7252  7719 I MediaCodec: (0x78ed370000) configure surface(0x0) crypto(0x0) flags(1)
+09-28 17:36:29.344  7252  7719 D MediaCodec: (0x78ed370000) configure format: AMessage(what = 0x00000000) = {
+09-28 17:36:29.344  7252  7719 D MediaCodec:       int32_t color-format = 2130708361
+09-28 17:36:29.344  7252  7719 D MediaCodec:       float i-frame-interval = 3600.000000
+09-28 17:36:29.344  7252  7719 D MediaCodec:       int32_t level = 32768
+09-28 17:36:29.344  7252  7719 D MediaCodec:       string mime = "video/avc"
+09-28 17:36:29.344  7252  7719 D MediaCodec:       int32_t profile = 8
+09-28 17:36:29.344  7252  7719 D MediaCodec:       int32_t latency = 1
+09-28 17:36:29.344  7252  7719 D MediaCodec:       int32_t bitrate = 19000000
+09-28 17:36:29.344  7252  7719 D MediaCodec:       int32_t color-standard = 2
+09-28 17:36:29.344  7252  7719 D MediaCodec:       int32_t oo.muxer.drop_initial_non_keyframes = 1
+09-28 17:36:29.344  7252  7719 D MediaCodec:       int32_t color-transfer = 3
+09-28 17:36:29.344  7252  7719 D MediaCodec:       int32_t width = 2048
+09-28 17:36:29.344  7252  7719 D MediaCodec:       int32_t color-range = 2
+09-28 17:36:29.344  7252  7719 D MediaCodec:       int32_t frame-rate = 30
+09-28 17:36:29.344  7252  7719 D MediaCodec:       int32_t height = 1536
+09-28 17:36:29.344  7252  7719 D MediaCodec:       int32_t android._encoding-quality-level = 0
+09-28 17:36:29.344  7252  7719 D MediaCodec:     }
+09-28 17:36:29.344  7252  7737 D CCodec  : [c2.qti.avc.encoder] buffers are bound to CCodec for this session
+09-28 17:36:29.345  7252  7753 I CCodec  : setting up 'default' as default (vendor) store
+09-28 17:36:29.345  7252  7737 D CCodecConfig: no c2 equivalents for color-format
+09-28 17:36:29.346  7252  7737 D CCodecConfig: no c2 equivalents for color-standard
+09-28 17:36:29.346  7252  7737 D CCodecConfig: no c2 equivalents for oo.muxer.drop_initial_non_keyframes
+09-28 17:36:29.346  7252  7737 D CCodecConfig: no c2 equivalents for flags
+09-28 17:36:29.346  7252  7737 D CCodecConfig: no c2 equivalents for encoder
+09-28 17:36:29.349  7252  7737 D CCodecConfig: Bad parameter value
+09-28 17:36:29.349  7252  7737 D CCodecConfig: c2 config diff is   c2::u32 coded.bitrate.value = 19000000
+09-28 17:36:29.349  7252  7737 D CCodecConfig:   c2::u32 coded.pl.level = 20495
+09-28 17:36:29.349  7252  7737 D CCodecConfig:   c2::u32 coded.vui.color.matrix = 3
+09-28 17:36:29.349  7252  7737 D CCodecConfig:   c2::u32 coded.vui.color.primaries = 3
+09-28 17:36:29.349  7252  7737 D CCodecConfig:   c2::u32 coded.vui.color.range = 2
+09-28 17:36:29.349  7252  7737 D CCodecConfig:   c2::u32 coded.vui.color.transfer = 3
+09-28 17:36:29.349  7252  7737 D CCodecConfig:   c2::i64 coding.sync-frame-interval.value = 3600000000
+09-28 17:36:29.349  7252  7737 D CCodecConfig:   c2::u32 raw.color.matrix = 3
+09-28 17:36:29.349  7252  7737 D CCodecConfig:   c2::u32 raw.color.primaries = 3
+09-28 17:36:29.349  7252  7737 D CCodecConfig:   c2::u32 raw.color.range = 2
+09-28 17:36:29.349  7252  7737 D CCodecConfig:   c2::u32 raw.color.transfer = 3
+09-28 17:36:29.349  7252  7737 D CCodecConfig:   c2::u32 raw.pixel-format.value = 34
+09-28 17:36:29.349  7252  7737 D CCodecConfig:   c2::u32 raw.size.height = 1536
+09-28 17:36:29.350  7252  7325 I tflite  : Created TensorFlow Lite delegate for NNAPI.
+09-28 17:36:29.350  7252  7325 I acceleration: ModifyGraphWithDelegate model namespace: unknown_namespace model id: unknown_model_id accelerator name: NNAPI:
+09-28 17:36:29.350  7252  7737 W CCodec  : failed to configure c2 params
+09-28 17:36:29.350  7252  7504 E GoLog   : INFO: Created TensorFlow Lite delegate for NNAPI.
+09-28 17:36:29.350  7252  7733 E MediaCodec: Codec reported err 0xffffffea/BAD_VALUE, actionCode 0, while in state 3/CONFIGURING
+09-28 17:36:29.351  7252  7719 E MediaCodec: configure failed with err 0xffffffea, resetting...
+09-28 17:36:29.351  7252  7719 I MediaCodec: (0x78ed370000) release
+09-28 17:36:29.357  7252  7753 I CCodec  : Created component [c2.android.vorbis.decoder]
+09-28 17:36:29.357  7252  7753 D CCodecConfig: read media type: audio/vorbis
+09-28 17:36:29.358  7252  7719 I MediaCodec: (0x78ed370000) init name(c2.qti.avc.encoder)
+09-28 17:36:29.359  7252  7755 I hw-BpHwBinder: onLastStrongRef automatically unlinking death recipients
+09-28 17:36:29.359  7252  7737 D CCodec  : allocate(c2.qti.avc.encoder)
+09-28 17:36:29.360  7252  7753 D ReflectedParamUpdater: extent() != 1 for single value type: algo.buffers.max-count.values
+09-28 17:36:29.360  7252  7753 D ReflectedParamUpdater: extent() != 1 for single value type: output.subscribed-indices.values
+09-28 17:36:29.361  7252  7753 D ReflectedParamUpdater: extent() != 1 for single value type: input.buffers.allocator-ids.values
+09-28 17:36:29.361  7252  7753 D ReflectedParamUpdater: extent() != 1 for single value type: output.buffers.allocator-ids.values
+09-28 17:36:29.362  7252  7737 I CCodec  : setting up 'default' as default (vendor) store
+09-28 17:36:29.362  7252  7753 D ReflectedParamUpdater: extent() != 1 for single value type: algo.buffers.allocator-ids.values
+09-28 17:36:29.362  7252  7753 D ReflectedParamUpdater: extent() != 1 for single value type: output.buffers.pool-ids.values
+09-28 17:36:29.362  7252  7753 D ReflectedParamUpdater: extent() != 1 for single value type: algo.buffers.pool-ids.values
+09-28 17:36:29.364  7252  7753 I CCodecConfig: query failed after returning 8 values (BAD_INDEX)
+09-28 17:36:29.364  7252  7753 D CCodecConfig: c2 config diff is Dict {
+09-28 17:36:29.364  7252  7753 D CCodecConfig:   c2::u32 coded.bitrate.value = 64000
+09-28 17:36:29.364  7252  7753 D CCodecConfig:   c2::u32 input.buffers.max-size.value = 32768
+09-28 17:36:29.364  7252  7753 D CCodecConfig:   c2::u32 input.delay.value = 0
+09-28 17:36:29.364  7252  7753 D CCodecConfig:   string input.media-type.value = "audio/vorbis"
+09-28 17:36:29.364  7252  7753 D CCodecConfig:   c2::u32 output.large-frame.max-size = 0
+09-28 17:36:29.364  7252  7753 D CCodecConfig:   c2::u32 output.large-frame.threshold-size = 0
+09-28 17:36:29.364  7252  7753 D CCodecConfig:   string output.media-type.value = "audio/raw"
+09-28 17:36:29.364  7252  7753 D CCodecConfig:   c2::u32 raw.channel-count.value = 1
+09-28 17:36:29.364  7252  7753 D CCodecConfig:   c2::u32 raw.sample-rate.value = 48000
+09-28 17:36:29.364  7252  7753 D CCodecConfig: }
+09-28 17:36:29.365  7252  7753 I MediaCodec: (0x78d6d73800) Component Allocated (c2.android.vorbis.decoder)
+09-28 17:36:29.367  7252  7745 I MediaCodec: (0x78d6d73800) configure surface(0x0) crypto(0x0) flags(0)
+09-28 17:36:29.367  7252  7745 D MediaCodec: (0x78d6d73800) configure format: AMessage(what = 0x00000000) = {
+09-28 17:36:29.367  7252  7745 D MediaCodec:       string mime = "audio/vorbis"
+09-28 17:36:29.367  7252  7745 D MediaCodec:       int64_t durationUs = 97083
+09-28 17:36:29.367  7252  7745 D MediaCodec:       int32_t track-id = 1
+09-28 17:36:29.367  7252  7745 D MediaCodec:       Buffer csd-0 = {
+09-28 17:36:29.367  7252  7745 D MediaCodec:         00000000:  01 76 6f 72 62 69 73 00  00 00 00 01 80 bb 00 00  .vorbis.........
+09-28 17:36:29.367  7252  7745 D MediaCodec:         00000010:  00 00 00 00 c0 d4 01 00  00 00 00 00 b8 01        ..............
+09-28 17:36:29.367  7252  7745 D MediaCodec:       }
+09-28 17:36:29.367  7252  7745 D MediaCodec:       Buffer *csd-1 = 0x78d6dd63c0
+09-28 17:36:29.367  7252  7745 D MediaCodec:       int32_t bitrate = 120000
+09-28 17:36:29.367  7252  7745 D MediaCodec:       int32_t channel-count = 1
+09-28 17:36:29.367  7252  7745 D MediaCodec:       int32_t sample-rate = 48000
+09-28 17:36:29.367  7252  7745 D MediaCodec:       int32_t channel-mask = 1
+09-28 17:36:29.367  7252  7745 D MediaCodec:     }
+09-28 17:36:29.367  7252  7753 D CCodec  : [c2.android.vorbis.decoder] buffers are bound to CCodec for this session
+09-28 17:36:29.367  7252  7753 D CCodecConfig: no c2 equivalents for durationUs
+09-28 17:36:29.367  7252  7754 I CCodec  : setting up 'default' as default (vendor) store
+09-28 17:36:29.368  7252  7753 D CCodecConfig: no c2 equivalents for track-id
+09-28 17:36:29.368  7252  7753 D CCodecConfig: no c2 equivalents for csd-1
+09-28 17:36:29.368  7252  7753 D CCodecConfig: no c2 equivalents for flags
+09-28 17:36:29.369  7252  7753 D CCodecConfig: c2 config diff is   c2::u32 coded.bitrate.value = 120000
+09-28 17:36:29.369  7252  7753 W Codec2Client: query -- param skipped: index = 1107298332.
+09-28 17:36:29.369  7252  7753 D CCodec  : encoding statistics level = 0
+09-28 17:36:29.369  7252  7753 D CCodec  : setup formats input: AMessage(what = 0x00000000) = {
+09-28 17:36:29.369  7252  7753 D CCodec  :   int32_t bitrate = 120000
+09-28 17:36:29.369  7252  7753 D CCodec  :   int32_t channel-count = 1
+09-28 17:36:29.369  7252  7753 D CCodec  :   int32_t max-input-size = 32768
+09-28 17:36:29.369  7252  7753 D CCodec  :   string mime = "audio/vorbis"
+09-28 17:36:29.369  7252  7753 D CCodec  :   int32_t sample-rate = 48000
+09-28 17:36:29.369  7252  7753 D CCodec  : }
+09-28 17:36:29.370  7252  7753 D CCodec  : setup formats output: AMessage(what = 0x00000000) = {
+09-28 17:36:29.370  7252  7753 D CCodec  :   int32_t buffer-batch-max-output-size = 0
+09-28 17:36:29.370  7252  7753 D CCodec  :   int32_t buffer-batch-threshold-output-size = 0
+09-28 17:36:29.370  7252  7753 D CCodec  :   int32_t channel-count = 1
+09-28 17:36:29.370  7252  7753 D CCodec  :   string mime = "audio/raw"
+09-28 17:36:29.370  7252  7753 D CCodec  :   int32_t sample-rate = 48000
+09-28 17:36:29.370  7252  7753 D CCodec  :   int32_t channel-mask = 1
+09-28 17:36:29.370  7252  7753 D CCodec  :   int32_t android._config-pcm-encoding = 2
+09-28 17:36:29.370  7252  7753 D CCodec  : }
+09-28 17:36:29.370  7252  7753 I CCodecConfig: query failed after returning 8 values (BAD_INDEX)
+09-28 17:36:29.370  7252  7745 I MediaCodec: (0x78d6d73800) start
+09-28 17:36:29.371  7252  7753 W Codec2Client: query -- param skipped: index = 1342179345.
+09-28 17:36:29.371  7252  7753 W Codec2Client: query -- param skipped: index = 2415921170.
+09-28 17:36:29.371  7252  7753 D C2Store : Using ION
+09-28 17:36:29.372  7252  7754 I CCodec  : Created component [c2.android.vorbis.decoder]
+09-28 17:36:29.372  7252  7754 D CCodecConfig: read media type: audio/vorbis
+09-28 17:36:29.373  7252  7753 D CCodecBufferChannel: [c2.android.vorbis.decoder#768] Created input block pool with allocatorID 16 => poolID 17 - OK (0)
+09-28 17:36:29.374  7252  7754 D ReflectedParamUpdater: extent() != 1 for single value type: algo.buffers.max-count.values
+09-28 17:36:29.375  7252  7754 D ReflectedParamUpdater: extent() != 1 for single value type: output.subscribed-indices.values
+09-28 17:36:29.375  7252  7754 D ReflectedParamUpdater: extent() != 1 for single value type: input.buffers.allocator-ids.values
+09-28 17:36:29.375  7252  7754 D ReflectedParamUpdater: extent() != 1 for single value type: output.buffers.allocator-ids.values
+09-28 17:36:29.375  7252  7753 I CCodecBufferChannel: [c2.android.vorbis.decoder#768] Created output block pool with allocatorID 16 => poolID 2302 - OK
+09-28 17:36:29.376  7252  7754 D ReflectedParamUpdater: extent() != 1 for single value type: algo.buffers.allocator-ids.values
+09-28 17:36:29.376  7252  7753 D CCodecBufferChannel: [c2.android.vorbis.decoder#768] Configured output block pool ids 2302 => OK
+09-28 17:36:29.376  7252  7754 D ReflectedParamUpdater: extent() != 1 for single value type: output.buffers.pool-ids.values
+09-28 17:36:29.376  7252  7754 D ReflectedParamUpdater: extent() != 1 for single value type: algo.buffers.pool-ids.values
+09-28 17:36:29.376  7252  7753 D CCodecBufferChannel: [c2.android.vorbis.decoder#768] start: updating output delay 0
+09-28 17:36:29.377  7252  7754 I CCodecConfig: query failed after returning 8 values (BAD_INDEX)
+09-28 17:36:29.377  7252  7754 D CCodecConfig: c2 config diff is Dict {
+09-28 17:36:29.377  7252  7754 D CCodecConfig:   c2::u32 coded.bitrate.value = 64000
+09-28 17:36:29.377  7252  7754 D CCodecConfig:   c2::u32 input.buffers.max-size.value = 32768
+09-28 17:36:29.377  7252  7754 D CCodecConfig:   c2::u32 input.delay.value = 0
+09-28 17:36:29.377  7252  7754 D CCodecConfig:   string input.media-type.value = "audio/vorbis"
+09-28 17:36:29.377  7252  7754 D CCodecConfig:   c2::u32 output.large-frame.max-size = 0
+09-28 17:36:29.377  7252  7754 D CCodecConfig:   c2::u32 output.large-frame.threshold-size = 0
+09-28 17:36:29.377  7252  7754 D CCodecConfig:   string output.media-type.value = "audio/raw"
+09-28 17:36:29.377  7252  7754 D CCodecConfig:   c2::u32 raw.channel-count.value = 1
+09-28 17:36:29.377  7252  7754 D CCodecConfig:   c2::u32 raw.sample-rate.value = 48000
+09-28 17:36:29.377  7252  7754 D CCodecConfig: }
+09-28 17:36:29.378  7252  7754 I MediaCodec: (0x78d6dd0000) Component Allocated (c2.android.vorbis.decoder)
+09-28 17:36:29.378  7252  7737 I CCodec  : Created component [c2.qti.avc.encoder]
+09-28 17:36:29.379  7252  7737 D CCodecConfig: read media type: video/avc
+09-28 17:36:29.379  7252  7753 I MediaCodec: (0x78d6d73800) kWhatStartCompleted
+09-28 17:36:29.380  7252  7744 I MediaCodec: (0x78d6dd0000) configure surface(0x0) crypto(0x0) flags(0)
+09-28 17:36:29.380  7252  7744 D MediaCodec: (0x78d6dd0000) configure format: AMessage(what = 0x00000000) = {
+09-28 17:36:29.380  7252  7744 D MediaCodec:       string mime = "audio/vorbis"
+09-28 17:36:29.380  7252  7744 D MediaCodec:       int64_t durationUs = 282086
+09-28 17:36:29.380  7252  7744 D MediaCodec:       int32_t track-id = 1
+09-28 17:36:29.380  7252  7744 D MediaCodec:       Buffer csd-0 = {
+09-28 17:36:29.380  7252  7744 D MediaCodec:         00000000:  01 76 6f 72 62 69 73 00  00 00 00 01 44 ac 00 00  .vorbis.....D...
+09-28 17:36:29.380  7252  7744 D MediaCodec:         00000010:  00 00 00 00 80 38 01 00  00 00 00 00 b8 01        .....8........
+09-28 17:36:29.380  7252  7744 D MediaCodec:       }
+09-28 17:36:29.380  7252  7744 D MediaCodec:       Buffer *csd-1 = 0x78d6dd6c80
+09-28 17:36:29.380  7252  7744 D MediaCodec:       int32_t bitrate = 80000
+09-28 17:36:29.380  7252  7744 D MediaCodec:       int32_t channel-count = 1
+09-28 17:36:29.380  7252  7744 D MediaCodec:       int32_t sample-rate = 44100
+09-28 17:36:29.380  7252  7744 D MediaCodec:       int32_t channel-mask = 1
+09-28 17:36:29.380  7252  7744 D MediaCodec:     }
+09-28 17:36:29.381  7252  7754 D CCodec  : [c2.android.vorbis.decoder] buffers are bound to CCodec for this session
+09-28 17:36:29.381  7252  7754 D CCodecConfig: no c2 equivalents for durationUs
+09-28 17:36:29.381  7252  7754 D CCodecConfig: no c2 equivalents for track-id
+09-28 17:36:29.381  7252  7754 D CCodecConfig: no c2 equivalents for csd-1
+09-28 17:36:29.381  7252  7754 D CCodecConfig: no c2 equivalents for flags
+09-28 17:36:29.383  7252  7737 D ReflectedParamUpdater: ignored struct field coding.gop.values
+09-28 17:36:29.383  7252  7754 D CCodecConfig: c2 config diff is   c2::u32 coded.bitrate.value = 80000
+09-28 17:36:29.383  7252  7754 D CCodecConfig:   c2::u32 raw.sample-rate.value = 44100
+09-28 17:36:29.384  7252  7754 W Codec2Client: query -- param skipped: index = 1107298332.
+09-28 17:36:29.384  7252  7754 D CCodec  : encoding statistics level = 0
+09-28 17:36:29.385  7252  7754 D CCodec  : setup formats input: AMessage(what = 0x00000000) = {
+09-28 17:36:29.385  7252  7754 D CCodec  :   int32_t bitrate = 80000
+09-28 17:36:29.385  7252  7754 D CCodec  :   int32_t channel-count = 1
+09-28 17:36:29.385  7252  7754 D CCodec  :   int32_t max-input-size = 32768
+09-28 17:36:29.385  7252  7754 D CCodec  :   string mime = "audio/vorbis"
+09-28 17:36:29.385  7252  7754 D CCodec  :   int32_t sample-rate = 44100
+09-28 17:36:29.385  7252  7754 D CCodec  : }
+09-28 17:36:29.385  7252  7754 D CCodec  : setup formats output: AMessage(what = 0x00000000) = {
+09-28 17:36:29.385  7252  7754 D CCodec  :   int32_t buffer-batch-max-output-size = 0
+09-28 17:36:29.385  7252  7754 D CCodec  :   int32_t buffer-batch-threshold-output-size = 0
+09-28 17:36:29.385  7252  7754 D CCodec  :   int32_t channel-count = 1
+09-28 17:36:29.385  7252  7754 D CCodec  :   string mime = "audio/raw"
+09-28 17:36:29.385  7252  7754 D CCodec  :   int32_t sample-rate = 44100
+09-28 17:36:29.385  7252  7754 D CCodec  :   int32_t channel-mask = 1
+09-28 17:36:29.385  7252  7754 D CCodec  :   int32_t android._config-pcm-encoding = 2
+09-28 17:36:29.385  7252  7754 D CCodec  : }
+09-28 17:36:29.385  7252  7754 I CCodecConfig: query failed after returning 8 values (BAD_INDEX)
+09-28 17:36:29.386  7252  7744 I MediaCodec: (0x78d6dd0000) start
+09-28 17:36:29.386  7252  7737 D ReflectedParamUpdater: extent() != 1 for single value type: vendor.qti-ext-enc-info-metadata-cvp.reserved
+09-28 17:36:29.387  7252  7754 W Codec2Client: query -- param skipped: index = 1342179345.
+09-28 17:36:29.387  7252  7754 W Codec2Client: query -- param skipped: index = 2415921170.
+09-28 17:36:29.389  7252  7737 D ReflectedParamUpdater: extent() != 1 for single value type: output.buffers.pool-ids.values
+09-28 17:36:29.390  7252  7754 D CCodecBufferChannel: [c2.android.vorbis.decoder#51] Created input block pool with allocatorID 16 => poolID 18 - OK (0)
+09-28 17:36:29.393  7252  7754 I CCodecBufferChannel: [c2.android.vorbis.decoder#51] Created output block pool with allocatorID 16 => poolID 2303 - OK
+09-28 17:36:29.393  7252  7754 D CCodecBufferChannel: [c2.android.vorbis.decoder#51] Configured output block pool ids 2303 => OK
+09-28 17:36:29.394  7252  7754 D CCodecBufferChannel: [c2.android.vorbis.decoder#51] start: updating output delay 0
+09-28 17:36:29.397  7252  7754 I MediaCodec: (0x78d6dd0000) kWhatStartCompleted
+09-28 17:36:29.397  7252  7737 D CCodecConfig: ignoring local param raw.color (0xc2001809) as it is already supported
+09-28 17:36:29.398  7252  7737 I CCodecConfig: query failed after returning 23 values (BAD_INDEX)
+09-28 17:36:29.398  7252  7737 D CCodecConfig: c2 config diff is Dict {
+09-28 17:36:29.398  7252  7737 D CCodecConfig:   c2::u32 algo.bitrate-mode.value = 3
+09-28 17:36:29.398  7252  7737 D CCodecConfig:   c2::u32 algo.complexity.value = 0
+09-28 17:36:29.398  7252  7737 D CCodecConfig:   c2::i32 algo.priority.value = 0
+09-28 17:36:29.398  7252  7737 D CCodecConfig:   c2::float algo.rate.value = 30
+09-28 17:36:29.398  7252  7737 D CCodecConfig:   c2::u32 algo.secure-mode.value = 0
+09-28 17:36:29.398  7252  7737 D CCodecConfig:   c2::i32 coded.average-qp.value = 0
+09-28 17:36:29.398  7252  7737 D CCodecConfig:   c2::u32 coded.bitrate.value = 20000000
+09-28 17:36:29.398  7252  7737 D CCodecConfig:   c2::float coded.frame-rate.value = 30
+09-28 17:36:29.398  7252  7737 D CCodecConfig:   c2::u32 coded.picture-type.value = 0
+09-28 17:36:29.398  7252  7737 D CCodecConfig:   c2::u32 coded.pl.level = 0
+09-28 17:36:29.398  7252  7737 D CCodecConfig:   c2::u32 coded.pl.profile = 20484
+09-28 17:36:29.398  7252  7737 D CCodecConfig:   c2::u32 coded.vui.color.matrix = 255
+09-28 17:36:29.398  7252  7737 D CCodecConfig:   c2::u32 coded.vui.color.primaries = 0
+09-28 17:36:29.398  7252  7737 D CCodecConfig:   c2::u32 coded.vui.color.range = 0
+09-28 17:36:29.398  7252  7737 D CCodecConfig:   c2::u32 coded.vui.color.transfer = 255
+09-28 17:36:29.398  7252  7737 D CCodecConfig:   c2::u32 coding.intra-refresh.mode = 0
+09-28 17:36:29.398  7252  7737 D CCodecConfig:   c2::float coding.intra-refresh.period = 0
+09-28 17:36:29.398  7252  7737 D CCodecConfig:   c2::u32 coding.request-sync-frame.value = 0
+09-28 17:36:29.398  7252  7737 D CCodecConfig:   c2::i64 coding.sync-frame-interval.value = 1000000
+09-28 17:36:29.398  7252  7737 D CCodecConfig:   Buffer coding.temporal-layering = {
+09-28 17:36:29.398  7252  7737 D CCodecConfig:     00000000:  10 00 00 00 07 20 01 52  00 00 00 00 00 00 00 00  ..... .R........
+09-28 17:36:29.398  7252  7737 D CCodecConfig:   }
+09-28 17:36:29.398  7252  7737 D CCodecConfig:   c2::u32 default.color.matrix = 0
+09-28 17:36:29.398  7252  7737 D CCodecConfig:   c2::u32 default.color.primaries = 0
+09-28 17:36:29.398  7252  7737 D CCodecConfig:   c2::u32 default.color.range = 0
+09-28 17:36:29.398  7252  7737 D CCodecConfig:   c2::u32 default.color.trans
+09-28 17:36:29.399  7252  7737 W ColorUtils: expected specified color aspects (0:0:255:255)
+09-28 17:36:29.399  7252  7733 I MediaCodec: (0x78ed370000) Component Allocated (c2.qti.avc.encoder)
+09-28 17:36:29.418  7252  7719 W CAM_A   : Failed to prewarm MomentsTrackEncoder! Will instantiate during snapshot.
+09-28 17:36:29.418  7252  7719 W CAM_A   : java.lang.IllegalArgumentException: 
+09-28 17:36:29.418  7252  7719 W CAM_A   : 	at android.media.MediaCodec.native_configure(Native Method)
+09-28 17:36:29.418  7252  7719 W CAM_A   : 	at android.media.MediaCodec.configure(MediaCodec.java:2436)
+09-28 17:36:29.418  7252  7719 W CAM_A   : 	at android.media.MediaCodec.configure(MediaCodec.java:2339)
+09-28 17:36:29.418  7252  7719 W CAM_A   : 	at gbd.<init>(Unknown Source:39)
+09-28 17:36:29.418  7252  7719 W CAM_A   : 	at gea.c(Unknown Source:33)
+09-28 17:36:29.418  7252  7719 W CAM_A   : 	at gea.b(Unknown Source:1)
+09-28 17:36:29.418  7252  7719 W CAM_A   : 	at gei.b(Unknown Source:7)
+09-28 17:36:29.418  7252  7719 W CAM_A   : 	at gbz.run(Unknown Source:2)
+09-28 17:36:29.418  7252  7719 W CAM_A   : 	at dvm.run(Unknown Source:36)
+09-28 17:36:29.418  7252  7719 W CAM_A   : 	at android.os.Handler.handleCallback(Handler.java:1001)
+09-28 17:36:29.418  7252  7719 W CAM_A   : 	at android.os.Handler.dispatchMessage(Handler.java:105)
+09-28 17:36:29.418  7252  7719 W CAM_A   : 	at android.os.Looper.loopOnce(Looper.java:268)
+09-28 17:36:29.418  7252  7719 W CAM_A   : 	at android.os.Looper.loop(Looper.java:384)
+09-28 17:36:29.418  7252  7719 W CAM_A   : 	at android.os.HandlerThread.run(HandlerThread.java:103)
+09-28 17:36:29.464  7252  7719 D nativeloader: Load /data/app/~~a9wSP1_7Mh4guBjRSfWJ0g==/com.google.android.GoogleCameraEngR18F1-bL_BM-ubZWzVdyQdTxFqBA==/lib/arm64/libaesthetic_scorer_nima_v2_jni.so using class loader ns clns-7 (caller=/data/app/~~a9wSP1_7Mh4guBjRSfWJ0g==/com.google.android.GoogleCameraEngR18F1-bL_BM-ubZWzVdyQdTxFqBA==/base.apk): ok
+09-28 17:36:29.479  7252  7719 I tflite  : Initialized TensorFlow Lite runtime.
+09-28 17:36:29.479  7252  7504 E GoLog   : INFO: Initialized TensorFlow Lite runtime.
+09-28 17:36:29.491  7252  7745 I MediaCodec: (0x78d6d73800) stop
+09-28 17:36:29.491  7252  7753 D CCodecBufferChannel: [c2.android.vorbis.decoder#768] MediaCodec discarded an unknown buffer
+09-28 17:36:29.491  7252  7753 D CCodecBufferChannel: [c2.android.vorbis.decoder#768] MediaCodec discarded an unknown buffer
+09-28 17:36:29.492  7252  7762 D MediaCodecList: codecHandlesFormat: no format, so no extra checks
+09-28 17:36:29.493  7252  7762 D MediaCodecList: codecHandlesFormat: no format, so no extra checks
+09-28 17:36:29.493  7252  7745 I MediaCodec: (0x78d6d73800) release
+09-28 17:36:29.496  7252  7762 I MediaCodec: (0x78d6dd1800) init name(c2.qti.avc.encoder)
+09-28 17:36:29.507  7252  7753 I hw-BpHwBinder: onLastStrongRef automatically unlinking death recipients
+09-28 17:36:29.511  7252  7767 D CCodec  : allocate(c2.qti.avc.encoder)
+09-28 17:36:29.519  7252  7767 I CCodec  : setting up 'default' as default (vendor) store
+09-28 17:36:29.533  7252  7767 I CCodec  : Created component [c2.qti.avc.encoder]
+09-28 17:36:29.533  7252  7767 D CCodecConfig: read media type: video/avc
+09-28 17:36:29.535  7252  7767 D ReflectedParamUpdater: extent() != 1 for single value type: output.buffers.pool-ids.values
+09-28 17:36:29.539  7252  7771 W CAM_A   : Could not find previous metadata for frame at 255596512625724
+09-28 17:36:29.554  7252  7767 D ReflectedParamUpdater: ignored struct field coding.gop.values
+09-28 17:36:29.559  7252  7767 D ReflectedParamUpdater: extent() != 1 for single value type: vendor.qti-ext-enc-info-metadata-cvp.reserved
+09-28 17:36:29.562  7252  7767 D CCodecConfig: ignoring local param raw.color (0xc2001809) as it is already supported
+09-28 17:36:29.563  7252  7767 I CCodecConfig: query failed after returning 23 values (BAD_INDEX)
+09-28 17:36:29.563  7252  7767 D CCodecConfig: c2 config diff is Dict {
+09-28 17:36:29.563  7252  7767 D CCodecConfig:   c2::u32 algo.bitrate-mode.value = 3
+09-28 17:36:29.563  7252  7767 D CCodecConfig:   c2::u32 algo.complexity.value = 0
+09-28 17:36:29.563  7252  7767 D CCodecConfig:   c2::i32 algo.priority.value = 0
+09-28 17:36:29.563  7252  7767 D CCodecConfig:   c2::float algo.rate.value = 30
+09-28 17:36:29.563  7252  7767 D CCodecConfig:   c2::u32 algo.secure-mode.value = 0
+09-28 17:36:29.563  7252  7767 D CCodecConfig:   c2::i32 coded.average-qp.value = 0
+09-28 17:36:29.563  7252  7767 D CCodecConfig:   c2::u32 coded.bitrate.value = 20000000
+09-28 17:36:29.563  7252  7767 D CCodecConfig:   c2::float coded.frame-rate.value = 30
+09-28 17:36:29.563  7252  7767 D CCodecConfig:   c2::u32 coded.picture-type.value = 0
+09-28 17:36:29.563  7252  7767 D CCodecConfig:   c2::u32 coded.pl.level = 0
+09-28 17:36:29.563  7252  7767 D CCodecConfig:   c2::u32 coded.pl.profile = 20484
+09-28 17:36:29.563  7252  7767 D CCodecConfig:   c2::u32 coded.vui.color.matrix = 255
+09-28 17:36:29.563  7252  7767 D CCodecConfig:   c2::u32 coded.vui.color.primaries = 0
+09-28 17:36:29.563  7252  7767 D CCodecConfig:   c2::u32 coded.vui.color.range = 0
+09-28 17:36:29.563  7252  7767 D CCodecConfig:   c2::u32 coded.vui.color.transfer = 255
+09-28 17:36:29.563  7252  7767 D CCodecConfig:   c2::u32 coding.intra-refresh.mode = 0
+09-28 17:36:29.563  7252  7767 D CCodecConfig:   c2::float coding.intra-refresh.period = 0
+09-28 17:36:29.563  7252  7767 D CCodecConfig:   c2::u32 coding.request-sync-frame.value = 0
+09-28 17:36:29.563  7252  7767 D CCodecConfig:   c2::i64 coding.sync-frame-interval.value = 1000000
+09-28 17:36:29.563  7252  7767 D CCodecConfig:   Buffer coding.temporal-layering = {
+09-28 17:36:29.563  7252  7767 D CCodecConfig:     00000000:  10 00 00 00 07 20 01 52  00 00 00 00 00 00 00 00  ..... .R........
+09-28 17:36:29.563  7252  7767 D CCodecConfig:   }
+09-28 17:36:29.563  7252  7767 D CCodecConfig:   c2::u32 default.color.matrix = 0
+09-28 17:36:29.563  7252  7767 D CCodecConfig:   c2::u32 default.color.primaries = 0
+09-28 17:36:29.563  7252  7767 D CCodecConfig:   c2::u32 default.color.range = 0
+09-28 17:36:29.563  7252  7767 D CCodecConfig:   c2::u32 default.color.trans
+09-28 17:36:29.564  7252  7767 W ColorUtils: expected specified color aspects (0:0:255:255)
+09-28 17:36:29.564  7252  7764 I MediaCodec: (0x78d6dd1800) Component Allocated (c2.qti.avc.encoder)
+09-28 17:36:29.566  7252  7771 W libc    : Access denied finding property "ro.hardware.chipname"
+09-28 17:36:29.567  7252  7766 E native  : E0928 17:36:29.567311    7766 aion.cc:791] Error loading lib_aion_buffer.so dlopen failed: library "lib_aion_buffer.so" not found
+09-28 17:36:29.567  7252  7504 E GoLog   : E0928 17:36:29.567311    7766 aion.cc:791] Error loading lib_aion_buffer.so dlopen failed: library "lib_aion_buffer.so" not found
+09-28 17:36:29.568  7252  7764 I MediaCodec: MediaCodec will operate in async mode
+09-28 17:36:29.572  7252  7762 D MediaCodec: shapeMediaFormat: deltas(1): AMessage(what = 0x00000000) = {
+09-28 17:36:29.572  7252  7762 D MediaCodec:     int32_t android._encoding-quality-level = 0
+09-28 17:36:29.572  7252  7762 D MediaCodec:   }
+09-28 17:36:29.573  7252  7293 I tflite  : Initialized TensorFlow Lite runtime.
+09-28 17:36:29.573  7252  7504 E GoLog   : INFO: Initialized TensorFlow Lite runtime.
+09-28 17:36:29.573  7252  7762 I MediaCodec: (0x78d6dd1800) configure surface(0x0) crypto(0x0) flags(1)
+09-28 17:36:29.576  7252  7762 D MediaCodec: (0x78d6dd1800) configure format: AMessage(what = 0x00000000) = {
+09-28 17:36:29.576  7252  7762 D MediaCodec:       int32_t color-format = 2130708361
+09-28 17:36:29.576  7252  7762 D MediaCodec:       float i-frame-interval = 0.233333
+09-28 17:36:29.576  7252  7762 D MediaCodec:       int32_t level = 32768
+09-28 17:36:29.576  7252  7762 D MediaCodec:       string mime = "video/avc"
+09-28 17:36:29.576  7252  7762 D MediaCodec:       int32_t profile = 8
+09-28 17:36:29.576  7252  7762 D MediaCodec:       int32_t bitrate = 12000000
+09-28 17:36:29.576  7252  7762 D MediaCodec:       int32_t color-standard = 2
+09-28 17:36:29.576  7252  7762 D MediaCodec:       int32_t oo.muxer.drop_initial_non_keyframes = 1
+09-28 17:36:29.576  7252  7762 D MediaCodec:       int32_t color-transfer = 3
+09-28 17:36:29.576  7252  7762 D MediaCodec:       int32_t width = 640
+09-28 17:36:29.576  7252  7762 D MediaCodec:       int32_t color-range = 2
+09-28 17:36:29.576  7252  7762 D MediaCodec:       int32_t frame-rate = 30
+09-28 17:36:29.576  7252  7762 D MediaCodec:       int32_t height = 480
+09-28 17:36:29.576  7252  7762 D MediaCodec:       int32_t android._encoding-quality-level = 0
+09-28 17:36:29.576  7252  7762 D MediaCodec:     }
+09-28 17:36:29.576  7252  7767 D CCodec  : [c2.qti.avc.encoder] buffers are bound to CCodec for this session
+09-28 17:36:29.578  7252  7767 D CCodecConfig: no c2 equivalents for color-format
+09-28 17:36:29.578  7252  7767 D CCodecConfig: no c2 equivalents for color-standard
+09-28 17:36:29.578  7252  7767 D CCodecConfig: no c2 equivalents for oo.muxer.drop_initial_non_keyframes
+09-28 17:36:29.578  7252  7767 D CCodecConfig: no c2 equivalents for flags
+09-28 17:36:29.578  7252  7767 D CCodecConfig: no c2 equivalents for encoder
+09-28 17:36:29.581  7252  7774 I tflite  : Replacing 271 node(s) with delegate (TfLiteGpuDelegate_New) node, yielding 1 partitions.
+09-28 17:36:29.581  7252  7504 E GoLog   : INFO: Replacing 271 node(s) with delegate (TfLiteGpuDelegate_New) node, yielding 1 partitions.
+09-28 17:36:29.582  7252  7767 D CCodecConfig: c2 config diff is   c2::u32 coded.bitrate.value = 12000000
+09-28 17:36:29.582  7252  7767 D CCodecConfig:   c2::u32 coded.pl.level = 20495
+09-28 17:36:29.582  7252  7767 D CCodecConfig:   c2::u32 coded.vui.color.matrix = 3
+09-28 17:36:29.582  7252  7767 D CCodecConfig:   c2::u32 coded.vui.color.primaries = 3
+09-28 17:36:29.582  7252  7767 D CCodecConfig:   c2::u32 coded.vui.color.range = 2
+09-28 17:36:29.582  7252  7767 D CCodecConfig:   c2::u32 coded.vui.color.transfer = 3
+09-28 17:36:29.582  7252  7767 D CCodecConfig:   c2::i64 coding.sync-frame-interval.value = 233333
+09-28 17:36:29.582  7252  7767 D CCodecConfig:   c2::u32 raw.color.matrix = 3
+09-28 17:36:29.582  7252  7767 D CCodecConfig:   c2::u32 raw.color.primaries = 3
+09-28 17:36:29.582  7252  7767 D CCodecConfig:   c2::u32 raw.color.range = 2
+09-28 17:36:29.582  7252  7767 D CCodecConfig:   c2::u32 raw.color.transfer = 3
+09-28 17:36:29.582  7252  7767 D CCodecConfig:   c2::u32 raw.pixel-format.value = 34
+09-28 17:36:29.582  7252  7767 D CCodecConfig:   c2::u32 raw.size.height = 480
+09-28 17:36:29.582  7252  7767 D CCodecConfig:   c2::u32 raw.size.width = 640
+09-28 17:36:29.584  7252  7325 W pkr     : CaptureResult is present COLOR_CORRECTION_GAINS NEUTRAL.
+09-28 17:36:29.586  7252  7767 W Codec2Client: query -- param skipped: index = 3254781982.
+09-28 17:36:29.586  7252  7767 D CCodec  : encoding statistics level = 0
+09-28 17:36:29.587  7252  7767 D CCodec  : setup formats input: AMessage(what = 0x00000000) = {
+09-28 17:36:29.587  7252  7767 D CCodec  :   int32_t android._color-format = 2130708361
+09-28 17:36:29.587  7252  7767 D CCodec  :   Rect crop(0, 0, 639, 479)
+09-28 17:36:29.587  7252  7767 D CCodec  :   int32_t color-standard = 2
+09-28 17:36:29.587  7252  7767 D CCodec  :   int32_t color-range = 2
+09-28 17:36:29.587  7252  7767 D CCodec  :   int32_t color-transfer = 3
+09-28 17:36:29.587  7252  7767 D CCodec  :   int32_t video-qp-average = 0
+09-28 17:36:29.587  7252  7767 D CCodec  :   int32_t width = 640
+09-28 17:36:29.587  7252  7767 D CCodec  :   int32_t feature-secure-playback = 0
+09-28 17:36:29.587  7252  7767 D CCodec  :   int32_t frame-rate = 30
+09-28 17:36:29.587  7252  7767 D CCodec  :   int32_t height = 480
+09-28 17:36:29.587  7252  7767 D CCodec  :   int32_t intra-refresh-period = 0
+09-28 17:36:29.587  7252  7767 D CCodec  :   string mime = "video/raw"
+09-28 17:36:29.587  7252  7767 D CCodec  :   int32_t prepend-sps-pps-to-idr-frames = 0
+09-28 17:36:29.587  7252  7767 D CCodec  :   int32_t priority = 0
+09-28 17:36:29.587  7252  7767 D CCodec  :   Buffer hdr-static-info = {
+09-28 17:36:29.587  7252  7767 D CCodec  :     00000000:  00 00 00 00 00 00 00 00  00 00 00 00 00 00 00 00  ................
+09-28 17:36:29.587  7252  7767 D CCodec  :     00000010:  00 00 00 00 00 00 00 00  00                       .........
+09-28 17:36:29.587  7252  7767 D CCodec  :   }
+09-28 17:36:29.587  7252  7767 D CCodec  :   int32_t android._dataspace = 258
+09-28 17:36:29.587  7252  7767 D CCodec  :   int64_t android._C2MemoryUsage = 65536
+09-28 17:36:29.587  7252  7767 D CCodec  :   int32_t color-format = 2130708361
+09-28 17:36:29.587  7252  7767 D CCodec  : }
+09-28 17:36:29.587  7252  7767 D CCodec  : setup formats output: AMessage(what = 0x00000000) = {
+09-28 17:36:29.587  7252  7767 D CCodec  :   int32_t bitrate = 12000000
+09-28 17:36:29.587  7252  7767 D CCodec  :   int32_t bitrate-mode = 1
+09-28 17:36:29.587  7252  7767 D CCodec  :   Rect crop(0, 0, 639, 479)
+09-28 17:36:29.587  7252  7767 D CCodec  :   int32_t width = 640
+09-28 17:36:29.587  7252  7767 D CCodec  :   int32_t color-standard = 2
+09-28 17:36:29.587  7252  7767 D CCodec  :   int32_t color-range = 2
+09-28 17:36:29.587  7252  7767 D CCodec  :   int32_t color-transfer = 3
+09-28 17:36:29.587  7252  7767 D CCodec  :   int32_t feature-secure-playback = 0
+09-28 17:36:29.587  7252  7767 D CCodec  :   int32_t frame-rate = 30
+09-28 17:36:29.587  7252  7767 D CCodec  :   int32_t height = 480
+09-28 17:36:29.587  7252  7767 D CCodec  :   int32_t intra-refresh-period = 0
+09-28 17:36:29.587  7252  7767 D CCodec  :   int32_t max-bitrate = 12000000
+09-28 17:36:29.587  7252  7767 D CCodec  :   string mime = "video/avc"
+09-28 17:36:29.587  7252  7767 D CCodec  :   int32_t prepend-sps-pps-to-idr-frames = 0
+09-28 17:36:29.587  7252  7767 D CCodec  :   int32_t priority = 0
+09-28 17:36:29.587  7252  7767 D CCodec  :   int32_t profile = 8
+09-28 17:36:29.587  7252  7767 D CCodec  :   int32_t video-qp-average = 0
+09-28 17:36:29.587  7252  7767 D CCodec  :   int32_t level = 32768
+09-28 17:36:29.587  7252  7767 D CCodec  : }
+09-28 17:36:29.588  7252  7767 I CCodecConfig: query failed after returning 23 values (BAD_INDEX)
+09-28 17:36:29.590  7252  7767 D CCodec  : hidl based PersistentSurface created
+09-28 17:36:29.591  7252  7361 W CAM_A   : PHOTO > rel Δ(result sensor timestamp) = 1,00 > 0,25
+09-28 17:36:29.591  7252  7361 W CAM_A   : PHOTO > result sensor delay = 2,00 > 1,10
+09-28 17:36:29.592  7252  7767 D CCodec  : input format unchanged to AMessage(what = 0x00000000) = {
+09-28 17:36:29.592  7252  7767 D CCodec  :   int32_t android._color-format = 2130708361
+09-28 17:36:29.592  7252  7767 D CCodec  :   Rect crop(0, 0, 639, 479)
+09-28 17:36:29.592  7252  7767 D CCodec  :   int32_t color-standard = 2
+09-28 17:36:29.592  7252  7767 D CCodec  :   int32_t color-range = 2
+09-28 17:36:29.592  7252  7767 D CCodec  :   int32_t color-transfer = 3
+09-28 17:36:29.592  7252  7767 D CCodec  :   int32_t video-qp-average = 0
+09-28 17:36:29.592  7252  7767 D CCodec  :   int32_t width = 640
+09-28 17:36:29.592  7252  7767 D CCodec  :   int32_t feature-secure-playback = 0
+09-28 17:36:29.592  7252  7767 D CCodec  :   int32_t frame-rate = 30
+09-28 17:36:29.592  7252  7767 D CCodec  :   int32_t height = 480
+09-28 17:36:29.592  7252  7767 D CCodec  :   int32_t intra-refresh-period = 0
+09-28 17:36:29.592  7252  7767 D CCodec  :   string mime = "video/raw"
+09-28 17:36:29.592  7252  7767 D CCodec  :   int32_t prepend-sps-pps-to-idr-frames = 0
+09-28 17:36:29.592  7252  7767 D CCodec  :   int32_t priority = 0
+09-28 17:36:29.592  7252  7767 D CCodec  :   Buffer hdr-static-info = {
+09-28 17:36:29.592  7252  7767 D CCodec  :     00000000:  00 00 00 00 00 00 00 00  00 00 00 00 00 00 00 00  ................
+09-28 17:36:29.592  7252  7767 D CCodec  :     00000010:  00 00 00 00 00 00 00 00  00                       .........
+09-28 17:36:29.592  7252  7767 D CCodec  :   }
+09-28 17:36:29.592  7252  7767 D CCodec  :   int32_t android._dataspace = 258
+09-28 17:36:29.592  7252  7767 D CCodec  :   int64_t android._C2MemoryUsage = 65536
+09-28 17:36:29.592  7252  7767 D CCodec  :   int32_t color-format = 2130708361
+09-28 17:36:29.592  7252  7767 D CCodec  : }
+09-28 17:36:29.593  7252  7291 W CAM_A   : Framerate metadata does not exist for the video at content://media/external/video/media/1000019643
+09-28 17:36:29.593  7252  7767 D GraphicBufferSource: setting dataspace: 0x102, acquired=0
+09-28 17:36:29.593  7252  7767 D CCodec  : ISConfig not changed
+09-28 17:36:29.596  7252  7762 W libc    : Access denied finding property "vendor.display.enable_optimal_refresh_rate"
+09-28 17:36:29.598  7252  7762 I MediaCodec: (0x78d6dd1800) start
+09-28 17:36:29.598  7252  7762 D MediaCodec: keep callback message for reclaim
+09-28 17:36:29.616  7252  7744 I MediaCodec: (0x78d6dd0000) stop
+09-28 17:36:29.617  7252  7754 D CCodecBufferChannel: [c2.android.vorbis.decoder#51] MediaCodec discarded an unknown buffer
+09-28 17:36:29.617  7252  7767 W Codec2Client: query -- param skipped: index = 1342179345.
+09-28 17:36:29.617  7252  7754 D CCodecBufferChannel: [c2.android.vorbis.decoder#51] MediaCodec discarded an unknown buffer
+09-28 17:36:29.617  7252  7754 D CCodecBufferChannel: [c2.android.vorbis.decoder#51] MediaCodec discarded an unknown buffer
+09-28 17:36:29.617  7252  7767 W Codec2Client: query -- param skipped: index = 2415921170.
+09-28 17:36:29.618  7252  7767 W Codec2Client: query -- param skipped: index = 1610614798.
+09-28 17:36:29.619  7252  7767 D CCodecBufferChannel: [c2.qti.avc.encoder#717] Query input allocators returned 0 params => BAD_INDEX (6)
+09-28 17:36:29.619  7252  7767 D CCodecBufferChannel: [c2.qti.avc.encoder#717] Using basic input block pool with poolID 1 => got 1 - OK (0)
+09-28 17:36:29.619  7252  7767 D CCodecBufferChannel: [c2.qti.avc.encoder#717] Query output allocators returned 0 params => BAD_INDEX (6)
+09-28 17:36:29.620  7252  7744 I MediaCodec: (0x78d6dd0000) release
+09-28 17:36:29.622  7252  7767 I CCodecBufferChannel: [c2.qti.avc.encoder#717] Created output block pool with allocatorID 16 => poolID 782 - OK
+09-28 17:36:29.623  7252  7767 D CCodecBufferChannel: [c2.qti.avc.encoder#717] Configured output block pool ids 782 => OK
+09-28 17:36:29.623  7252  7767 D CCodecBufferChannel: [c2.qti.avc.encoder#717] start: updating output delay 4
+09-28 17:36:29.623  7252  7764 I MediaCodec: (0x78d6dd1800) kWhatStartCompleted
+09-28 17:36:29.627  7252  7762 D MediaCodecList: codecHandlesFormat: no format, so no extra checks
+09-28 17:36:29.628  7252  7762 I MediaCodec: (0x78ccf42000) init name(c2.android.aac.encoder)
+09-28 17:36:29.629  7252  7777 I hw-BpHwBinder: onLastStrongRef automatically unlinking death recipients
+09-28 17:36:29.630  7252  7361 W CAM_A   : PHOTO > rel Δ(result sensor timestamp) = 0,50 > 0,25
+09-28 17:36:29.636  7252  7778 D CCodec  : allocate(c2.android.aac.encoder)
+09-28 17:36:29.640  7252  7778 I CCodec  : setting up 'default' as default (vendor) store
+09-28 17:36:29.644  7252  7778 I CCodec  : Created component [c2.android.aac.encoder]
+09-28 17:36:29.644  7252  7778 D CCodecConfig: read media type: audio/mp4a-latm
+09-28 17:36:29.647  7252  7778 D ReflectedParamUpdater: extent() != 1 for single value type: algo.buffers.max-count.values
+09-28 17:36:29.648  7252  7778 D ReflectedParamUpdater: extent() != 1 for single value type: output.subscribed-indices.values
+09-28 17:36:29.648  7252  7778 D ReflectedParamUpdater: extent() != 1 for single value type: input.buffers.allocator-ids.values
+09-28 17:36:29.648  7252  7778 D ReflectedParamUpdater: extent() != 1 for single value type: output.buffers.allocator-ids.values
+09-28 17:36:29.648  7252  7778 D ReflectedParamUpdater: extent() != 1 for single value type: algo.buffers.allocator-ids.values
+09-28 17:36:29.648  7252  7778 D ReflectedParamUpdater: extent() != 1 for single value type: output.buffers.pool-ids.values
+09-28 17:36:29.648  7252  7778 D ReflectedParamUpdater: extent() != 1 for single value type: algo.buffers.pool-ids.values
+09-28 17:36:29.650  7252  7778 I CCodecConfig: query failed after returning 10 values (BAD_INDEX)
+09-28 17:36:29.650  7252  7778 D CCodecConfig: c2 config diff is Dict {
+09-28 17:36:29.650  7252  7778 D CCodecConfig:   c2::u32 coded.bitrate.value = 64000
+09-28 17:36:29.650  7252  7778 D CCodecConfig:   c2::u32 coded.pl.level = 0
+09-28 17:36:29.650  7252  7778 D CCodecConfig:   c2::u32 coded.pl.profile = 8192
+09-28 17:36:29.650  7252  7778 D CCodecConfig:   c2::u32 coding.aac-sbr-mode.value = 3
+09-28 17:36:29.650  7252  7778 D CCodecConfig:   c2::u32 input.buffers.max-size.value = 2048
+09-28 17:36:29.650  7252  7778 D CCodecConfig:   c2::u32 input.delay.value = 0
+09-28 17:36:29.650  7252  7778 D CCodecConfig:   string input.media-type.value = "audio/raw"
+09-28 17:36:29.650  7252  7778 D CCodecConfig:   c2::u32 output.large-frame.max-size = 0
+09-28 17:36:29.650  7252  7778 D CCodecConfig:   c2::u32 output.large-frame.threshold-size = 0
+09-28 17:36:29.650  7252  7778 D CCodecConfig:   string output.media-type.value = "audio/mp4a-latm"
+09-28 17:36:29.650  7252  7778 D CCodecConfig:   c2::u32 raw.channel-count.value = 1
+09-28 17:36:29.650  7252  7778 D CCodecConfig:   c2::u32 raw.sample-rate.value = 44100
+09-28 17:36:29.650  7252  7778 D CCodecConfig: }
+09-28 17:36:29.651  7252  7778 I MediaCodec: (0x78ccf42000) Component Allocated (c2.android.aac.encoder)
+09-28 17:36:29.655  7252  7778 I MediaCodec: MediaCodec will operate in async mode
+09-28 17:36:29.658  7252  7762 D CodecSeeding: Seed: codec c2.android.aac.encoder, mediatype audio/mp4a-latm, overrideable 1
+09-28 17:36:29.658  7252  7762 D CodecProperties: setFeatureValue(multiple-frames,0)
+09-28 17:36:29.658  7252  7762 D CodecProperties: setFeatureValue(_vq_eligible.device,1)
+09-28 17:36:29.658  7252  7762 D CodecProperties: setFeatureValue(_quality.target,1)
+09-28 17:36:29.658  7252  7762 D CodecSeeding: Seed: codec c2.android.aac.encoder, mediatype audio/mp4a-latm, overrideable 0
+09-28 17:36:29.658  7252  7762 D MediaCodec: shapeMediaFormat: deltas(0): AMessage(what = 0x00000000) = {
+09-28 17:36:29.658  7252  7762 D MediaCodec:   }
+09-28 17:36:29.658  7252  7762 I MediaCodec: (0x78ccf42000) configure surface(0x0) crypto(0x0) flags(1)
+09-28 17:36:29.658  7252  7762 D MediaCodec: (0x78ccf42000) configure format: AMessage(what = 0x00000000) = {
+09-28 17:36:29.658  7252  7762 D MediaCodec:       int32_t oo.muxer.force_sequential = 1
+09-28 17:36:29.658  7252  7762 D MediaCodec:       int32_t sample-rate = 48000
+09-28 17:36:29.658  7252  7762 D MediaCodec:       string mime = "audio/mp4a-latm"
+09-28 17:36:29.658  7252  7762 D MediaCodec:       int32_t channel-count = 2
+09-28 17:36:29.658  7252  7762 D MediaCodec:       int32_t aac-profile = 2
+09-28 17:36:29.658  7252  7762 D MediaCodec:       int32_t bitrate = 128000
+09-28 17:36:29.658  7252  7762 D MediaCodec:       int32_t max-input-size = 76800
+09-28 17:36:29.658  7252  7762 D MediaCodec:     }
+09-28 17:36:29.658  7252  7778 D CCodec  : [c2.android.aac.encoder] buffers are bound to CCodec for this session
+09-28 17:36:29.658  7252  7778 D CCodecConfig: no c2 equivalents for oo.muxer.force_sequential
+09-28 17:36:29.658  7252  7778 D CCodecConfig: no c2 equivalents for flags
+09-28 17:36:29.658  7252  7778 D CCodecConfig: no c2 equivalents for encoder
+09-28 17:36:29.659  7252  7778 D CCodecConfig: c2 config diff is   c2::u32 coded.bitrate.value = 128000
+09-28 17:36:29.659  7252  7778 D CCodecConfig:   c2::u32 input.buffers.max-size.value = 4096
+09-28 17:36:29.659  7252  7778 D CCodecConfig:   c2::u32 raw.channel-count.value = 2
+09-28 17:36:29.659  7252  7778 D CCodecConfig:   c2::u32 raw.sample-rate.value = 48000
+09-28 17:36:29.660  7252  7778 W Codec2Client: query -- param skipped: index = 1107298332.
+09-28 17:36:29.660  7252  7778 D CCodec  : encoding statistics level = 0
+09-28 17:36:29.660  7252  7778 D CCodec  : setup formats input: AMessage(what = 0x00000000) = {
+09-28 17:36:29.660  7252  7778 D CCodec  :   int32_t sample-rate = 48000
+09-28 17:36:29.660  7252  7778 D CCodec  :   int32_t channel-count = 2
+09-28 17:36:29.660  7252  7778 D CCodec  :   int32_t max-input-size = 76800
+09-28 17:36:29.660  7252  7778 D CCodec  :   string mime = "audio/raw"
+09-28 17:36:29.660  7252  7778 D CCodec  :   int32_t android._config-pcm-encoding = 2
+09-28 17:36:29.660  7252  7778 D CCodec  : }
+09-28 17:36:29.660  7252  7778 D CCodec  : setup formats output: AMessage(what = 0x00000000) = {
+09-28 17:36:29.660  7252  7778 D CCodec  :   int32_t sample-rate = 48000
+09-28 17:36:29.660  7252  7778 D CCodec  :   int32_t bitrate = 128000
+09-28 17:36:29.660  7252  7778 D CCodec  :   int32_t buffer-batch-max-output-size = 0
+09-28 17:36:29.660  7252  7778 D CCodec  :   int32_t buffer-batch-threshold-output-size = 0
+09-28 17:36:29.660  7252  7778 D CCodec  :   int32_t channel-count = 2
+09-28 17:36:29.660  7252  7778 D CCodec  :   int32_t level = 0
+09-28 17:36:29.660  7252  7778 D CCodec  :   int32_t max-bitrate = 128000
+09-28 17:36:29.660  7252  7778 D CCodec  :   string mime = "audio/mp4a-latm"
+09-28 17:36:29.660  7252  7778 D CCodec  :   int32_t profile = 2
+09-28 17:36:29.660  7252  7778 D CCodec  : }
+09-28 17:36:29.660  7252  7778 I CCodecConfig: query failed after returning 10 values (BAD_INDEX)
+09-28 17:36:29.661  7252  7762 I MediaCodec: (0x78ccf42000) start
+09-28 17:36:29.661  7252  7762 D MediaCodec: keep callback message for reclaim
+09-28 17:36:29.669  7252  7774 W libc    : Access denied finding property "ro.vendor.gfx.32bit.target"
+09-28 17:36:29.670  7252  7778 W Codec2Client: query -- param skipped: index = 1342179345.
+09-28 17:36:29.670  7252  7778 W Codec2Client: query -- param skipped: index = 2415921170.
+09-28 17:36:29.670  7252  7778 W Codec2Client: query -- param skipped: index = 3254792206.
+09-28 17:36:29.671  7252  7778 W Codec2Client: query -- param skipped: index = 3254792194.
+09-28 17:36:29.671  7252  7778 D CCodecBufferChannel: [c2.android.aac.encoder#59] Created input block pool with allocatorID 16 => poolID 19 - OK (0)
+09-28 17:36:29.672  7252  7778 I CCodecBufferChannel: [c2.android.aac.encoder#59] Created output block pool with allocatorID 16 => poolID 2305 - OK
+09-28 17:36:29.672  7252  7778 D CCodecBufferChannel: [c2.android.aac.encoder#59] Configured output block pool ids 2305 => OK
+09-28 17:36:29.672  7252  7778 D CCodecBufferChannel: [c2.android.aac.encoder#59] start: updating output delay 0
+09-28 17:36:29.674  7252  7778 I MediaCodec: (0x78ccf42000) kWhatStartCompleted
+09-28 17:36:29.676  7252  7778 D CCodecBufferChannel: [c2.android.aac.encoder#59] sending CSD : output format changed to AMessage(what = 0x00000000) = {
+09-28 17:36:29.676  7252  7778 D CCodecBufferChannel:   int32_t sample-rate = 48000
+09-28 17:36:29.676  7252  7778 D CCodecBufferChannel:   int32_t bitrate = 128000
+09-28 17:36:29.676  7252  7778 D CCodecBufferChannel:   int32_t buffer-batch-max-output-size = 0
+09-28 17:36:29.676  7252  7778 D CCodecBufferChannel:   int32_t buffer-batch-threshold-output-size = 0
+09-28 17:36:29.676  7252  7778 D CCodecBufferChannel:   int32_t channel-count = 2
+09-28 17:36:29.676  7252  7778 D CCodecBufferChannel:   int32_t level = 0
+09-28 17:36:29.676  7252  7778 D CCodecBufferChannel:   int32_t max-bitrate = 128000
+09-28 17:36:29.676  7252  7778 D CCodecBufferChannel:   string mime = "audio/mp4a-latm"
+09-28 17:36:29.676  7252  7778 D CCodecBufferChannel:   int32_t profile = 2
+09-28 17:36:29.676  7252  7778 D CCodecBufferChannel:   Buffer csd-0 = {
+09-28 17:36:29.676  7252  7778 D CCodecBufferChannel:     00000000:  11 90                                             ..
+09-28 17:36:29.676  7252  7778 D CCodecBufferChannel:   }
+09-28 17:36:29.676  7252  7778 D CCodecBufferChannel: }
+09-28 17:36:29.685  7252  7325 W pkr     : aeCrop exceeds preCorrectionActiveArraySize.
+09-28 17:36:29.735  7252  7259 I eCameraEngR18F1: Background concurrent copying GC freed 27MB AllocSpace bytes, 34(18MB) LOS objects, 75% free, 28MB/114MB, paused 376us,119us total 270.642ms
+09-28 17:36:29.745  7252  7261 I MediaCodec: (0x78ed370000) release
+09-28 17:36:29.746  7252  7788 I hw-BpHwBinder: onLastStrongRef automatically unlinking death recipients
+09-28 17:36:29.750  7252  7325 W pkr     : CaptureResult is present COLOR_CORRECTION_GAINS NEUTRAL.
+09-28 17:36:29.758  7252  7361 W CAM_A   : PHOTO > rel Δ(result sensor timestamp) = 1,00 > 0,25
+09-28 17:36:29.758  7252  7361 W CAM_A   : PHOTO > result sensor delay = 2,00 > 1,10
+09-28 17:36:29.760  7252  7325 W pkr     : aeCrop exceeds preCorrectionActiveArraySize.
+09-28 17:36:29.769  7252  7291 W CAM_A   : Framerate metadata does not exist for the video at content://media/external/video/media/1000019315
+09-28 17:36:29.795  7252  7361 W CAM_A   : PHOTO > rel Δ(result sensor timestamp) = 0,50 > 0,25
+09-28 17:36:29.890  7252  7325 W pkr     : CaptureResult is present COLOR_CORRECTION_GAINS NEUTRAL.
+09-28 17:36:29.897  7252  7325 W pkr     : aeCrop exceeds preCorrectionActiveArraySize.
+09-28 17:36:29.943  7252  7325 W Glide   : Failed to find GeneratedAppGlideModule. You should include an annotationProcessor compile dependency on com.github.bumptech.glide:compiler in your application and a @GlideModule annotated AppGlideModule implementation or LibraryGlideModules will be silently ignored
+09-28 17:36:30.094  7252  7325 W pkr     : CaptureResult is present COLOR_CORRECTION_GAINS NEUTRAL.
+09-28 17:36:30.107  7252  7325 W pkr     : aeCrop exceeds preCorrectionActiveArraySize.
+09-28 17:36:30.216  7252  7291 W ProtoDataStoreFlagStore: Unable to retrieve flag snapshot for com.google.android.libraries.performance.primes#com.google.android.GoogleCameraEngR18F1, using defaults.
+09-28 17:36:30.248  7252  7813 W ProtoDataStoreFlagStore: Unable to update local snapshot for com.google.android.libraries.performance.primes#com.google.android.GoogleCameraEngR18F1, may result in stale flags.
+09-28 17:36:30.248  7252  7813 W ProtoDataStoreFlagStore: java.util.concurrent.ExecutionException: java.lang.SecurityException: GoogleCertificatesRslt: not allowed: pkg=com.google.android.GoogleCameraEngR18F1, sha256=[a40da80a59d170caa950cf15c18c454d47a39b26989d8b640ecd745ba71bf5dc], atk=false, ver=253830035.true (go/gsrlt)
+09-28 17:36:30.248  7252  7813 W ProtoDataStoreFlagStore: 	at pfx.s(Unknown Source:20)
+09-28 17:36:30.248  7252  7813 W ProtoDataStoreFlagStore: 	at pfx.get(Unknown Source:21)
+09-28 17:36:30.248  7252  7813 W ProtoDataStoreFlagStore: 	at plk.I(Unknown Source:1)
+09-28 17:36:30.248  7252  7813 W ProtoDataStoreFlagStore: 	at plk.ad(Unknown Source:9)
+09-28 17:36:30.248  7252  7813 W ProtoDataStoreFlagStore: 	at nfm.d(Unknown Source:0)
+09-28 17:36:30.248  7252  7813 W ProtoDataStoreFlagStore: 	at ngq.run(Unknown Source:9)
+09-28 17:36:30.248  7252  7813 W ProtoDataStoreFlagStore: 	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:524)
+09-28 17:36:30.248  7252  7813 W ProtoDataStoreFlagStore: 	at java.util.concurrent.FutureTask.run(FutureTask.java:317)
+09-28 17:36:30.248  7252  7813 W ProtoDataStoreFlagStore: 	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:348)
+09-28 17:36:30.248  7252  7813 W ProtoDataStoreFlagStore: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1156)
+09-28 17:36:30.248  7252  7813 W ProtoDataStoreFlagStore: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:651)
+09-28 17:36:30.248  7252  7813 W ProtoDataStoreFlagStore: 	at java.lang.Thread.run(Thread.java:1119)
+09-28 17:36:30.248  7252  7813 W ProtoDataStoreFlagStore: Caused by: java.lang.SecurityException: GoogleCertificatesRslt: not allowed: pkg=com.google.android.GoogleCameraEngR18F1, sha256=[a40da80a59d170caa950cf15c18c454d47a39b26989d8b640ecd745ba71bf5dc], atk=false, ver=253830035.true (go/gsrlt)
+09-28 17:36:30.248  7252  7813 W ProtoDataStoreFlagStore: 	at android.os.Parcel.createExceptionOrNull(Parcel.java:3242)
+09-28 17:36:30.248  7252  7813 W ProtoDataStoreFlagStore: 	at android.os.Parcel.createException(Parcel.java:3226)
+09-28 17:36:30.248  7252  7813 W ProtoDataStoreFlagStore: 	at android.os.Parcel.readException(Parcel.java:3209)
+09-28 17:36:30.248  7252  7813 W ProtoDataStoreFlagStore: 	at android.os.Parcel.readException(Parcel.java:3151)
+09-28 17:36:30.248  7252  7813 W ProtoDataStoreFlagStore: 	at bmn.z(Unknown Source:10)
+09-28 17:36:30.248  7252  7813 W ProtoDataStoreFlagStore: 	at ktz.a(Unknown Source:38)
+09-28 17:36:30.248  7252  7813 W ProtoDataStoreFlagStore: 	at kjd.f(Unknown Source:10)
+09-28 17:36:30.248  7252  7813 W ProtoDataStoreFlagStore: 	at kkc.t(Unknown Source:9)
+09-28 17:36:30.248  7252  7813 W ProtoDataStoreFlagStore: 	at kkc.u(Unknown Source:22)
+09-28 17:36:30.248  7252  7813 W ProtoDataStoreFlagStore: 	at kkc.g(Unknown Source:29)
+09-28 17:36:30.248  7252  7813 W ProtoDataStoreFlagStore: 	at kkc.h(Unknown Source:76)
+09-28 17:36:30.248  7252  7813 W ProtoDataStoreFlagStore: 	at kkc.b(Unknown Source:14)
+09-28 17:36:30.248  7252  7813 W ProtoDataStoreFlagStore: 	at klz.c(Unknown Source:114)
+09-28 17:36:30.248  7252  7813 W ProtoDataStoreFlagStore: 	at klt.d(Unknown Source:6)
+09-28 17:36:30.248  7252  7813 W ProtoDataStoreFlagStore: 	at klu.handleMessage(Unknown Source:307)
+09-28 17:36:30.248  7252  7813 W ProtoDataStoreFlagStore: 	at android.os.Handler.dispatchMessage(Handler.java:112)
+09-28 17:36:30.248  7252  7813 W ProtoDataStoreFlagStore: 	at ksg.b(Unknown Source:0)
+09-28 17:36:30.248  7252  7813 W ProtoDataStoreFlagStore: 	at ksg.dispatchMessage(Unknown Source:0)
+09-28 17:36:30.248  7252  7813 W ProtoDataStoreFlagStore: 	at android.os.Looper.loopOnce(Looper.java:268)
+09-28 17:36:30.248  7252  7813 W ProtoDataStoreFlagStore: 	at android.os.Looper.loop(Looper.java:384)
+09-28 17:36:30.248  7252  7813 W ProtoDataStoreFlagStore: 	at android.os.HandlerThread.run(HandlerThread.java:103)
+09-28 17:36:30.300  7252  7293 W pkr     : CaptureResult is present COLOR_CORRECTION_GAINS NEUTRAL.
+09-28 17:36:30.312  7252  7293 W pkr     : aeCrop exceeds preCorrectionActiveArraySize.
+09-28 17:36:30.471  7252  7252 W eCameraEngR18F1: Unable to open libdolphin.so: dlopen failed: library "libdolphin.so" not found.
+09-28 17:36:30.502  7252  7293 W pkr     : CaptureResult is present COLOR_CORRECTION_GAINS NEUTRAL.
+09-28 17:36:30.512  7252  7293 W pkr     : aeCrop exceeds preCorrectionActiveArraySize.
+09-28 17:36:30.601  7252  7252 W MediaFsQModule: Returning Q MediaFs implementation
+09-28 17:36:30.690  7252  7293 W pkr     : CaptureResult is present COLOR_CORRECTION_GAINS NEUTRAL.
+09-28 17:36:30.702  7252  7293 W pkr     : aeCrop exceeds preCorrectionActiveArraySize.
+09-28 17:36:30.891  7252  7293 W pkr     : CaptureResult is present COLOR_CORRECTION_GAINS NEUTRAL.
+09-28 17:36:30.902  7252  7293 W pkr     : aeCrop exceeds preCorrectionActiveArraySize.
+09-28 17:36:31.079  7252  7816 W pkr     : CaptureResult is present COLOR_CORRECTION_GAINS NEUTRAL.
+09-28 17:36:31.083  7252  7816 W pkr     : aeCrop exceeds preCorrectionActiveArraySize.
+09-28 17:36:31.091  7252  7816 W pkr     : CaptureResult is present COLOR_CORRECTION_GAINS NEUTRAL.
+09-28 17:36:31.099  7252  7816 W pkr     : aeCrop exceeds preCorrectionActiveArraySize.
+09-28 17:36:31.200  7252  7325 W pkr     : CaptureResult is present COLOR_CORRECTION_GAINS NEUTRAL.
+09-28 17:36:31.222  7252  7325 W pkr     : aeCrop exceeds preCorrectionActiveArraySize.
+09-28 17:36:31.386  7252  7325 W pkr     : CaptureResult is present COLOR_CORRECTION_GAINS NEUTRAL.
+09-28 17:36:31.393  7252  7325 W pkr     : aeCrop exceeds preCorrectionActiveArraySize.
+09-28 17:36:31.486  7252  7816 W pkr     : CaptureResult is present COLOR_CORRECTION_GAINS NEUTRAL.
+09-28 17:36:31.498  7252  7509 E libgcam : [camera_motion_blur_estimator.cc:57]: EstimateCameraMotionBlur: Can't estimate camera motion blur, because gyro data is missing.
+09-28 17:36:31.543  7252  7361 W CAM_A   : PHOTO > rel Δ(result sensor timestamp) = 1,00 > 0,25
+09-28 17:36:31.549  7252  7816 W pkr     : CaptureResult is present COLOR_CORRECTION_GAINS NEUTRAL.
+09-28 17:36:31.565  7252  7509 E libgcam : [camera_motion_blur_estimator.cc:57]: EstimateCameraMotionBlur: Can't estimate camera motion blur, because gyro data is missing.
+09-28 17:36:31.601  7252  7816 W pkr     : CaptureResult is present COLOR_CORRECTION_GAINS NEUTRAL.
+09-28 17:36:31.611  7252  7509 E libgcam : [camera_motion_blur_estimator.cc:57]: EstimateCameraMotionBlur: Can't estimate camera motion blur, because gyro data is missing.
+09-28 17:36:31.676  7252  7816 W pkr     : CaptureResult is present COLOR_CORRECTION_GAINS NEUTRAL.
+09-28 17:36:31.686  7252  7509 E libgcam : [camera_motion_blur_estimator.cc:57]: EstimateCameraMotionBlur: Can't estimate camera motion blur, because gyro data is missing.
+09-28 17:36:31.726  7252  7816 W pkr     : CaptureResult is present COLOR_CORRECTION_GAINS NEUTRAL.
+09-28 17:36:31.733  7252  7509 E libgcam : [camera_motion_blur_estimator.cc:57]: EstimateCameraMotionBlur: Can't estimate camera motion blur, because gyro data is missing.
+09-28 17:36:31.786  7252  7816 W pkr     : CaptureResult is present COLOR_CORRECTION_GAINS NEUTRAL.
+09-28 17:36:31.796  7252  7509 E libgcam : [camera_motion_blur_estimator.cc:57]: EstimateCameraMotionBlur: Can't estimate camera motion blur, because gyro data is missing.
+09-28 17:36:31.801  7252  7509 W libgcam : [shot_helper.cc:352]: LogViewfinderAeWarnings: viewfinder_short_tet (0.000ms) is further than expected from the capture TET (791.400ms). Relative error: 100%.
+09-28 17:36:31.814  7252  7361 W CAM_A   : PHOTO > result sensor delay = 1,90 > 1,10
+09-28 17:36:31.820  7252  7361 W CAM_A   : Could not find previous metadata for frame at 255598834738588
+09-28 17:36:31.821  7252  7293 W pkr     : CaptureResult is present COLOR_CORRECTION_GAINS NEUTRAL.
+09-28 17:36:31.833  7252  7293 W pkr     : aeCrop exceeds preCorrectionActiveArraySize.
+09-28 17:36:31.848  7252  7361 W CAM_A   : PHOTO > rel Δ(result sensor timestamp) = 0,47 > 0,25
+09-28 17:36:32.056  7252  7293 W pkr     : CaptureResult is present COLOR_CORRECTION_GAINS NEUTRAL.
+09-28 17:36:32.063  7252  7293 W pkr     : aeCrop exceeds preCorrectionActiveArraySize.
+09-28 17:36:32.106  7252  7252 W CAM_A   : isListed: unknown activity. mimeType=image/* className=com.facebook.timeline.stagingground.Fb4aProfilePictureShareActivityAlias
+09-28 17:36:32.107  7252  7252 W CAM_A   : isListed: unknown activity. mimeType=image/* className=com.facebook.composer.shareintent.ImplicitShareIntentHandlerDefaultAlias
+09-28 17:36:32.107  7252  7252 W CAM_A   : isListed: unknown activity. mimeType=image/* className=com.facebook.composer.shareintent.ShareToGroupsAlias
+09-28 17:36:32.107  7252  7252 W CAM_A   : isListed: unknown activity. mimeType=image/* className=com.instagram.share.handleractivity.ShareHandlerActivity
+09-28 17:36:32.107  7252  7252 W CAM_A   : isListed: unknown activity. mimeType=image/* className=com.instagram.share.handleractivity.ReelShareHandlerActivity
+09-28 17:36:32.107  7252  7252 W CAM_A   : isListed: unknown activity. mimeType=image/* className=com.instagram.direct.share.handler.DirectExternalMediaShareActivityPhoto
+09-28 17:36:32.107  7252  7252 W CAM_A   : isListed: unknown activity. mimeType=image/* className=com.whatsapp.contact.ui.picker.ContactPicker
+09-28 17:36:32.113  7252  7252 W CAM_A   : isListed: unknown activity. mimeType=video/* className=com.facebook.composer.shareintent.ImplicitShareIntentHandlerDefaultAlias
+09-28 17:36:32.113  7252  7252 W CAM_A   : isListed: unknown activity. mimeType=video/* className=com.facebook.composer.shareintent.ShareToGroupsAlias
+09-28 17:36:32.113  7252  7252 W CAM_A   : isListed: unknown activity. mimeType=video/* className=com.facebook.inspiration.fbshorts.shareintent.InpirationFbShortsShareAlias
+09-28 17:36:32.113  7252  7252 W CAM_A   : isListed: unknown activity. mimeType=video/* className=com.instagram.share.handleractivity.ShareHandlerActivity
+09-28 17:36:32.113  7252  7252 W CAM_A   : isListed: unknown activity. mimeType=video/* className=com.instagram.share.handleractivity.ReelShareHandlerActivity
+09-28 17:36:32.113  7252  7252 W CAM_A   : isListed: unknown activity. mimeType=video/* className=com.instagram.direct.share.handler.DirectExternalMediaShareActivityVideo
+09-28 17:36:32.113  7252  7252 W CAM_A   : isListed: unknown activity. mimeType=video/* className=com.whatsapp.contact.ui.picker.ContactPicker
+09-28 17:36:32.218  7252  7293 W pkr     : CaptureResult is present COLOR_CORRECTION_GAINS NEUTRAL.
+09-28 17:36:32.226  7252  7293 W pkr     : aeCrop exceeds preCorrectionActiveArraySize.
+09-28 17:36:32.428  7252  7325 W pkr     : CaptureResult is present COLOR_CORRECTION_GAINS NEUTRAL.
+09-28 17:36:32.456  7252  7325 W pkr     : aeCrop exceeds preCorrectionActiveArraySize.
+09-28 17:36:32.619  7252  7293 W pkr     : CaptureResult is present COLOR_CORRECTION_GAINS NEUTRAL.
+09-28 17:36:32.638  7252  7293 W pkr     : aeCrop exceeds preCorrectionActiveArraySize.
+09-28 17:36:32.659  7252  7252 W FinishThread: type=1400 audit(0.0:117399): avc:  granted  { execute } for  path="/data/user/0/com.google.android.GoogleCameraEngR18F1/files/libpatched_jni.so" dev="dm-51" ino=355953 scontext=u:r:untrusted_app_29:s0:c90,c257,c512,c768 tcontext=u:object_r:app_data_file:s0:c90,c257,c512,c768 tclass=file app=com.google.android.GoogleCameraEngR18F1
+09-28 17:36:32.664  7252  7513 W CAM_A   : Ignored Rectiface warpfield re-initialization.
+09-28 17:36:32.659  7252  7252 W FinishThread: type=1400 audit(0.0:117400): avc:  granted  { execute } for  path="/data/user/0/com.google.android.GoogleCameraEngR18F1/files/libpatched_jni.so" dev="dm-51" ino=355953 scontext=u:r:untrusted_app_29:s0:c90,c257,c512,c768 tcontext=u:object_r:app_data_file:s0:c90,c257,c512,c768 tclass=file app=com.google.android.GoogleCameraEngR18F1
+09-28 17:36:32.669  7252  7513 W native  : W0928 17:36:32.668939    7513 rectiface_hdrplus_option_factory.cc:94] Invalid device_os_version string!motorola/fogos_gpn/fogos:15/V1UGS35H.75-14-9-1/2ca1c2-18a86:user/release-keys
+09-28 17:36:32.669  7252  7504 E GoLog   : W0928 17:36:32.668939    7513 rectiface_hdrplus_option_factory.cc:94] Invalid device_os_version string!motorola/fogos_gpn/fogos:15/V1UGS35H.75-14-9-1/2ca1c2-18a86:user/release-keys
+09-28 17:36:32.669  7252  7513 W native  : W0928 17:36:32.669296    7513 rectiface_hdrplus.cc:290] Rectiface: empty face landmarks - FrameMetadata may be outdated. Support will be deprecated soon.
+09-28 17:36:32.669  7252  7504 E GoLog   : W0928 17:36:32.669296    7513 rectiface_hdrplus.cc:290] Rectiface: empty face landmarks - FrameMetadata may be outdated. Support will be deprecated soon.
+09-28 17:36:32.685  7252  7799 W native  : W0928 17:36:32.685520    7799 face_tracker_gcam.cc:71] Ignore max_num_faces in face detection.
+09-28 17:36:32.685  7252  7504 E GoLog   : W0928 17:36:32.685520    7799 face_tracker_gcam.cc:71] Ignore max_num_faces in face detection.
+09-28 17:36:32.692  7252  7799 W native  : W0928 17:36:32.692644    7799 face_tracker_gcam.cc:91] Ignore roll_angle in landmark detection.
+09-28 17:36:32.692  7252  7504 E GoLog   : W0928 17:36:32.692644    7799 face_tracker_gcam.cc:91] Ignore roll_angle in landmark detection.
+09-28 17:36:32.713  7252  7834 W native  : W0928 17:36:32.713429    7834 plane_utils.cc:233] Image is reallocated due to the change of size.
+09-28 17:36:32.713  7252  7504 E GoLog   : W0928 17:36:32.713429    7834 plane_utils.cc:233] Image is reallocated due to the change of size.
+09-28 17:36:32.715  7252  7834 W native  : W0928 17:36:32.715742    7834 plane_utils.cc:233] Image is reallocated due to the change of size.
+09-28 17:36:32.716  7252  7504 E GoLog   : W0928 17:36:32.715742    7834 plane_utils.cc:233] Image is reallocated due to the change of size.
+09-28 17:36:32.727  7252  7799 W native  : W0928 17:36:32.726878    7799 face_tracker_gcam.cc:107] Memcpy incurred. This may hurt performance.
+09-28 17:36:32.727  7252  7504 E GoLog   : W0928 17:36:32.726878    7799 face_tracker_gcam.cc:107] Memcpy incurred. This may hurt performance.
+09-28 17:36:32.745  7252  7799 W libc    : Access denied finding property "ro.hardware.chipname"
+09-28 17:36:32.775  7252  7799 W native  : W0928 17:36:32.775664    7799 rectiface_processor.cc:1252] Rectiface expects fully populated external landmark. FrameMetadata may be outdated. Support will be deprecated soon.
+09-28 17:36:32.776  7252  7504 E GoLog   : W0928 17:36:32.775664    7799 rectiface_processor.cc:1252] Rectiface expects fully populated external landmark. FrameMetadata may be outdated. Support will be deprecated soon.
+09-28 17:36:32.833  7252  7799 W native  : W0928 17:36:32.833366    7799 plane.cc:281] Memory re-allocation.
+09-28 17:36:32.833  7252  7504 E GoLog   : W0928 17:36:32.833366    7799 plane.cc:281] Memory re-allocation.
+09-28 17:36:32.834  7252  7799 W native  : W0928 17:36:32.834219    7799 plane.cc:281] Memory re-allocation.
+09-28 17:36:32.834  7252  7504 E GoLog   : W0928 17:36:32.834219    7799 plane.cc:281] Memory re-allocation.
+09-28 17:36:32.837  7252  7799 W native  : W0928 17:36:32.837238    7799 plane.cc:281] Memory re-allocation.
+09-28 17:36:32.837  7252  7799 W native  : W0928 17:36:32.837293    7799 plane.cc:281] Memory re-allocation.
+09-28 17:36:32.837  7252  7504 E GoLog   : W0928 17:36:32.837238    7799 plane.cc:281] Memory re-allocation.
+09-28 17:36:32.837  7252  7504 E GoLog   : W0928 17:36:32.837293    7799 plane.cc:281] Memory re-allocation.
+09-28 17:36:32.844  7252  7293 W pkr     : CaptureResult is present COLOR_CORRECTION_GAINS NEUTRAL.
+09-28 17:36:32.863  7252  7293 W pkr     : aeCrop exceeds preCorrectionActiveArraySize.
+09-28 17:36:33.015  7252  7293 W pkr     : CaptureResult is present COLOR_CORRECTION_GAINS NEUTRAL.
+09-28 17:36:33.020  7252  7293 W pkr     : aeCrop exceeds preCorrectionActiveArraySize.
+09-28 17:36:33.155  7252  7252 W FinishThread: type=1400 audit(0.0:117401): avc:  granted  { execute } for  path="/data/user/0/com.google.android.GoogleCameraEngR18F1/files/libpatched_jni.so" dev="dm-51" ino=355953 scontext=u:r:untrusted_app_29:s0:c90,c257,c512,c768 tcontext=u:object_r:app_data_file:s0:c90,c257,c512,c768 tclass=file app=com.google.android.GoogleCameraEngR18F1
+09-28 17:36:33.167  7252  7252 W ImageSaver-1: type=1400 audit(0.0:117402): avc:  granted  { execute } for  path="/data/user/0/com.google.android.GoogleCameraEngR18F1/files/libpatched_jni.so" dev="dm-51" ino=355953 scontext=u:r:untrusted_app_29:s0:c90,c257,c512,c768 tcontext=u:object_r:app_data_file:s0:c90,c257,c512,c768 tclass=file app=com.google.android.GoogleCameraEngR18F1
+09-28 17:36:33.210  7252  7325 W pkr     : CaptureResult is present COLOR_CORRECTION_GAINS NEUTRAL.
+09-28 17:36:33.217  7252  7325 W pkr     : aeCrop exceeds preCorrectionActiveArraySize.
+09-28 17:36:33.396  7252  7252 W CAM_A   : Placeholder drawable removed: key=ShotId-0 evicted=false
+09-28 17:36:33.417  7252  7293 W pkr     : CaptureResult is present COLOR_CORRECTION_GAINS NEUTRAL.
+09-28 17:36:33.432  7252  7293 W pkr     : aeCrop exceeds preCorrectionActiveArraySize.
+09-28 17:36:33.535  7252  7252 W CAM_A   : isListed: unknown activity. mimeType=image/* className=com.facebook.timeline.stagingground.Fb4aProfilePictureShareActivityAlias
+09-28 17:36:33.535  7252  7252 W CAM_A   : isListed: unknown activity. mimeType=image/* className=com.facebook.composer.shareintent.ImplicitShareIntentHandlerDefaultAlias
+09-28 17:36:33.535  7252  7252 W CAM_A   : isListed: unknown activity. mimeType=image/* className=com.facebook.composer.shareintent.ShareToGroupsAlias
+09-28 17:36:33.535  7252  7252 W CAM_A   : isListed: unknown activity. mimeType=image/* className=com.instagram.share.handleractivity.ShareHandlerActivity
+09-28 17:36:33.535  7252  7252 W CAM_A   : isListed: unknown activity. mimeType=image/* className=com.instagram.share.handleractivity.ReelShareHandlerActivity
+09-28 17:36:33.536  7252  7252 W CAM_A   : isListed: unknown activity. mimeType=image/* className=com.instagram.direct.share.handler.DirectExternalMediaShareActivityPhoto
+09-28 17:36:33.536  7252  7252 W CAM_A   : isListed: unknown activity. mimeType=image/* className=com.whatsapp.contact.ui.picker.ContactPicker
+09-28 17:36:33.542  7252  7252 W CAM_A   : isListed: unknown activity. mimeType=video/* className=com.facebook.composer.shareintent.ImplicitShareIntentHandlerDefaultAlias
+09-28 17:36:33.542  7252  7252 W CAM_A   : isListed: unknown activity. mimeType=video/* className=com.facebook.composer.shareintent.ShareToGroupsAlias
+09-28 17:36:33.542  7252  7252 W CAM_A   : isListed: unknown activity. mimeType=video/* className=com.facebook.inspiration.fbshorts.shareintent.InpirationFbShortsShareAlias
+09-28 17:36:33.542  7252  7252 W CAM_A   : isListed: unknown activity. mimeType=video/* className=com.instagram.share.handleractivity.ShareHandlerActivity
+09-28 17:36:33.542  7252  7252 W CAM_A   : isListed: unknown activity. mimeType=video/* className=com.instagram.share.handleractivity.ReelShareHandlerActivity
+09-28 17:36:33.542  7252  7252 W CAM_A   : isListed: unknown activity. mimeType=video/* className=com.instagram.direct.share.handler.DirectExternalMediaShareActivityVideo
+09-28 17:36:33.542  7252  7252 W CAM_A   : isListed: unknown activity. mimeType=video/* className=com.whatsapp.contact.ui.picker.ContactPicker
+09-28 17:36:33.613  7252  7293 W pkr     : CaptureResult is present COLOR_CORRECTION_GAINS NEUTRAL.
+09-28 17:36:33.629  7252  7293 W pkr     : aeCrop exceeds preCorrectionActiveArraySize.
+09-28 17:36:33.770  7252  7361 W CAM_A   : PHOTO > rel Δ(result sensor timestamp) = 1,00 > 0,25
+09-28 17:36:33.770  7252  7361 W CAM_A   : PHOTO > result sensor delay = 2,00 > 1,10
+09-28 17:36:33.805  7252  7361 W CAM_A   : PHOTO > rel Δ(result sensor timestamp) = 0,50 > 0,25
+09-28 17:36:33.842  7252  7325 W pkr     : CaptureResult is present COLOR_CORRECTION_GAINS NEUTRAL.
+09-28 17:36:33.855  7252  7325 W pkr     : aeCrop exceeds preCorrectionActiveArraySize.
+09-28 17:36:34.044  7252  7325 W pkr     : CaptureResult is present COLOR_CORRECTION_GAINS NEUTRAL.
+09-28 17:36:34.056  7252  7325 W pkr     : aeCrop exceeds preCorrectionActiveArraySize.
+09-28 17:36:34.259  7252  7293 W pkr     : CaptureResult is present COLOR_CORRECTION_GAINS NEUTRAL.
+09-28 17:36:34.272  7252  7293 W pkr     : aeCrop exceeds preCorrectionActiveArraySize.
+09-28 17:36:34.374  7252  7747 D BufferPoolAccessor2.0: bufferpool2 0x78d6e45028 : 0(0 size) total buffers - 0(0 size) used buffers - 1/7 (recycle/alloc) - 6/40 (fetch/transfer)
+09-28 17:36:34.374  7252  7747 D BufferPoolAccessor2.0: evictor expired: 1, evicted: 1
+09-28 17:36:34.449  7252  7293 W pkr     : CaptureResult is present COLOR_CORRECTION_GAINS NEUTRAL.
+09-28 17:36:34.462  7252  7293 W pkr     : aeCrop exceeds preCorrectionActiveArraySize.
+09-28 17:36:34.655  7252  7293 W pkr     : CaptureResult is present COLOR_CORRECTION_GAINS NEUTRAL.
+09-28 17:36:34.668  7252  7293 W pkr     : aeCrop exceeds preCorrectionActiveArraySize.
+09-28 17:36:34.846  7252  7293 W pkr     : CaptureResult is present COLOR_CORRECTION_GAINS NEUTRAL.
+09-28 17:36:34.856  7252  7293 W pkr     : aeCrop exceeds preCorrectionActiveArraySize.
+09-28 17:36:35.045  7252  7293 W pkr     : CaptureResult is present COLOR_CORRECTION_GAINS NEUTRAL.
+09-28 17:36:35.057  7252  7293 W pkr     : aeCrop exceeds preCorrectionActiveArraySize.
+09-28 17:36:35.244  7252  7325 W pkr     : CaptureResult is present COLOR_CORRECTION_GAINS NEUTRAL.
+09-28 17:36:35.258  7252  7325 W pkr     : aeCrop exceeds preCorrectionActiveArraySize.
+09-28 17:36:35.375  7252  7747 D BufferPoolAccessor2.0: bufferpool2 0x78d6e45828 : 0(0 size) total buffers - 0(0 size) used buffers - 2/7 (recycle/alloc) - 5/82 (fetch/transfer)
+09-28 17:36:35.375  7252  7747 D BufferPoolAccessor2.0: bufferpool2 0x78d72c8e28 : 5(384000 size) total buffers - 4(307200 size) used buffers - 0/5 (recycle/alloc) - 0/0 (fetch/transfer)
+09-28 17:36:35.375  7252  7747 D BufferPoolAccessor2.0: evictor expired: 2, evicted: 2
+09-28 17:36:35.442  7252  7293 W pkr     : CaptureResult is present COLOR_CORRECTION_GAINS NEUTRAL.
+09-28 17:36:35.458  7252  7293 W pkr     : aeCrop exceeds preCorrectionActiveArraySize.
+09-28 17:36:35.636  7252  7293 W pkr     : CaptureResult is present COLOR_CORRECTION_GAINS NEUTRAL.
+09-28 17:36:35.647  7252  7293 W pkr     : aeCrop exceeds preCorrectionActiveArraySize.
+09-28 17:36:35.837  7252  7325 W pkr     : CaptureResult is present COLOR_CORRECTION_GAINS NEUTRAL.
+09-28 17:36:35.851  7252  7325 W pkr     : aeCrop exceeds preCorrectionActiveArraySize.
+09-28 17:36:36.035  7252  7504 E GoLog   : E0928 17:36:36.034837    7760 gyro.cc:304] timestamp 255603086964702 invalid
+09-28 17:36:36.035  7252  7760 E native  : E0928 17:36:36.034837    7760 gyro.cc:304] timestamp 255603086964702 invalid
+09-28 17:36:36.035  7252  7760 E native  : E0928 17:36:36.035701    7760 gyro.cc:431] error getting quat at time 255603086964702
+09-28 17:36:36.035  7252  7760 E native  : E0928 17:36:36.035866    7760 gyro.cc:460] error getting projection matrix at time 255603086964702
+09-28 17:36:36.035  7252  7760 E native  : E0928 17:36:36.035927    7760 gyro_stabilization_jni.cc:93] Cannot get the homography transform matrix.
+09-28 17:36:36.036  7252  7504 E GoLog   : E0928 17:36:36.035701    7760 gyro.cc:431] error getting quat at time 255603086964702
+09-28 17:36:36.036  7252  7760 W CAM_A   : Transformation matrix could not be computed for timestamps 255603053713296 - 255603086964702
+09-28 17:36:36.036  7252  7504 E GoLog   : E0928 17:36:36.035866    7760 gyro.cc:460] error getting projection matrix at time 255603086964702
+09-28 17:36:36.036  7252  7504 E GoLog   : E0928 17:36:36.035927    7760 gyro_stabilization_jni.cc:93] Cannot get the homography transform matrix.
+09-28 17:36:36.036  7252  7293 W pkr     : CaptureResult is present COLOR_CORRECTION_GAINS NEUTRAL.
+09-28 17:36:36.050  7252  7293 W pkr     : aeCrop exceeds preCorrectionActiveArraySize.
+09-28 17:36:36.055  7252  7252 W libc    : Access denied finding property "vendor.display.enable_optimal_refresh_rate"
+09-28 17:36:36.059  7252  7300 D Surface : Surface::disconnect
+09-28 17:36:36.059  7252  7300 D BufferQueueProducer: [ImageReader-192x192f1u2816m2-7252-0](id:1c5400000005,api:1,p:7252,c:7252) disconnect: api 1
+09-28 17:36:36.071  7252  7325 E PhenotypeFlagCommitter: Retrieving snapshot for com.google.android.apps.camera#com.google.android.GoogleCameraEngR18F1 failed
+09-28 17:36:36.071  7252  7325 E PhenotypeFlagCommitter: java.util.concurrent.ExecutionException: java.lang.SecurityException: GoogleCertificatesRslt: not allowed: pkg=com.google.android.GoogleCameraEngR18F1, sha256=[a40da80a59d170caa950cf15c18c454d47a39b26989d8b640ecd745ba71bf5dc], atk=false, ver=253830035.true (go/gsrlt)
+09-28 17:36:36.071  7252  7325 E PhenotypeFlagCommitter: 	at mip.fb(Unknown Source:27)
+09-28 17:36:36.071  7252  7325 E PhenotypeFlagCommitter: 	at mip.cd(Unknown Source:63)
+09-28 17:36:36.071  7252  7325 E PhenotypeFlagCommitter: 	at kuc.c(Unknown Source:12)
+09-28 17:36:36.071  7252  7325 E PhenotypeFlagCommitter: 	at kuc.e(Unknown Source:35)
+09-28 17:36:36.071  7252  7325 E PhenotypeFlagCommitter: 	at kuc.b(Unknown Source:1)
+09-28 17:36:36.071  7252  7325 E PhenotypeFlagCommitter: 	at gvh.a(Unknown Source:35)
+09-28 17:36:36.071  7252  7325 E PhenotypeFlagCommitter: 	at gvj.run(Unknown Source:9)
+09-28 17:36:36.071  7252  7325 E PhenotypeFlagCommitter: 	at law.run(Unknown Source:2)
+09-28 17:36:36.071  7252  7325 E PhenotypeFlagCommitter: 	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:524)
+09-28 17:36:36.071  7252  7325 E PhenotypeFlagCommitter: 	at pio.a(Unknown Source:2)
+09-28 17:36:36.071  7252  7325 E PhenotypeFlagCommitter: 	at phs.run(Unknown Source:20)
+09-28 17:36:36.071  7252  7325 E PhenotypeFlagCommitter: 	at pip.run(Unknown Source:4)
+09-28 17:36:36.071  7252  7325 E PhenotypeFlagCommitter: 	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:524)
+09-28 17:36:36.071  7252  7325 E PhenotypeFlagCommitter: 	at java.util.concurrent.FutureTask.run(FutureTask.java:317)
+09-28 17:36:36.071  7252  7325 E PhenotypeFlagCommitter: 	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:348)
+09-28 17:36:36.071  7252  7325 E PhenotypeFlagCommitter: 	at lbh.run(Unknown Source:2)
+09-28 17:36:36.071  7252  7325 E PhenotypeFlagCommitter: 	at lbg.run(Unknown Source:0)
+09-28 17:36:36.071  7252  7325 E PhenotypeFlagCommitter: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1156)
+09-28 17:36:36.071  7252  7325 E PhenotypeFlagCommitter: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:651)
+09-28 17:36:36.071  7252  7325 E PhenotypeFlagCommitter: 	at java.lang.Thread.run(Thread.java:1119)
+09-28 17:36:36.071  7252  7325 E PhenotypeFlagCommitter: 	at lab.run(Unknown Source:5)
+09-28 17:36:36.071  7252  7325 E PhenotypeFlagCommitter: Caused by: java.lang.SecurityException: GoogleCertificatesRslt: not allowed: pkg=com.google.android.GoogleCameraEngR18F1, sha256=[a40da80a59d170caa950cf15c18c454d47a39b26989d8b640ecd745ba71bf5dc], atk=false, ver=253830035.true (go/gsrlt)
+09-28 17:36:36.071  7252  7325 E PhenotypeFlagCommitter: 	at android.os.Parcel.createExceptionOrNull(Parcel.java:3242)
+09-28 17:36:36.071  7252  7325 E PhenotypeFlagCommitter: 	at android.os.Parcel.createException(Parcel.java:3226)
+09-28 17:36:36.071  7252  7325 E PhenotypeFlagCommitter: 	at android.os.Parcel.readException(Parcel.java:3209)
+09-28 17:36:36.071  7252  7325 E PhenotypeFlagCommitter: 	at android.os.Parcel.readException(Parcel.java:3151)
+09-28 17:36:36.071  7252  7325 E PhenotypeFlagCommitter: 	at bmn.z(Unknown Source:10)
+09-28 17:36:36.071  7252  7325 E PhenotypeFlagCommitter: 	at ktz.a(Unknown Source:38)
+09-28 17:36:36.071  7252  7325 E PhenotypeFlagCommitter: 	at kjd.f(Unknown Source:10)
+09-28 17:36:36.071  7252  7325 E PhenotypeFlagCommitter: 	at kkc.t(Unknown Source:9)
+09-28 17:36:36.071  7252  7325 E PhenotypeFlagCommitter: 	at kkc.u(Unknown Source:22)
+09-28 17:36:36.071  7252  7325 E PhenotypeFlagCommitter: 	at kkc.e(Unknown Source:15)
+09-28 17:36:36.071  7252  7325 E PhenotypeFlagCommitter: 	at kkg.handleMessage(Unknown Source:920)
+09-28 17:36:36.071  7252  7325 E PhenotypeFlagCommitter: 	at android.os.Handler.dispatchMessage(Handler.java:108)
+09-28 17:36:36.071  7252  7325 E PhenotypeFlagCommitter: 	at ksg.b(Unknown Source:0)
+09-28 17:36:36.071  7252  7325 E PhenotypeFlagCommitter: 	at ksg.dispatchMessage(Unknown Source:0)
+09-28 17:36:36.071  7252  7325 E PhenotypeFlagCommitter: 	at android.os.Looper.loopOnce(Looper.java:268)
+09-28 17:36:36.071  7252  7325 E PhenotypeFlagCommitter: 	at android.os.Looper.loop(Looper.java:384)
+09-28 17:36:36.071  7252  7325 E PhenotypeFlagCommitter: 	at android.os.HandlerThread.run(HandlerThread.java:103)
+09-28 17:36:36.085  7252  7252 W CAM_A   : Disconnecting the camera device because filmstrip was launched.
+09-28 17:36:36.130  7252  7816 E native  : E0928 17:36:36.129878    7816 jni_environment.cc:81] Failed to detach current thread from the JVM. JavaVM::DetachCurrentThread returned: -1
+09-28 17:36:36.130  7252  7504 E GoLog   : E0928 17:36:36.129878    7816 jni_environment.cc:81] Failed to detach current thread from the JVM. JavaVM::DetachCurrentThread returned: -1
+09-28 17:36:36.163  7252  7743 D Surface : Surface::disconnect
+09-28 17:36:36.163  7252  7743 D BufferQueueProducer: [GraphicBufferSource](id:1c5400000004,api:1,p:7252,c:7252) disconnect: api 1
+09-28 17:36:36.164  7252  7743 W GraphicBufferSource: released unpopulated slots: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63]
+09-28 17:36:36.165  7252  7742 I MediaCodec: (0x78d6dd1800) signalEndOfInputStream
+09-28 17:36:36.176  7252  7362 W CAM_MetadataDst: onCaptureFailed for Frame 205 (images were captured)
+09-28 17:36:36.177  7252  7360 W CAM_YUV_420_888w640: Received onBufferLost from Stream-2 for frame 205 but was unable to find a matching request to abort.
+09-28 17:36:36.177  7252  7362 W CAM_MetadataDst: onCaptureFailed for Frame 207
+09-28 17:36:36.177  7252  7362 W CAM_MetadataDst: onCaptureFailed for Frame 206 (images were captured)
+09-28 17:36:36.177  7252  7362 W CAM_MetadataDst: onCaptureFailed for Frame 202 (images were captured)
+09-28 17:36:36.177  7252  7360 W CAM_YUV_420_888w640: Received onBufferLost from Stream-2 for frame 206 but was unable to find a matching request to abort.
+09-28 17:36:36.178  7252  7357 W CAM_RAW10w2320: Received onBufferLost from Stream-0 for frame 205 but was unable to find a matching request to abort.
+09-28 17:36:36.178  7252  7357 W CAM_RAW10w2320: Received onBufferLost from Stream-0 for frame 206 but was unable to find a matching request to abort.
+09-28 17:36:36.178  7252  7768 E CAM_A   : RejectedExecutionException on hkq@2530468
+09-28 17:36:36.178  7252  7768 E CAM_A   : java.util.concurrent.RejectedExecutionException: Task dvo@fad6702 rejected from java.util.concurrent.ThreadPoolExecutor@fc3a813[Terminated, pool size = 0, active threads = 0, queued tasks = 0, completed tasks = 191]
+09-28 17:36:36.178  7252  7768 E CAM_A   : 	at java.util.concurrent.ThreadPoolExecutor$AbortPolicy.rejectedExecution(ThreadPoolExecutor.java:2100)
+09-28 17:36:36.178  7252  7768 E CAM_A   : 	at java.util.concurrent.ThreadPoolExecutor.reject(ThreadPoolExecutor.java:851)
+09-28 17:36:36.178  7252  7768 E CAM_A   : 	at java.util.concurrent.ThreadPoolExecutor.execute(ThreadPoolExecutor.java:1389)
+09-28 17:36:36.178  7252  7768 E CAM_A   : 	at java.util.concurrent.Executors$DelegatedExecutorService.execute(Executors.java:715)
+09-28 17:36:36.178  7252  7768 E CAM_A   : 	at dvp.d(Unknown Source:34)
+09-28 17:36:36.178  7252  7768 E CAM_A   : 	at dvw.run(Unknown Source:27)
+09-28 17:36:36.178  7252  7768 E CAM_A   : 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1156)
+09-28 17:36:36.178  7252  7768 E CAM_A   : 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:651)
+09-28 17:36:36.178  7252  7768 E CAM_A   : 	at java.lang.Thread.run(Thread.java:1119)
+09-28 17:36:36.178  7252  7768 E CAM_A   : 	at lab.run(Unknown Source:5)
+09-28 17:36:36.185  7252  7764 I MediaCodec: [0x78d6dd1800] dequeue 1 output frames in last 135498718 ms, eos
+09-28 17:36:36.185  7252  7741 I MediaCodec: (0x78d6dd1800) stop
+09-28 17:36:36.200  7252  7741 I MediaCodec: (0x78d6dd1800) releaseAsync
+09-28 17:36:36.205  7252  7915 I hw-BpHwBinder: onLastStrongRef automatically unlinking death recipients
+09-28 17:36:36.651  7252  7252 D VRI[CameraActivity]: visibilityChanged oldVisibility=true newVisibility=false
+09-28 17:36:36.656  7252  7252 W CAM_A   : Duplicate call to stopModule; skipping stop.
+09-28 17:36:36.656  7252  7252 D Surface : Surface::disconnect
+09-28 17:36:36.656  7252  7252 D BufferQueueProducer: [SurfaceView[com.google.android.GoogleCameraEngR18F1/com.google.android.apps.camera.legacy.app.activity.main.CameraActivity](BLAST)#45090(BLAST Consumer)pid:7252](id:1c5400000003,api:4,p:1734,c:7252) disconnect: api -1
+09-28 17:36:36.689  7252  7252 W CAM_A   : Duplicate call to stopModule; skipping stop.
+09-28 17:36:36.725  7252  7300 D Surface : Surface::disconnect
+09-28 17:36:36.725  7252  7300 D BufferQueueProducer: [com.google.android.GoogleCameraEngR18F1/com.google.android.apps.camera.legacy.app.activity.main.CameraActivity#45083(BLAST Consumer)pid:7252](id:1c5400000002,api:1,p:7252,c:7252) disconnect: api 1
+09-28 17:36:36.890  7252  7748 D BufferPoolAccessor2.0: Destruction - bufferpool2 0x78d6e45028 cached: 0/0M, 0/0% in use; allocs: 7, 14% recycled; transfers: 40, 85% unfetched
+09-28 17:36:36.890  7252  7748 D BufferPoolAccessor2.0: Destruction - bufferpool2 0x78d6e45828 cached: 0/0M, 0/0% in use; allocs: 7, 29% recycled; transfers: 82, 94% unfetched
+09-28 17:36:37.143  7252  7346 D BufferQueueProducer: [SurfaceView[com.google.android.GoogleCameraEngR18F1/com.google.android.apps.camera.legacy.app.activity.main.CameraActivity](BLAST)#45090(BLAST Consumer)pid:7252](id:1c5400000003,api:4,p:1734,c:7252) disconnect: api 4
+09-28 17:36:37.143  7252  7346 D BufferQueueProducer: [ImageReader-2320x1740f25m56-7252-0](id:1c5400000000,api:4,p:1734,c:7252) disconnect: api 4
+09-28 17:36:37.151  7252  7346 D BufferQueueProducer: [ImageReader-640x480f23m52-7252-1](id:1c5400000001,api:4,p:1734,c:7252) disconnect: api 4
+09-28 17:36:37.199  7252  7346 W CAM_VirtualCameraMgr: Failed to set audio restriction on camera device.
+09-28 17:36:37.199  7252  7346 W CAM_VirtualCameraMgr: llv: java.lang.IllegalStateException: CameraDevice was already closed
+09-28 17:36:37.199  7252  7346 W CAM_VirtualCameraMgr: 	at luw.a(Unknown Source:18)
+09-28 17:36:37.199  7252  7346 W CAM_VirtualCameraMgr: 	at lzt.a(Unknown Source:2)
+09-28 17:36:37.199  7252  7346 W CAM_VirtualCameraMgr: 	at lzt.a(Unknown Source:2)
+09-28 17:36:37.199  7252  7346 W CAM_VirtualCameraMgr: 	at llg.a(Unknown Source:15)
+09-28 17:36:37.199  7252  7346 W CAM_VirtualCameraMgr: 	at ljq.run(Unknown Source:32)
+09-28 17:36:37.199  7252  7346 W CAM_VirtualCameraMgr: 	at pie.run(Unknown Source:2)
+09-28 17:36:37.199  7252  7346 W CAM_VirtualCameraMgr: 	at pif.run(Unknown Source:75)
+09-28 17:36:37.199  7252  7346 W CAM_VirtualCameraMgr: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1156)
+09-28 17:36:37.199  7252  7346 W CAM_VirtualCameraMgr: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:651)
+09-28 17:36:37.199  7252  7346 W CAM_VirtualCameraMgr: 	at java.lang.Thread.run(Thread.java:1119)
+09-28 17:36:37.199  7252  7346 W CAM_VirtualCameraMgr: 	at lab.run(Unknown Source:5)
+09-28 17:36:37.199  7252  7346 W CAM_VirtualCameraMgr: Caused by: java.lang.IllegalStateException: CameraDevice was already closed
+09-28 17:36:37.199  7252  7346 W CAM_VirtualCameraMgr: 	at android.hardware.camera2.impl.CameraDeviceImpl.checkIfCameraClosedOrInError(CameraDeviceImpl.java:2632)
+09-28 17:36:37.199  7252  7346 W CAM_VirtualCameraMgr: 	at android.hardware.camera2.impl.CameraDeviceImpl.getCameraAudioRestriction(CameraDeviceImpl.java:2697)
+09-28 17:36:37.199  7252  7346 W CAM_VirtualCameraMgr: 	at luw.a(Unknown Source:2)
+09-28 17:36:37.199  7252  7346 W CAM_VirtualCameraMgr: 	... 10 more
+09-28 17:36:37.206  7252  7346 W CAM_VirtualCameraMgr: Failed to set audio restriction on camera device.
+09-28 17:36:37.206  7252  7346 W CAM_VirtualCameraMgr: llv: java.lang.IllegalStateException: CameraDevice was already closed
+09-28 17:36:37.206  7252  7346 W CAM_VirtualCameraMgr: 	at luw.a(Unknown Source:18)
+09-28 17:36:37.206  7252  7346 W CAM_VirtualCameraMgr: 	at lzt.a(Unknown Source:2)
+09-28 17:36:37.206  7252  7346 W CAM_VirtualCameraMgr: 	at lzt.a(Unknown Source:2)
+09-28 17:36:37.206  7252  7346 W CAM_VirtualCameraMgr: 	at llg.a(Unknown Source:15)
+09-28 17:36:37.206  7252  7346 W CAM_VirtualCameraMgr: 	at ljq.run(Unknown Source:32)
+09-28 17:36:37.206  7252  7346 W CAM_VirtualCameraMgr: 	at pif.run(Unknown Source:75)
+09-28 17:36:37.206  7252  7346 W CAM_VirtualCameraMgr: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1156)
+09-28 17:36:37.206  7252  7346 W CAM_VirtualCameraMgr: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:651)
+09-28 17:36:37.206  7252  7346 W CAM_VirtualCameraMgr: 	at java.lang.Thread.run(Thread.java:1119)
+09-28 17:36:37.206  7252  7346 W CAM_VirtualCameraMgr: 	at lab.run(Unknown Source:5)
+09-28 17:36:37.206  7252  7346 W CAM_VirtualCameraMgr: Caused by: java.lang.IllegalStateException: CameraDevice was already closed
+09-28 17:36:37.206  7252  7346 W CAM_VirtualCameraMgr: 	at android.hardware.camera2.impl.CameraDeviceImpl.checkIfCameraClosedOrInError(CameraDeviceImpl.java:2632)
+09-28 17:36:37.206  7252  7346 W CAM_VirtualCameraMgr: 	at android.hardware.camera2.impl.CameraDeviceImpl.getCameraAudioRestriction(CameraDeviceImpl.java:2697)
+09-28 17:36:37.206  7252  7346 W CAM_VirtualCameraMgr: 	at luw.a(Unknown Source:2)
+09-28 17:36:37.206  7252  7346 W CAM_VirtualCameraMgr: 	... 9 more
+09-28 17:36:37.908  7252  7252 D CameraManager2: GotArray:0
+09-28 17:36:37.908  7252  7252 D CameraManager2: GotArray:1
+09-28 17:36:37.908  7252  7252 D CameraManager2: GotArray:2
+09-28 17:36:37.908  7252  7252 D CameraManager2: GotArray:3
+09-28 17:36:37.908  7252  7252 D CameraManager2: GotArray:4
+09-28 17:36:37.908  7252  7252 D CameraManager2: GotArray:5
+09-28 17:36:37.909  7252  7252 D CameraManager2: GotArray:0
+09-28 17:36:37.909  7252  7252 D CameraManager2: GotArray:1
+09-28 17:36:37.909  7252  7252 D CameraManager2: GotArray:2
+09-28 17:36:37.909  7252  7252 D CameraManager2: GotArray:3
+09-28 17:36:37.909  7252  7252 D CameraManager2: GotArray:4
+09-28 17:36:37.909  7252  7252 D CameraManager2: GotArray:5
+09-28 17:36:37.912  7252  7252 D CameraManager2: GotArray:0
+09-28 17:36:37.912  7252  7252 D CameraManager2: GotArray:1
+09-28 17:36:37.912  7252  7252 D CameraManager2: GotArray:2
+09-28 17:36:37.912  7252  7252 D CameraManager2: GotArray:3
+09-28 17:36:37.912  7252  7252 D CameraManager2: GotArray:4
+09-28 17:36:37.912  7252  7252 D CameraManager2: GotArray:5
+09-28 17:36:37.919  7252  7252 D CameraManager2: GotArray:0
+09-28 17:36:37.919  7252  7252 D CameraManager2: GotArray:1
+09-28 17:36:37.919  7252  7252 D CameraManager2: GotArray:2
+09-28 17:36:37.919  7252  7252 D CameraManager2: GotArray:3
+09-28 17:36:37.919  7252  7252 D CameraManager2: GotArray:4
+09-28 17:36:37.919  7252  7252 D CameraManager2: GotArray:5
+09-28 17:36:37.927  7252  7252 W CriticalPath: type=1400 audit(0.0:117414): avc:  denied  { read } for  name="u:object_r:vendor_display_prop:s0" dev="tmpfs" ino=1948 scontext=u:r:untrusted_app_29:s0:c90,c257,c512,c768 tcontext=u:object_r:vendor_display_prop:s0 tclass=file permissive=0 app=com.google.android.GoogleCameraEngR18F1
+09-28 17:36:37.927  7252  7252 W CriticalPath: type=1400 audit(0.0:117415): avc:  denied  { read } for  name="u:object_r:vendor_display_prop:s0" dev="tmpfs" ino=1948 scontext=u:r:untrusted_app_29:s0:c90,c257,c512,c768 tcontext=u:object_r:vendor_display_prop:s0 tclass=file permissive=0 app=com.google.android.GoogleCameraEngR18F1
+09-28 17:36:37.931  7252  7252 W eCameraEngR18F1: type=1400 audit(0.0:117416): avc:  denied  { read } for  name="u:object_r:vendor_display_prop:s0" dev="tmpfs" ino=1948 scontext=u:r:untrusted_app_29:s0:c90,c257,c512,c768 tcontext=u:object_r:vendor_display_prop:s0 tclass=file permissive=0 app=com.google.android.GoogleCameraEngR18F1
+09-28 17:36:37.931  7252  7331 W libc    : Access denied finding property "vendor.display.enable_optimal_refresh_rate"
+09-28 17:36:37.932  7252  7331 W libc    : Access denied finding property "vendor.display.enable_optimal_refresh_rate"
+09-28 17:36:37.937  7252  7252 W libc    : Access denied finding property "vendor.display.enable_optimal_refresh_rate"
+09-28 17:36:37.946  7252  7252 W libc    : Access denied finding property "vendor.display.enable_optimal_refresh_rate"
+09-28 17:36:37.950  7252  7252 W libc    : Access denied finding property "vendor.display.enable_optimal_refresh_rate"
+09-28 17:36:37.961  7252  7300 D Surface : Surface::disconnect
+09-28 17:36:37.961  7252  7300 D BufferQueueProducer: [ImageReader-192x192f1u2816m2-7252-1](id:1c540000000a,api:1,p:7252,c:7252) disconnect: api 1
+09-28 17:36:37.967  7252  7252 D Surface : Surface::disconnect
+09-28 17:36:37.967  7252  7252 D BufferQueueProducer: [](id:1c5400000009,api:0,p:0,c:7252) disconnect: api -1
+09-28 17:36:38.008  7252  7252 W libc    : Access denied finding property "vendor.display.enable_optimal_refresh_rate"
+09-28 17:36:38.042  7252  8161 W CAM_SimpleReqProcessor: Failed to add Stream-4 to CaptureRequest for Request-55. The surface (null) was not valid.
+09-28 17:36:38.055  7252  8161 W CAM_SimpleReqProcessor: Failed to add Stream-4 to CaptureRequest for Request-56.  The surface is not yet available.
+09-28 17:36:38.059  7252  7252 W CAM_A   : ModeSwitcher WAS ALREADY ENABLED!
+09-28 17:36:38.268  7252  8161 W CAM_SurfaceMap: Surface(name=null mNativeObject=519002017792)/@0xe577559 is valid but deferred streams are not yet available for CaptureSession-1
+09-28 17:36:38.268  7252  8161 W CAM_SimpleReqProcessor: Failed to add Stream-4 to CaptureRequest for Request-57.  The surface is not yet available.
+09-28 17:36:38.422  7252  8160 W CAM_A   : PHOTO > abs Δ(result sensor timestamp) = 2302,62 ms > 70,00 ms
+09-28 17:36:38.422  7252  8160 W CAM_A   : PHOTO > rel Δ(result sensor timestamp) = 68,25 > 0,25
+09-28 17:36:38.422  7252  8160 W CAM_A   : PHOTO > result sensor delay = 45,99 > 1,10
+09-28 17:36:38.428  7252  7325 I tflite  : Replacing 5 node(s) with delegate (TfLiteXNNPackDelegate) node, yielding 1 partitions.
+09-28 17:36:38.429  7252  7504 E GoLog   : INFO: Replacing 5 node(s) with delegate (TfLiteXNNPackDelegate) node, yielding 1 partitions.
+09-28 17:36:38.429  7252  7325 I acceleration: ModifyGraphWithDelegate model namespace: unknown_namespace model id: unknown_model_id accelerator name: NNAPI:
+09-28 17:36:38.435  7252  7325 W CAM_A   : Extractor (frame) of type feature.acmi.imu.frame-straightness depends on foreign type feature.acmi.imu.camera-orientation! Feature values may be calculated out of order!
+09-28 17:36:38.435  7252  7325 W CAM_A   : Extractor (frame) of type feature.acmi.imu.frame-straightness depends on foreign type feature.acmi.imu.camera-orientation! Feature values may be calculated out of order!
+09-28 17:36:38.481  7252  8275 D MediaCodecList: codecHandlesFormat: no format, so no extra checks
+09-28 17:36:38.483  7252  8275 D MediaCodecList: codecHandlesFormat: no format, so no extra checks
+09-28 17:36:38.484  7252  8275 I MediaCodec: (0x78ed32a000) init name(c2.qti.avc.encoder)
+09-28 17:36:38.484  7252  8283 D CCodec  : allocate(c2.qti.avc.encoder)
+09-28 17:36:38.508  7252  8283 I CCodec  : setting up 'default' as default (vendor) store
+09-28 17:36:38.518  7252  8160 W CAM_A   : PHOTO > abs Δ(result sensor timestamp) = 100,12 ms > 70,00 ms
+09-28 17:36:38.518  7252  8160 W CAM_A   : PHOTO > rel Δ(result sensor timestamp) = 0,96 > 0,25
+09-28 17:36:38.518  7252  8160 W CAM_A   : PHOTO > result sensor delay = 2,00 > 1,10
+09-28 17:36:38.525  7252  8283 I CCodec  : Created component [c2.qti.avc.encoder]
+09-28 17:36:38.526  7252  8283 D CCodecConfig: read media type: video/avc
+09-28 17:36:38.529  7252  8283 D ReflectedParamUpdater: ignored struct field coding.gop.values
+09-28 17:36:38.532  7252  8283 D ReflectedParamUpdater: extent() != 1 for single value type: vendor.qti-ext-enc-info-metadata-cvp.reserved
+09-28 17:36:38.534  7252  8283 D ReflectedParamUpdater: extent() != 1 for single value type: output.buffers.pool-ids.values
+09-28 17:36:38.537  7252  8283 D CCodecConfig: ignoring local param raw.color (0xc2001809) as it is already supported
+09-28 17:36:38.538  7252  8283 I CCodecConfig: query failed after returning 23 values (BAD_INDEX)
+09-28 17:36:38.538  7252  8283 D CCodecConfig: c2 config diff is Dict {
+09-28 17:36:38.538  7252  8283 D CCodecConfig:   c2::u32 algo.bitrate-mode.value = 3
+09-28 17:36:38.538  7252  8283 D CCodecConfig:   c2::u32 algo.complexity.value = 0
+09-28 17:36:38.538  7252  8283 D CCodecConfig:   c2::i32 algo.priority.value = 0
+09-28 17:36:38.538  7252  8283 D CCodecConfig:   c2::float algo.rate.value = 30
+09-28 17:36:38.538  7252  8283 D CCodecConfig:   c2::u32 algo.secure-mode.value = 0
+09-28 17:36:38.538  7252  8283 D CCodecConfig:   c2::i32 coded.average-qp.value = 0
+09-28 17:36:38.538  7252  8283 D CCodecConfig:   c2::u32 coded.bitrate.value = 20000000
+09-28 17:36:38.538  7252  8283 D CCodecConfig:   c2::float coded.frame-rate.value = 30
+09-28 17:36:38.538  7252  8283 D CCodecConfig:   c2::u32 coded.picture-type.value = 0
+09-28 17:36:38.538  7252  8283 D CCodecConfig:   c2::u32 coded.pl.level = 0
+09-28 17:36:38.538  7252  8283 D CCodecConfig:   c2::u32 coded.pl.profile = 20484
+09-28 17:36:38.538  7252  8283 D CCodecConfig:   c2::u32 coded.vui.color.matrix = 255
+09-28 17:36:38.538  7252  8283 D CCodecConfig:   c2::u32 coded.vui.color.primaries = 0
+09-28 17:36:38.538  7252  8283 D CCodecConfig:   c2::u32 coded.vui.color.range = 0
+09-28 17:36:38.538  7252  8283 D CCodecConfig:   c2::u32 coded.vui.color.transfer = 255
+09-28 17:36:38.538  7252  8283 D CCodecConfig:   c2::u32 coding.intra-refresh.mode = 0
+09-28 17:36:38.538  7252  8283 D CCodecConfig:   c2::float coding.intra-refresh.period = 0
+09-28 17:36:38.538  7252  8283 D CCodecConfig:   c2::u32 coding.request-sync-frame.value = 0
+09-28 17:36:38.538  7252  8283 D CCodecConfig:   c2::i64 coding.sync-frame-interval.value = 1000000
+09-28 17:36:38.538  7252  8283 D CCodecConfig:   Buffer coding.temporal-layering = {
+09-28 17:36:38.538  7252  8283 D CCodecConfig:     00000000:  10 00 00 00 07 20 01 52  00 00 00 00 00 00 00 00  ..... .R........
+09-28 17:36:38.538  7252  8283 D CCodecConfig:   }
+09-28 17:36:38.538  7252  8283 D CCodecConfig:   c2::u32 default.color.matrix = 0
+09-28 17:36:38.538  7252  8283 D CCodecConfig:   c2::u32 default.color.primaries = 0
+09-28 17:36:38.538  7252  8283 D CCodecConfig:   c2::u32 default.color.range = 0
+09-28 17:36:38.538  7252  8283 D CCodecConfig:   c2::u32 default.color.trans
+09-28 17:36:38.538  7252  8283 W ColorUtils: expected specified color aspects (0:0:255:255)
+09-28 17:36:38.539  7252  8276 I MediaCodec: (0x78ed32a000) Component Allocated (c2.qti.avc.encoder)
+09-28 17:36:38.542  7252  8275 D VQApply : minquality: 2048x1536 outside of shaping range
+09-28 17:36:38.542  7252  8275 D MediaCodec: shapeMediaFormat: deltas(1): AMessage(what = 0x00000000) = {
+09-28 17:36:38.542  7252  8275 D MediaCodec:     int32_t android._encoding-quality-level = 0
+09-28 17:36:38.542  7252  8275 D MediaCodec:   }
+09-28 17:36:38.542  7252  8275 I MediaCodec: (0x78ed32a000) configure surface(0x0) crypto(0x0) flags(1)
+09-28 17:36:38.542  7252  8275 D MediaCodec: (0x78ed32a000) configure format: AMessage(what = 0x00000000) = {
+09-28 17:36:38.542  7252  8275 D MediaCodec:       int32_t color-format = 2130708361
+09-28 17:36:38.542  7252  8275 D MediaCodec:       float i-frame-interval = 3600.000000
+09-28 17:36:38.542  7252  8275 D MediaCodec:       int32_t level = 32768
+09-28 17:36:38.542  7252  8275 D MediaCodec:       string mime = "video/avc"
+09-28 17:36:38.542  7252  8275 D MediaCodec:       int32_t profile = 8
+09-28 17:36:38.542  7252  8275 D MediaCodec:       int32_t latency = 1
+09-28 17:36:38.542  7252  8275 D MediaCodec:       int32_t bitrate = 19000000
+09-28 17:36:38.542  7252  8275 D MediaCodec:       int32_t color-standard = 2
+09-28 17:36:38.542  7252  8275 D MediaCodec:       int32_t oo.muxer.drop_initial_non_keyframes = 1
+09-28 17:36:38.542  7252  8275 D MediaCodec:       int32_t color-transfer = 3
+09-28 17:36:38.542  7252  8275 D MediaCodec:       int32_t width = 2048
+09-28 17:36:38.542  7252  8275 D MediaCodec:       int32_t color-range = 2
+09-28 17:36:38.542  7252  8275 D MediaCodec:       int32_t frame-rate = 30
+09-28 17:36:38.542  7252  8275 D MediaCodec:       int32_t height = 1536
+09-28 17:36:38.542  7252  8275 D MediaCodec:       int32_t android._encoding-quality-level = 0
+09-28 17:36:38.542  7252  8275 D MediaCodec:     }
+09-28 17:36:38.543  7252  8283 D CCodec  : [c2.qti.avc.encoder] buffers are bound to CCodec for this session
+09-28 17:36:38.549  7252  8283 D CCodecConfig: no c2 equivalents for color-format
+09-28 17:36:38.549  7252  8283 D CCodecConfig: no c2 equivalents for color-standard
+09-28 17:36:38.549  7252  8283 D CCodecConfig: no c2 equivalents for oo.muxer.drop_initial_non_keyframes
+09-28 17:36:38.549  7252  8283 D CCodecConfig: no c2 equivalents for flags
+09-28 17:36:38.549  7252  8283 D CCodecConfig: no c2 equivalents for encoder
+09-28 17:36:38.552  7252  8283 D CCodecConfig: Bad parameter value
+09-28 17:36:38.553  7252  8283 D CCodecConfig: c2 config diff is   c2::u32 coded.bitrate.value = 19000000
+09-28 17:36:38.553  7252  8283 D CCodecConfig:   c2::u32 coded.pl.level = 20495
+09-28 17:36:38.553  7252  8283 D CCodecConfig:   c2::u32 coded.vui.color.matrix = 3
+09-28 17:36:38.553  7252  8283 D CCodecConfig:   c2::u32 coded.vui.color.primaries = 3
+09-28 17:36:38.553  7252  8283 D CCodecConfig:   c2::u32 coded.vui.color.range = 2
+09-28 17:36:38.553  7252  8283 D CCodecConfig:   c2::u32 coded.vui.color.transfer = 3
+09-28 17:36:38.553  7252  8283 D CCodecConfig:   c2::i64 coding.sync-frame-interval.value = 3600000000
+09-28 17:36:38.553  7252  8283 D CCodecConfig:   c2::u32 raw.color.matrix = 3
+09-28 17:36:38.553  7252  8283 D CCodecConfig:   c2::u32 raw.color.primaries = 3
+09-28 17:36:38.553  7252  8283 D CCodecConfig:   c2::u32 raw.color.range = 2
+09-28 17:36:38.553  7252  8283 D CCodecConfig:   c2::u32 raw.color.transfer = 3
+09-28 17:36:38.553  7252  8283 D CCodecConfig:   c2::u32 raw.pixel-format.value = 34
+09-28 17:36:38.553  7252  8283 D CCodecConfig:   c2::u32 raw.size.height = 1536
+09-28 17:36:38.554  7252  8283 W CCodec  : failed to configure c2 params
+09-28 17:36:38.554  7252  8276 E MediaCodec: Codec reported err 0xffffffea/BAD_VALUE, actionCode 0, while in state 3/CONFIGURING
+09-28 17:36:38.557  7252  8275 E MediaCodec: configure failed with err 0xffffffea, resetting...
+09-28 17:36:38.557  7252  8275 I MediaCodec: (0x78ed32a000) release
+09-28 17:36:38.569  7252  8160 W CAM_A   : PHOTO > rel Δ(result sensor timestamp) = 0,50 > 0,25
+09-28 17:36:38.578  7252  8287 I hw-BpHwBinder: onLastStrongRef automatically unlinking death recipients
+09-28 17:36:38.583  7252  8275 I MediaCodec: (0x78ed32a000) init name(c2.qti.avc.encoder)
+09-28 17:36:38.585  7252  8283 D CCodec  : allocate(c2.qti.avc.encoder)
+09-28 17:36:38.588  7252  8283 I CCodec  : setting up 'default' as default (vendor) store
+09-28 17:36:38.593  7252  8283 I CCodec  : Created component [c2.qti.avc.encoder]
+09-28 17:36:38.593  7252  8283 D CCodecConfig: read media type: video/avc
+09-28 17:36:38.597  7252  8283 D ReflectedParamUpdater: ignored struct field coding.gop.values
+09-28 17:36:38.600  7252  8283 D ReflectedParamUpdater: extent() != 1 for single value type: vendor.qti-ext-enc-info-metadata-cvp.reserved
+09-28 17:36:38.601  7252  8283 D ReflectedParamUpdater: extent() != 1 for single value type: output.buffers.pool-ids.values
+09-28 17:36:38.605  7252  8283 D CCodecConfig: ignoring local param raw.color (0xc2001809) as it is already supported
+09-28 17:36:38.606  7252  8283 I CCodecConfig: query failed after returning 23 values (BAD_INDEX)
+09-28 17:36:38.606  7252  8283 D CCodecConfig: c2 config diff is Dict {
+09-28 17:36:38.606  7252  8283 D CCodecConfig:   c2::u32 algo.bitrate-mode.value = 3
+09-28 17:36:38.606  7252  8283 D CCodecConfig:   c2::u32 algo.complexity.value = 0
+09-28 17:36:38.606  7252  8283 D CCodecConfig:   c2::i32 algo.priority.value = 0
+09-28 17:36:38.606  7252  8283 D CCodecConfig:   c2::float algo.rate.value = 30
+09-28 17:36:38.606  7252  8283 D CCodecConfig:   c2::u32 algo.secure-mode.value = 0
+09-28 17:36:38.606  7252  8283 D CCodecConfig:   c2::i32 coded.average-qp.value = 0
+09-28 17:36:38.606  7252  8283 D CCodecConfig:   c2::u32 coded.bitrate.value = 20000000
+09-28 17:36:38.606  7252  8283 D CCodecConfig:   c2::float coded.frame-rate.value = 30
+09-28 17:36:38.606  7252  8283 D CCodecConfig:   c2::u32 coded.picture-type.value = 0
+09-28 17:36:38.606  7252  8283 D CCodecConfig:   c2::u32 coded.pl.level = 0
+09-28 17:36:38.606  7252  8283 D CCodecConfig:   c2::u32 coded.pl.profile = 20484
+09-28 17:36:38.606  7252  8283 D CCodecConfig:   c2::u32 coded.vui.color.matrix = 255
+09-28 17:36:38.606  7252  8283 D CCodecConfig:   c2::u32 coded.vui.color.primaries = 0
+09-28 17:36:38.606  7252  8283 D CCodecConfig:   c2::u32 coded.vui.color.range = 0
+09-28 17:36:38.606  7252  8283 D CCodecConfig:   c2::u32 coded.vui.color.transfer = 255
+09-28 17:36:38.606  7252  8283 D CCodecConfig:   c2::u32 coding.intra-refresh.mode = 0
+09-28 17:36:38.606  7252  8283 D CCodecConfig:   c2::float coding.intra-refresh.period = 0
+09-28 17:36:38.606  7252  8283 D CCodecConfig:   c2::u32 coding.request-sync-frame.value = 0
+09-28 17:36:38.606  7252  8283 D CCodecConfig:   c2::i64 coding.sync-frame-interval.value = 1000000
+09-28 17:36:38.606  7252  8283 D CCodecConfig:   Buffer coding.temporal-layering = {
+09-28 17:36:38.606  7252  8283 D CCodecConfig:     00000000:  10 00 00 00 07 20 01 52  00 00 00 00 00 00 00 00  ..... .R........
+09-28 17:36:38.606  7252  8283 D CCodecConfig:   }
+09-28 17:36:38.606  7252  8283 D CCodecConfig:   c2::u32 default.color.matrix = 0
+09-28 17:36:38.606  7252  8283 D CCodecConfig:   c2::u32 default.color.primaries = 0
+09-28 17:36:38.606  7252  8283 D CCodecConfig:   c2::u32 default.color.range = 0
+09-28 17:36:38.606  7252  8283 D CCodecConfig:   c2::u32 default.color.trans
+09-28 17:36:38.606  7252  8283 W ColorUtils: expected specified color aspects (0:0:255:255)
+09-28 17:36:38.607  7252  8276 I MediaCodec: (0x78ed32a000) Component Allocated (c2.qti.avc.encoder)
+09-28 17:36:38.610  7252  8275 W CAM_A   : Failed to prewarm MomentsTrackEncoder! Will instantiate during snapshot.
+09-28 17:36:38.610  7252  8275 W CAM_A   : java.lang.IllegalArgumentException: 
+09-28 17:36:38.610  7252  8275 W CAM_A   : 	at android.media.MediaCodec.native_configure(Native Method)
+09-28 17:36:38.610  7252  8275 W CAM_A   : 	at android.media.MediaCodec.configure(MediaCodec.java:2436)
+09-28 17:36:38.610  7252  8275 W CAM_A   : 	at android.media.MediaCodec.configure(MediaCodec.java:2339)
+09-28 17:36:38.610  7252  8275 W CAM_A   : 	at gbd.<init>(Unknown Source:39)
+09-28 17:36:38.610  7252  8275 W CAM_A   : 	at gea.c(Unknown Source:33)
+09-28 17:36:38.610  7252  8275 W CAM_A   : 	at gea.b(Unknown Source:1)
+09-28 17:36:38.610  7252  8275 W CAM_A   : 	at gei.b(Unknown Source:7)
+09-28 17:36:38.610  7252  8275 W CAM_A   : 	at gbz.run(Unknown Source:2)
+09-28 17:36:38.610  7252  8275 W CAM_A   : 	at dvm.run(Unknown Source:36)
+09-28 17:36:38.610  7252  8275 W CAM_A   : 	at android.os.Handler.handleCallback(Handler.java:1001)
+09-28 17:36:38.610  7252  8275 W CAM_A   : 	at android.os.Handler.dispatchMessage(Handler.java:105)
+09-28 17:36:38.610  7252  8275 W CAM_A   : 	at android.os.Looper.loopOnce(Looper.java:268)
+09-28 17:36:38.610  7252  8275 W CAM_A   : 	at android.os.Looper.loop(Looper.java:384)
+09-28 17:36:38.610  7252  8275 W CAM_A   : 	at android.os.HandlerThread.run(HandlerThread.java:103)
+09-28 17:36:38.612  7252  7762 D MediaCodecList: codecHandlesFormat: no format, so no extra checks
+09-28 17:36:38.612  7252  7762 D MediaCodecList: codecHandlesFormat: no format, so no extra checks
+09-28 17:36:38.613  7252  7762 I MediaCodec: (0x78ed32b800) init name(c2.qti.avc.encoder)
+09-28 17:36:38.624  7252  8295 D CCodec  : allocate(c2.qti.avc.encoder)
+09-28 17:36:38.624  7252  8298 W CAM_A   : Could not find previous metadata for frame at 255605627026398
+09-28 17:36:38.630  7252  8295 I CCodec  : setting up 'default' as default (vendor) store
+09-28 17:36:38.635  7252  8295 I CCodec  : Created component [c2.qti.avc.encoder]
+09-28 17:36:38.635  7252  8295 D CCodecConfig: read media type: video/avc
+09-28 17:36:38.636  7252  8295 D ReflectedParamUpdater: extent() != 1 for single value type: output.buffers.pool-ids.values
+09-28 17:36:38.641  7252  8295 D ReflectedParamUpdater: ignored struct field coding.gop.values
+09-28 17:36:38.646  7252  8295 D ReflectedParamUpdater: extent() != 1 for single value type: vendor.qti-ext-enc-info-metadata-cvp.reserved
+09-28 17:36:38.648  7252  8295 D CCodecConfig: ignoring local param raw.color (0xc2001809) as it is already supported
+09-28 17:36:38.649  7252  8295 I CCodecConfig: query failed after returning 23 values (BAD_INDEX)
+09-28 17:36:38.649  7252  8295 D CCodecConfig: c2 config diff is Dict {
+09-28 17:36:38.649  7252  8295 D CCodecConfig:   c2::u32 algo.bitrate-mode.value = 3
+09-28 17:36:38.649  7252  8295 D CCodecConfig:   c2::u32 algo.complexity.value = 0
+09-28 17:36:38.649  7252  8295 D CCodecConfig:   c2::i32 algo.priority.value = 0
+09-28 17:36:38.649  7252  8295 D CCodecConfig:   c2::float algo.rate.value = 30
+09-28 17:36:38.649  7252  8295 D CCodecConfig:   c2::u32 algo.secure-mode.value = 0
+09-28 17:36:38.649  7252  8295 D CCodecConfig:   c2::i32 coded.average-qp.value = 0
+09-28 17:36:38.649  7252  8295 D CCodecConfig:   c2::u32 coded.bitrate.value = 20000000
+09-28 17:36:38.649  7252  8295 D CCodecConfig:   c2::float coded.frame-rate.value = 30
+09-28 17:36:38.649  7252  8295 D CCodecConfig:   c2::u32 coded.picture-type.value = 0
+09-28 17:36:38.649  7252  8295 D CCodecConfig:   c2::u32 coded.pl.level = 0
+09-28 17:36:38.649  7252  8295 D CCodecConfig:   c2::u32 coded.pl.profile = 20484
+09-28 17:36:38.649  7252  8295 D CCodecConfig:   c2::u32 coded.vui.color.matrix = 255
+09-28 17:36:38.649  7252  8295 D CCodecConfig:   c2::u32 coded.vui.color.primaries = 0
+09-28 17:36:38.649  7252  8295 D CCodecConfig:   c2::u32 coded.vui.color.range = 0
+09-28 17:36:38.649  7252  8295 D CCodecConfig:   c2::u32 coded.vui.color.transfer = 255
+09-28 17:36:38.649  7252  8295 D CCodecConfig:   c2::u32 coding.intra-refresh.mode = 0
+09-28 17:36:38.649  7252  8295 D CCodecConfig:   c2::float coding.intra-refresh.period = 0
+09-28 17:36:38.649  7252  8295 D CCodecConfig:   c2::u32 coding.request-sync-frame.value = 0
+09-28 17:36:38.649  7252  8295 D CCodecConfig:   c2::i64 coding.sync-frame-interval.value = 1000000
+09-28 17:36:38.649  7252  8295 D CCodecConfig:   Buffer coding.temporal-layering = {
+09-28 17:36:38.649  7252  8295 D CCodecConfig:     00000000:  10 00 00 00 07 20 01 52  00 00 00 00 00 00 00 00  ..... .R........
+09-28 17:36:38.649  7252  8295 D CCodecConfig:   }
+09-28 17:36:38.649  7252  8295 D CCodecConfig:   c2::u32 default.color.matrix = 0
+09-28 17:36:38.649  7252  8295 D CCodecConfig:   c2::u32 default.color.primaries = 0
+09-28 17:36:38.649  7252  8295 D CCodecConfig:   c2::u32 default.color.range = 0
+09-28 17:36:38.649  7252  8295 D CCodecConfig:   c2::u32 default.color.trans
+09-28 17:36:38.649  7252  8295 W ColorUtils: expected specified color aspects (0:0:255:255)
+09-28 17:36:38.649  7252  8294 I MediaCodec: (0x78ed32b800) Component Allocated (c2.qti.avc.encoder)
+09-28 17:36:38.652  7252  8294 I MediaCodec: MediaCodec will operate in async mode
+09-28 17:36:38.654  7252  7762 D MediaCodec: shapeMediaFormat: deltas(1): AMessage(what = 0x00000000) = {
+09-28 17:36:38.654  7252  7762 D MediaCodec:     int32_t android._encoding-quality-level = 0
+09-28 17:36:38.654  7252  7762 D MediaCodec:   }
+09-28 17:36:38.654  7252  7762 I MediaCodec: (0x78ed32b800) configure surface(0x0) crypto(0x0) flags(1)
+09-28 17:36:38.654  7252  7762 D MediaCodec: (0x78ed32b800) configure format: AMessage(what = 0x00000000) = {
+09-28 17:36:38.654  7252  7762 D MediaCodec:       int32_t color-format = 2130708361
+09-28 17:36:38.654  7252  7762 D MediaCodec:       float i-frame-interval = 0.233333
+09-28 17:36:38.654  7252  7762 D MediaCodec:       int32_t level = 32768
+09-28 17:36:38.654  7252  7762 D MediaCodec:       string mime = "video/avc"
+09-28 17:36:38.654  7252  7762 D MediaCodec:       int32_t profile = 8
+09-28 17:36:38.654  7252  7762 D MediaCodec:       int32_t bitrate = 12000000
+09-28 17:36:38.654  7252  7762 D MediaCodec:       int32_t color-standard = 2
+09-28 17:36:38.654  7252  7762 D MediaCodec:       int32_t oo.muxer.drop_initial_non_keyframes = 1
+09-28 17:36:38.654  7252  7762 D MediaCodec:       int32_t color-transfer = 3
+09-28 17:36:38.654  7252  7762 D MediaCodec:       int32_t width = 640
+09-28 17:36:38.654  7252  7762 D MediaCodec:       int32_t color-range = 2
+09-28 17:36:38.654  7252  7762 D MediaCodec:       int32_t frame-rate = 30
+09-28 17:36:38.654  7252  7762 D MediaCodec:       int32_t height = 480
+09-28 17:36:38.654  7252  7762 D MediaCodec:       int32_t android._encoding-quality-level = 0
+09-28 17:36:38.654  7252  7762 D MediaCodec:     }
+09-28 17:36:38.656  7252  8295 D CCodec  : [c2.qti.avc.encoder] buffers are bound to CCodec for this session
+09-28 17:36:38.656  7252  8295 D CCodecConfig: no c2 equivalents for color-format
+09-28 17:36:38.656  7252  8295 D CCodecConfig: no c2 equivalents for color-standard
+09-28 17:36:38.656  7252  8295 D CCodecConfig: no c2 equivalents for oo.muxer.drop_initial_non_keyframes
+09-28 17:36:38.656  7252  8295 D CCodecConfig: no c2 equivalents for flags
+09-28 17:36:38.656  7252  8295 D CCodecConfig: no c2 equivalents for encoder
+09-28 17:36:38.657  7252  8295 D CCodecConfig: c2 config diff is   c2::u32 coded.bitrate.value = 12000000
+09-28 17:36:38.657  7252  8295 D CCodecConfig:   c2::u32 coded.pl.level = 20495
+09-28 17:36:38.657  7252  8295 D CCodecConfig:   c2::u32 coded.vui.color.matrix = 3
+09-28 17:36:38.657  7252  8295 D CCodecConfig:   c2::u32 coded.vui.color.primaries = 3
+09-28 17:36:38.657  7252  8295 D CCodecConfig:   c2::u32 coded.vui.color.range = 2
+09-28 17:36:38.657  7252  8295 D CCodecConfig:   c2::u32 coded.vui.color.transfer = 3
+09-28 17:36:38.657  7252  8295 D CCodecConfig:   c2::i64 coding.sync-frame-interval.value = 233333
+09-28 17:36:38.657  7252  8295 D CCodecConfig:   c2::u32 raw.color.matrix = 3
+09-28 17:36:38.657  7252  8295 D CCodecConfig:   c2::u32 raw.color.primaries = 3
+09-28 17:36:38.657  7252  8295 D CCodecConfig:   c2::u32 raw.color.range = 2
+09-28 17:36:38.657  7252  8295 D CCodecConfig:   c2::u32 raw.color.transfer = 3
+09-28 17:36:38.657  7252  8295 D CCodecConfig:   c2::u32 raw.pixel-format.value = 34
+09-28 17:36:38.657  7252  8295 D CCodecConfig:   c2::u32 raw.size.height = 480
+09-28 17:36:38.657  7252  8295 D CCodecConfig:   c2::u32 raw.size.width = 640
+09-28 17:36:38.658  7252  8295 W Codec2Client: query -- param skipped: index = 3254781982.
+09-28 17:36:38.658  7252  8295 D CCodec  : encoding statistics level = 0
+09-28 17:36:38.658  7252  8295 D CCodec  : setup formats input: AMessage(what = 0x00000000) = {
+09-28 17:36:38.658  7252  8295 D CCodec  :   int32_t android._color-format = 2130708361
+09-28 17:36:38.658  7252  8295 D CCodec  :   Rect crop(0, 0, 639, 479)
+09-28 17:36:38.658  7252  8295 D CCodec  :   int32_t color-standard = 2
+09-28 17:36:38.658  7252  8295 D CCodec  :   int32_t color-range = 2
+09-28 17:36:38.658  7252  8295 D CCodec  :   int32_t color-transfer = 3
+09-28 17:36:38.658  7252  8295 D CCodec  :   int32_t video-qp-average = 0
+09-28 17:36:38.658  7252  8295 D CCodec  :   int32_t width = 640
+09-28 17:36:38.658  7252  8295 D CCodec  :   int32_t feature-secure-playback = 0
+09-28 17:36:38.658  7252  8295 D CCodec  :   int32_t frame-rate = 30
+09-28 17:36:38.658  7252  8295 D CCodec  :   int32_t height = 480
+09-28 17:36:38.658  7252  8295 D CCodec  :   int32_t intra-refresh-period = 0
+09-28 17:36:38.658  7252  8295 D CCodec  :   string mime = "video/raw"
+09-28 17:36:38.658  7252  8295 D CCodec  :   int32_t prepend-sps-pps-to-idr-frames = 0
+09-28 17:36:38.658  7252  8295 D CCodec  :   int32_t priority = 0
+09-28 17:36:38.658  7252  8295 D CCodec  :   Buffer hdr-static-info = {
+09-28 17:36:38.658  7252  8295 D CCodec  :     00000000:  00 00 00 00 00 00 00 00  00 00 00 00 00 00 00 00  ................
+09-28 17:36:38.658  7252  8295 D CCodec  :     00000010:  00 00 00 00 00 00 00 00  00                       .........
+09-28 17:36:38.658  7252  8295 D CCodec  :   }
+09-28 17:36:38.658  7252  8295 D CCodec  :   int32_t android._dataspace = 258
+09-28 17:36:38.658  7252  8295 D CCodec  :   int64_t android._C2MemoryUsage = 65536
+09-28 17:36:38.658  7252  8295 D CCodec  :   int32_t color-format = 2130708361
+09-28 17:36:38.658  7252  8295 D CCodec  : }
+09-28 17:36:38.658  7252  8295 D CCodec  : setup formats output: AMessage(what = 0x00000000) = {
+09-28 17:36:38.658  7252  8295 D CCodec  :   int32_t bitrate = 12000000
+09-28 17:36:38.658  7252  8295 D CCodec  :   int32_t bitrate-mode = 1
+09-28 17:36:38.658  7252  8295 D CCodec  :   Rect crop(0, 0, 639, 479)
+09-28 17:36:38.658  7252  8295 D CCodec  :   int32_t width = 640
+09-28 17:36:38.658  7252  8295 D CCodec  :   int32_t color-standard = 2
+09-28 17:36:38.658  7252  8295 D CCodec  :   int32_t color-range = 2
+09-28 17:36:38.658  7252  8295 D CCodec  :   int32_t color-transfer = 3
+09-28 17:36:38.658  7252  8295 D CCodec  :   int32_t feature-secure-playback = 0
+09-28 17:36:38.658  7252  8295 D CCodec  :   int32_t frame-rate = 30
+09-28 17:36:38.658  7252  8295 D CCodec  :   int32_t height = 480
+09-28 17:36:38.658  7252  8295 D CCodec  :   int32_t intra-refresh-period = 0
+09-28 17:36:38.658  7252  8295 D CCodec  :   int32_t max-bitrate = 12000000
+09-28 17:36:38.658  7252  8295 D CCodec  :   string mime = "video/avc"
+09-28 17:36:38.658  7252  8295 D CCodec  :   int32_t prepend-sps-pps-to-idr-frames = 0
+09-28 17:36:38.658  7252  8295 D CCodec  :   int32_t priority = 0
+09-28 17:36:38.658  7252  8295 D CCodec  :   int32_t profile = 8
+09-28 17:36:38.658  7252  8295 D CCodec  :   int32_t video-qp-average = 0
+09-28 17:36:38.658  7252  8295 D CCodec  :   int32_t level = 32768
+09-28 17:36:38.658  7252  8295 D CCodec  : }
+09-28 17:36:38.658  7252  8295 I CCodecConfig: query failed after returning 23 values (BAD_INDEX)
+09-28 17:36:38.659  7252  8295 D CCodec  : hidl based PersistentSurface created
+09-28 17:36:38.659  7252  8295 D CCodec  : input format unchanged to AMessage(what = 0x00000000) = {
+09-28 17:36:38.659  7252  8295 D CCodec  :   int32_t android._color-format = 2130708361
+09-28 17:36:38.659  7252  8295 D CCodec  :   Rect crop(0, 0, 639, 479)
+09-28 17:36:38.659  7252  8295 D CCodec  :   int32_t color-standard = 2
+09-28 17:36:38.659  7252  8295 D CCodec  :   int32_t color-range = 2
+09-28 17:36:38.659  7252  8295 D CCodec  :   int32_t color-transfer = 3
+09-28 17:36:38.659  7252  8295 D CCodec  :   int32_t video-qp-average = 0
+09-28 17:36:38.659  7252  8295 D CCodec  :   int32_t width = 640
+09-28 17:36:38.659  7252  8295 D CCodec  :   int32_t feature-secure-playback = 0
+09-28 17:36:38.659  7252  8295 D CCodec  :   int32_t frame-rate = 30
+09-28 17:36:38.659  7252  8295 D CCodec  :   int32_t height = 480
+09-28 17:36:38.659  7252  8295 D CCodec  :   int32_t intra-refresh-period = 0
+09-28 17:36:38.659  7252  8295 D CCodec  :   string mime = "video/raw"
+09-28 17:36:38.659  7252  8295 D CCodec  :   int32_t prepend-sps-pps-to-idr-frames = 0
+09-28 17:36:38.659  7252  8295 D CCodec  :   int32_t priority = 0
+09-28 17:36:38.659  7252  8295 D CCodec  :   Buffer hdr-static-info = {
+09-28 17:36:38.659  7252  8295 D CCodec  :     00000000:  00 00 00 00 00 00 00 00  00 00 00 00 00 00 00 00  ................
+09-28 17:36:38.659  7252  8295 D CCodec  :     00000010:  00 00 00 00 00 00 00 00  00                       .........
+09-28 17:36:38.659  7252  8295 D CCodec  :   }
+09-28 17:36:38.659  7252  8295 D CCodec  :   int32_t android._dataspace = 258
+09-28 17:36:38.659  7252  8295 D CCodec  :   int64_t android._C2MemoryUsage = 65536
+09-28 17:36:38.659  7252  8295 D CCodec  :   int32_t color-format = 2130708361
+09-28 17:36:38.659  7252  8295 D CCodec  : }
+09-28 17:36:38.660  7252  8295 D GraphicBufferSource: setting dataspace: 0x102, acquired=0
+09-28 17:36:38.660  7252  8295 D CCodec  : ISConfig not changed
+09-28 17:36:38.661  7252  7762 W libc    : Access denied finding property "vendor.display.enable_optimal_refresh_rate"
+09-28 17:36:38.661  7252  7762 I MediaCodec: (0x78ed32b800) start
+09-28 17:36:38.662  7252  7762 D MediaCodec: keep callback message for reclaim
+09-28 17:36:38.675  7252  8295 W Codec2Client: query -- param skipped: index = 1342179345.
+09-28 17:36:38.675  7252  8295 W Codec2Client: query -- param skipped: index = 2415921170.
+09-28 17:36:38.675  7252  8295 W Codec2Client: query -- param skipped: index = 1610614798.
+09-28 17:36:38.675  7252  8295 D CCodecBufferChannel: [c2.qti.avc.encoder#570] Query input allocators returned 0 params => BAD_INDEX (6)
+09-28 17:36:38.675  7252  8295 D CCodecBufferChannel: [c2.qti.avc.encoder#570] Using basic input block pool with poolID 1 => got 1 - OK (0)
+09-28 17:36:38.675  7252  8295 D CCodecBufferChannel: [c2.qti.avc.encoder#570] Query output allocators returned 0 params => BAD_INDEX (6)
+09-28 17:36:38.676  7252  8295 I CCodecBufferChannel: [c2.qti.avc.encoder#570] Created output block pool with allocatorID 16 => poolID 783 - OK
+09-28 17:36:38.676  7252  8295 D CCodecBufferChannel: [c2.qti.avc.encoder#570] Configured output block pool ids 783 => OK
+09-28 17:36:38.676  7252  8295 D CCodecBufferChannel: [c2.qti.avc.encoder#570] start: updating output delay 4
+09-28 17:36:38.677  7252  8294 I MediaCodec: (0x78ed32b800) kWhatStartCompleted
+09-28 17:36:38.686  7252  7762 D MediaCodecList: codecHandlesFormat: no format, so no extra checks
+09-28 17:36:38.692  7252  7762 I MediaCodec: (0x78cd08a800) init name(c2.android.aac.encoder)
+09-28 17:36:38.699  7252  8315 D CCodec  : allocate(c2.android.aac.encoder)
+09-28 17:36:38.703  7252  8315 I CCodec  : setting up 'default' as default (vendor) store
+09-28 17:36:38.705  7252  8315 I CCodec  : Created component [c2.android.aac.encoder]
+09-28 17:36:38.706  7252  8315 D CCodecConfig: read media type: audio/mp4a-latm
+09-28 17:36:38.708  7252  8315 D ReflectedParamUpdater: extent() != 1 for single value type: algo.buffers.max-count.values
+09-28 17:36:38.708  7252  8315 D ReflectedParamUpdater: extent() != 1 for single value type: output.subscribed-indices.values
+09-28 17:36:38.708  7252  8315 D ReflectedParamUpdater: extent() != 1 for single value type: input.buffers.allocator-ids.values
+09-28 17:36:38.708  7252  8315 D ReflectedParamUpdater: extent() != 1 for single value type: output.buffers.allocator-ids.values
+09-28 17:36:38.708  7252  8315 D ReflectedParamUpdater: extent() != 1 for single value type: algo.buffers.allocator-ids.values
+09-28 17:36:38.708  7252  8315 D ReflectedParamUpdater: extent() != 1 for single value type: output.buffers.pool-ids.values
+09-28 17:36:38.709  7252  8315 D ReflectedParamUpdater: extent() != 1 for single value type: algo.buffers.pool-ids.values
+09-28 17:36:38.710  7252  8315 I CCodecConfig: query failed after returning 10 values (BAD_INDEX)
+09-28 17:36:38.710  7252  8315 D CCodecConfig: c2 config diff is Dict {
+09-28 17:36:38.710  7252  8315 D CCodecConfig:   c2::u32 coded.bitrate.value = 64000
+09-28 17:36:38.710  7252  8315 D CCodecConfig:   c2::u32 coded.pl.level = 0
+09-28 17:36:38.710  7252  8315 D CCodecConfig:   c2::u32 coded.pl.profile = 8192
+09-28 17:36:38.710  7252  8315 D CCodecConfig:   c2::u32 coding.aac-sbr-mode.value = 3
+09-28 17:36:38.710  7252  8315 D CCodecConfig:   c2::u32 input.buffers.max-size.value = 2048
+09-28 17:36:38.710  7252  8315 D CCodecConfig:   c2::u32 input.delay.value = 0
+09-28 17:36:38.710  7252  8315 D CCodecConfig:   string input.media-type.value = "audio/raw"
+09-28 17:36:38.710  7252  8315 D CCodecConfig:   c2::u32 output.large-frame.max-size = 0
+09-28 17:36:38.710  7252  8315 D CCodecConfig:   c2::u32 output.large-frame.threshold-size = 0
+09-28 17:36:38.710  7252  8315 D CCodecConfig:   string output.media-type.value = "audio/mp4a-latm"
+09-28 17:36:38.710  7252  8315 D CCodecConfig:   c2::u32 raw.channel-count.value = 1
+09-28 17:36:38.710  7252  8315 D CCodecConfig:   c2::u32 raw.sample-rate.value = 44100
+09-28 17:36:38.710  7252  8315 D CCodecConfig: }
+09-28 17:36:38.710  7252  8315 I MediaCodec: (0x78cd08a800) Component Allocated (c2.android.aac.encoder)
+09-28 17:36:38.715  7252  8160 W CAM_A   : PHOTO > result sensor delay = 1,60 > 1,10
+09-28 17:36:38.716  7252  8315 I MediaCodec: MediaCodec will operate in async mode
+09-28 17:36:38.720  7252  7762 D MediaCodec: shapeMediaFormat: deltas(0): AMessage(what = 0x00000000) = {
+09-28 17:36:38.720  7252  7762 D MediaCodec:   }
+09-28 17:36:38.720  7252  7762 I MediaCodec: (0x78cd08a800) configure surface(0x0) crypto(0x0) flags(1)
+09-28 17:36:38.720  7252  7762 D MediaCodec: (0x78cd08a800) configure format: AMessage(what = 0x00000000) = {
+09-28 17:36:38.720  7252  7762 D MediaCodec:       int32_t oo.muxer.force_sequential = 1
+09-28 17:36:38.720  7252  7762 D MediaCodec:       int32_t sample-rate = 48000
+09-28 17:36:38.720  7252  7762 D MediaCodec:       string mime = "audio/mp4a-latm"
+09-28 17:36:38.720  7252  7762 D MediaCodec:       int32_t channel-count = 2
+09-28 17:36:38.720  7252  7762 D MediaCodec:       int32_t aac-profile = 2
+09-28 17:36:38.720  7252  7762 D MediaCodec:       int32_t bitrate = 128000
+09-28 17:36:38.720  7252  7762 D MediaCodec:       int32_t max-input-size = 76800
+09-28 17:36:38.720  7252  7762 D MediaCodec:     }
+09-28 17:36:38.721  7252  8315 D CCodec  : [c2.android.aac.encoder] buffers are bound to CCodec for this session
+09-28 17:36:38.721  7252  8315 D CCodecConfig: no c2 equivalents for oo.muxer.force_sequential
+09-28 17:36:38.721  7252  8315 D CCodecConfig: no c2 equivalents for flags
+09-28 17:36:38.721  7252  8315 D CCodecConfig: no c2 equivalents for encoder
+09-28 17:36:38.723  7252  8315 D CCodecConfig: c2 config diff is   c2::u32 coded.bitrate.value = 128000
+09-28 17:36:38.723  7252  8315 D CCodecConfig:   c2::u32 input.buffers.max-size.value = 4096
+09-28 17:36:38.723  7252  8315 D CCodecConfig:   c2::u32 raw.channel-count.value = 2
+09-28 17:36:38.723  7252  8315 D CCodecConfig:   c2::u32 raw.sample-rate.value = 48000
+09-28 17:36:38.723  7252  8315 W Codec2Client: query -- param skipped: index = 1107298332.
+09-28 17:36:38.723  7252  8315 D CCodec  : encoding statistics level = 0
+09-28 17:36:38.723  7252  8315 D CCodec  : setup formats input: AMessage(what = 0x00000000) = {
+09-28 17:36:38.723  7252  8315 D CCodec  :   int32_t sample-rate = 48000
+09-28 17:36:38.723  7252  8315 D CCodec  :   int32_t channel-count = 2
+09-28 17:36:38.723  7252  8315 D CCodec  :   int32_t max-input-size = 76800
+09-28 17:36:38.723  7252  8315 D CCodec  :   string mime = "audio/raw"
+09-28 17:36:38.723  7252  8315 D CCodec  :   int32_t android._config-pcm-encoding = 2
+09-28 17:36:38.723  7252  8315 D CCodec  : }
+09-28 17:36:38.723  7252  8315 D CCodec  : setup formats output: AMessage(what = 0x00000000) = {
+09-28 17:36:38.723  7252  8315 D CCodec  :   int32_t sample-rate = 48000
+09-28 17:36:38.723  7252  8315 D CCodec  :   int32_t bitrate = 128000
+09-28 17:36:38.723  7252  8315 D CCodec  :   int32_t buffer-batch-max-output-size = 0
+09-28 17:36:38.723  7252  8315 D CCodec  :   int32_t buffer-batch-threshold-output-size = 0
+09-28 17:36:38.723  7252  8315 D CCodec  :   int32_t channel-count = 2
+09-28 17:36:38.723  7252  8315 D CCodec  :   int32_t level = 0
+09-28 17:36:38.723  7252  8315 D CCodec  :   int32_t max-bitrate = 128000
+09-28 17:36:38.723  7252  8315 D CCodec  :   string mime = "audio/mp4a-latm"
+09-28 17:36:38.723  7252  8315 D CCodec  :   int32_t profile = 2
+09-28 17:36:38.723  7252  8315 D CCodec  : }
+09-28 17:36:38.723  7252  8315 I CCodecConfig: query failed after returning 10 values (BAD_INDEX)
+09-28 17:36:38.724  7252  7762 I MediaCodec: (0x78cd08a800) start
+09-28 17:36:38.724  7252  7762 D MediaCodec: keep callback message for reclaim
+09-28 17:36:38.728  7252  8315 W Codec2Client: query -- param skipped: index = 1342179345.
+09-28 17:36:38.728  7252  8315 W Codec2Client: query -- param skipped: index = 2415921170.
+09-28 17:36:38.731  7252  8315 W Codec2Client: query -- param skipped: index = 3254792206.
+09-28 17:36:38.731  7252  8315 W Codec2Client: query -- param skipped: index = 3254792194.
+09-28 17:36:38.732  7252  8315 D CCodecBufferChannel: [c2.android.aac.encoder#411] Created input block pool with allocatorID 16 => poolID 20 - OK (0)
+09-28 17:36:38.735  7252  8315 I CCodecBufferChannel: [c2.android.aac.encoder#411] Created output block pool with allocatorID 16 => poolID 2308 - OK
+09-28 17:36:38.737  7252  8315 D CCodecBufferChannel: [c2.android.aac.encoder#411] Configured output block pool ids 2308 => OK
+09-28 17:36:38.738  7252  8315 D CCodecBufferChannel: [c2.android.aac.encoder#411] start: updating output delay 0
+09-28 17:36:38.744  7252  8160 W CAM_A   : PHOTO > rel Δ(result sensor timestamp) = 0,38 > 0,25
+09-28 17:36:38.752  7252  7293 W pkr     : CaptureResult is present COLOR_CORRECTION_GAINS NEUTRAL.
+09-28 17:36:38.764  7252  8315 I MediaCodec: (0x78cd08a800) kWhatStartCompleted
+09-28 17:36:38.766  7252  8315 D CCodecBufferChannel: [c2.android.aac.encoder#411] sending CSD : output format changed to AMessage(what = 0x00000000) = {
+09-28 17:36:38.766  7252  8315 D CCodecBufferChannel:   int32_t sample-rate = 48000
+09-28 17:36:38.766  7252  8315 D CCodecBufferChannel:   int32_t bitrate = 128000
+09-28 17:36:38.766  7252  8315 D CCodecBufferChannel:   int32_t buffer-batch-max-output-size = 0
+09-28 17:36:38.766  7252  8315 D CCodecBufferChannel:   int32_t buffer-batch-threshold-output-size = 0
+09-28 17:36:38.766  7252  8315 D CCodecBufferChannel:   int32_t channel-count = 2
+09-28 17:36:38.766  7252  8315 D CCodecBufferChannel:   int32_t level = 0
+09-28 17:36:38.766  7252  8315 D CCodecBufferChannel:   int32_t max-bitrate = 128000
+09-28 17:36:38.766  7252  8315 D CCodecBufferChannel:   string mime = "audio/mp4a-latm"
+09-28 17:36:38.766  7252  8315 D CCodecBufferChannel:   int32_t profile = 2
+09-28 17:36:38.766  7252  8315 D CCodecBufferChannel:   Buffer csd-0 = {
+09-28 17:36:38.766  7252  8315 D CCodecBufferChannel:     00000000:  11 90                                             ..
+09-28 17:36:38.766  7252  8315 D CCodecBufferChannel:   }
+09-28 17:36:38.766  7252  8315 D CCodecBufferChannel: }
+09-28 17:36:38.767  7252  7293 W pkr     : aeCrop exceeds preCorrectionActiveArraySize.
+09-28 17:36:38.948  7252  7325 W pkr     : CaptureResult is present COLOR_CORRECTION_GAINS NEUTRAL.
+09-28 17:36:38.962  7252  7325 W pkr     : aeCrop exceeds preCorrectionActiveArraySize.
+09-28 17:36:39.143  7252  7293 W pkr     : CaptureResult is present COLOR_CORRECTION_GAINS NEUTRAL.
+09-28 17:36:39.156  7252  7293 W pkr     : aeCrop exceeds preCorrectionActiveArraySize.
+09-28 17:36:39.341  7252  7293 W pkr     : CaptureResult is present COLOR_CORRECTION_GAINS NEUTRAL.
+09-28 17:36:39.354  7252  7293 W pkr     : aeCrop exceeds preCorrectionActiveArraySize.
+09-28 17:36:39.536  7252  7293 W pkr     : CaptureResult is present COLOR_CORRECTION_GAINS NEUTRAL.
+09-28 17:36:39.544  7252  7293 W pkr     : aeCrop exceeds preCorrectionActiveArraySize.
+09-28 17:36:39.746  7252  7325 W pkr     : CaptureResult is present COLOR_CORRECTION_GAINS NEUTRAL.
+09-28 17:36:39.756  7252  7325 W pkr     : aeCrop exceeds preCorrectionActiveArraySize.
+09-28 17:36:39.939  7252  7293 W pkr     : CaptureResult is present COLOR_CORRECTION_GAINS NEUTRAL.
+09-28 17:36:39.945  7252  7293 W pkr     : aeCrop exceeds preCorrectionActiveArraySize.
+09-28 17:36:40.141  7252  7325 W pkr     : CaptureResult is present COLOR_CORRECTION_GAINS NEUTRAL.
+09-28 17:36:40.154  7252  7325 W pkr     : aeCrop exceeds preCorrectionActiveArraySize.
+09-28 17:36:40.352  7252  7293 W pkr     : CaptureResult is present COLOR_CORRECTION_GAINS NEUTRAL.
+09-28 17:36:40.358  7252  7293 W pkr     : aeCrop exceeds preCorrectionActiveArraySize.
+09-28 17:36:40.527  7252  7293 W pkr     : CaptureResult is present COLOR_CORRECTION_GAINS NEUTRAL.
+09-28 17:36:40.533  7252  7293 W pkr     : aeCrop exceeds preCorrectionActiveArraySize.
+09-28 17:36:40.734  7252  7293 W pkr     : CaptureResult is present COLOR_CORRECTION_GAINS NEUTRAL.
+09-28 17:36:40.742  7252  7293 W pkr     : aeCrop exceeds preCorrectionActiveArraySize.
+09-28 17:36:40.940  7252  7325 W pkr     : CaptureResult is present COLOR_CORRECTION_GAINS NEUTRAL.
+09-28 17:36:40.956  7252  7325 W pkr     : aeCrop exceeds preCorrectionActiveArraySize.
+09-28 17:36:41.147  7252  7325 W pkr     : CaptureResult is present COLOR_CORRECTION_GAINS NEUTRAL.
+09-28 17:36:41.156  7252  7325 W pkr     : aeCrop exceeds preCorrectionActiveArraySize.
+09-28 17:36:41.337  7252  7293 W pkr     : CaptureResult is present COLOR_CORRECTION_GAINS NEUTRAL.
+09-28 17:36:41.354  7252  7293 W pkr     : aeCrop exceeds preCorrectionActiveArraySize.
+09-28 17:36:41.456  7252  7252 D CameraManager2: GotArray:0
+09-28 17:36:41.456  7252  7252 D CameraManager2: GotArray:1
+09-28 17:36:41.456  7252  7252 D CameraManager2: GotArray:2
+09-28 17:36:41.456  7252  7252 D CameraManager2: GotArray:3
+09-28 17:36:41.456  7252  7252 D CameraManager2: GotArray:4
+09-28 17:36:41.456  7252  7252 D CameraManager2: GotArray:5
+09-28 17:36:41.529  7252  7293 W pkr     : CaptureResult is present COLOR_CORRECTION_GAINS NEUTRAL.
+09-28 17:36:41.537  7252  7293 W pkr     : aeCrop exceeds preCorrectionActiveArraySize.
+09-28 17:36:41.741  7252  7325 W pkr     : CaptureResult is present COLOR_CORRECTION_GAINS NEUTRAL.
+09-28 17:36:41.752  7252  7325 W pkr     : aeCrop exceeds preCorrectionActiveArraySize.
+09-28 17:36:41.890  7252  7747 D BufferPoolAccessor2.0: evictor expired: 2, evicted: 0
+09-28 17:36:41.952  7252  7325 W pkr     : CaptureResult is present COLOR_CORRECTION_GAINS NEUTRAL.
+09-28 17:36:41.967  7252  7325 W pkr     : aeCrop exceeds preCorrectionActiveArraySize.
+09-28 17:36:42.135  7252  7325 W pkr     : CaptureResult is present COLOR_CORRECTION_GAINS NEUTRAL.
+09-28 17:36:42.151  7252  7325 W pkr     : aeCrop exceeds preCorrectionActiveArraySize.
+09-28 17:36:42.344  7252  7325 W pkr     : CaptureResult is present COLOR_CORRECTION_GAINS NEUTRAL.
+09-28 17:36:42.361  7252  7325 W pkr     : aeCrop exceeds preCorrectionActiveArraySize.
+09-28 17:36:42.541  7252  7293 W pkr     : CaptureResult is present COLOR_CORRECTION_GAINS NEUTRAL.
+09-28 17:36:42.562  7252  7293 W pkr     : aeCrop exceeds preCorrectionActiveArraySize.
+09-28 17:36:42.735  7252  7325 W pkr     : CaptureResult is present COLOR_CORRECTION_GAINS NEUTRAL.
+09-28 17:36:42.751  7252  7325 W pkr     : aeCrop exceeds preCorrectionActiveArraySize.
+09-28 17:36:42.933  7252  7325 W pkr     : CaptureResult is present COLOR_CORRECTION_GAINS NEUTRAL.
+09-28 17:36:42.969  7252  7325 W pkr     : aeCrop exceeds preCorrectionActiveArraySize.
+09-28 17:36:43.136  7252  7293 W pkr     : CaptureResult is present COLOR_CORRECTION_GAINS NEUTRAL.
+09-28 17:36:43.152  7252  7293 W pkr     : aeCrop exceeds preCorrectionActiveArraySize.
+09-28 17:36:43.343  7252  8493 W pkr     : CaptureResult is present COLOR_CORRECTION_GAINS NEUTRAL.
+09-28 17:36:43.344  7252  8493 W pkr     : aeCrop exceeds preCorrectionActiveArraySize.
+09-28 17:36:43.352  7252  8493 W pkr     : CaptureResult is present COLOR_CORRECTION_GAINS NEUTRAL.
+09-28 17:36:43.359  7252  8493 W pkr     : aeCrop exceeds preCorrectionActiveArraySize.
+09-28 17:36:43.543  7252  7293 W pkr     : CaptureResult is present COLOR_CORRECTION_GAINS NEUTRAL.
+09-28 17:36:43.587  7252  7293 W pkr     : aeCrop exceeds preCorrectionActiveArraySize.
+09-28 17:36:43.658  7252  7259 W eCameraEngR18F1: Cleared Reference was only reachable from finalizer (only reported once)
+09-28 17:36:43.673  7252  7259 I eCameraEngR18F1: NativeAlloc concurrent copying GC freed 30MB AllocSpace bytes, 38(34MB) LOS objects, 75% free, 19MB/77MB, paused 162us,52us total 112.552ms
+09-28 17:36:43.689  7252  7261 I MediaCodec: (0x78ed32a000) release
+09-28 17:36:43.692  7252  8518 I hw-BpHwBinder: onLastStrongRef automatically unlinking death recipients
+09-28 17:36:43.723  7252  8493 W pkr     : CaptureResult is present COLOR_CORRECTION_GAINS NEUTRAL.
+09-28 17:36:43.733  7252  7823 E libgcam : [camera_motion_blur_estimator.cc:57]: EstimateCameraMotionBlur: Can't estimate camera motion blur, because gyro data is missing.
+09-28 17:36:43.778  7252  8160 W CAM_A   : PHOTO > rel Δ(result sensor timestamp) = 1,00 > 0,25
+09-28 17:36:43.782  7252  8493 W pkr     : CaptureResult is present COLOR_CORRECTION_GAINS NEUTRAL.
+09-28 17:36:43.792  7252  7823 E libgcam : [camera_motion_blur_estimator.cc:57]: EstimateCameraMotionBlur: Can't estimate camera motion blur, because gyro data is missing.
+09-28 17:36:43.845  7252  8493 W pkr     : CaptureResult is present COLOR_CORRECTION_GAINS NEUTRAL.
+09-28 17:36:43.857  7252  7823 E libgcam : [camera_motion_blur_estimator.cc:57]: EstimateCameraMotionBlur: Can't estimate camera motion blur, because gyro data is missing.
+09-28 17:36:43.891  7252  7747 D BufferPoolAccessor2.0: bufferpool2 0x78ed5a8228 : 5(384000 size) total buffers - 4(307200 size) used buffers - 0/5 (recycle/alloc) - 0/0 (fetch/transfer)
+09-28 17:36:43.891  7252  7747 D BufferPoolAccessor2.0: evictor expired: 1, evicted: 1
+09-28 17:36:43.908  7252  8493 W pkr     : CaptureResult is present COLOR_CORRECTION_GAINS NEUTRAL.
+09-28 17:36:43.917  7252  7823 E libgcam : [camera_motion_blur_estimator.cc:57]: EstimateCameraMotionBlur: Can't estimate camera motion blur, because gyro data is missing.
+09-28 17:36:43.971  7252  8493 W pkr     : CaptureResult is present COLOR_CORRECTION_GAINS NEUTRAL.
+09-28 17:36:43.978  7252  7823 E libgcam : [camera_motion_blur_estimator.cc:57]: EstimateCameraMotionBlur: Can't estimate camera motion blur, because gyro data is missing.
+09-28 17:36:44.023  7252  8493 W pkr     : CaptureResult is present COLOR_CORRECTION_GAINS NEUTRAL.
+09-28 17:36:44.030  7252  7823 E libgcam : [camera_motion_blur_estimator.cc:57]: EstimateCameraMotionBlur: Can't estimate camera motion blur, because gyro data is missing.
+09-28 17:36:44.033  7252  7823 W libgcam : [shot_helper.cc:352]: LogViewfinderAeWarnings: viewfinder_short_tet (0.000ms) is further than expected from the capture TET (866.400ms). Relative error: 100%.
+09-28 17:36:44.062  7252  8160 W CAM_A   : PHOTO > result sensor delay = 1,90 > 1,10
+09-28 17:36:44.063  7252  8298 W CAM_A   : Could not find previous metadata for frame at 255611078328533
+09-28 17:36:44.075  7252  7325 W pkr     : CaptureResult is present COLOR_CORRECTION_GAINS NEUTRAL.
+09-28 17:36:44.083  7252  7325 W pkr     : aeCrop exceeds preCorrectionActiveArraySize.
+09-28 17:36:44.092  7252  8160 W CAM_A   : PHOTO > rel Δ(result sensor timestamp) = 0,47 > 0,25
+09-28 17:36:44.261  7252  7325 W pkr     : CaptureResult is present COLOR_CORRECTION_GAINS NEUTRAL.
+09-28 17:36:44.272  7252  7325 W pkr     : aeCrop exceeds preCorrectionActiveArraySize.
+09-28 17:36:44.318  7252  7252 W CAM_A   : isListed: unknown activity. mimeType=image/* className=com.facebook.timeline.stagingground.Fb4aProfilePictureShareActivityAlias
+09-28 17:36:44.318  7252  7252 W CAM_A   : isListed: unknown activity. mimeType=image/* className=com.facebook.composer.shareintent.ImplicitShareIntentHandlerDefaultAlias
+09-28 17:36:44.318  7252  7252 W CAM_A   : isListed: unknown activity. mimeType=image/* className=com.facebook.composer.shareintent.ShareToGroupsAlias
+09-28 17:36:44.318  7252  7252 W CAM_A   : isListed: unknown activity. mimeType=image/* className=com.instagram.share.handleractivity.ShareHandlerActivity
+09-28 17:36:44.318  7252  7252 W CAM_A   : isListed: unknown activity. mimeType=image/* className=com.instagram.share.handleractivity.ReelShareHandlerActivity
+09-28 17:36:44.318  7252  7252 W CAM_A   : isListed: unknown activity. mimeType=image/* className=com.instagram.direct.share.handler.DirectExternalMediaShareActivityPhoto
+09-28 17:36:44.318  7252  7252 W CAM_A   : isListed: unknown activity. mimeType=image/* className=com.whatsapp.contact.ui.picker.ContactPicker
+09-28 17:36:44.325  7252  7252 W CAM_A   : isListed: unknown activity. mimeType=video/* className=com.facebook.composer.shareintent.ImplicitShareIntentHandlerDefaultAlias
+09-28 17:36:44.325  7252  7252 W CAM_A   : isListed: unknown activity. mimeType=video/* className=com.facebook.composer.shareintent.ShareToGroupsAlias
+09-28 17:36:44.325  7252  7252 W CAM_A   : isListed: unknown activity. mimeType=video/* className=com.facebook.inspiration.fbshorts.shareintent.InpirationFbShortsShareAlias
+09-28 17:36:44.325  7252  7252 W CAM_A   : isListed: unknown activity. mimeType=video/* className=com.instagram.share.handleractivity.ShareHandlerActivity
+09-28 17:36:44.325  7252  7252 W CAM_A   : isListed: unknown activity. mimeType=video/* className=com.instagram.share.handleractivity.ReelShareHandlerActivity
+09-28 17:36:44.325  7252  7252 W CAM_A   : isListed: unknown activity. mimeType=video/* className=com.instagram.direct.share.handler.DirectExternalMediaShareActivityVideo
+09-28 17:36:44.325  7252  7252 W CAM_A   : isListed: unknown activity. mimeType=video/* className=com.whatsapp.contact.ui.picker.ContactPicker
+09-28 17:36:44.476  7252  7293 W pkr     : CaptureResult is present COLOR_CORRECTION_GAINS NEUTRAL.
+09-28 17:36:44.520  7252  7293 W pkr     : aeCrop exceeds preCorrectionActiveArraySize.
+09-28 17:36:44.560  7252  8160 W CAM_A   : PHOTO > rel Δ(result sensor timestamp) = 1,00 > 0,25
+09-28 17:36:44.560  7252  8160 W CAM_A   : PHOTO > result sensor delay = 2,00 > 1,10
+09-28 17:36:44.589  7252  8160 W CAM_A   : PHOTO > rel Δ(result sensor timestamp) = 0,50 > 0,25
+09-28 17:36:44.690  7252  7293 W pkr     : CaptureResult is present COLOR_CORRECTION_GAINS NEUTRAL.
+09-28 17:36:44.695  7252  7293 W pkr     : aeCrop exceeds preCorrectionActiveArraySize.
+09-28 17:36:44.894  7252  7325 W pkr     : CaptureResult is present COLOR_CORRECTION_GAINS NEUTRAL.
+09-28 17:36:44.905  7252  7325 W pkr     : aeCrop exceeds preCorrectionActiveArraySize.
+09-28 17:36:45.068  7252  7513 W CAM_A   : Ignored Rectiface warpfield re-initialization.
+09-28 17:36:45.069  7252  7513 W native  : W0928 17:36:45.068919    7513 rectiface_hdrplus_option_factory.cc:94] Invalid device_os_version string!motorola/fogos_gpn/fogos:15/V1UGS35H.75-14-9-1/2ca1c2-18a86:user/release-keys
+09-28 17:36:45.069  7252  7513 W native  : W0928 17:36:45.069222    7513 rectiface_hdrplus.cc:290] Rectiface: empty face landmarks - FrameMetadata may be outdated. Support will be deprecated soon.
+09-28 17:36:45.069  7252  7504 E GoLog   : W0928 17:36:45.068919    7513 rectiface_hdrplus_option_factory.cc:94] Invalid device_os_version string!motorola/fogos_gpn/fogos:15/V1UGS35H.75-14-9-1/2ca1c2-18a86:user/release-keys
+09-28 17:36:45.069  7252  7504 E GoLog   : W0928 17:36:45.069222    7513 rectiface_hdrplus.cc:290] Rectiface: empty face landmarks - FrameMetadata may be outdated. Support will be deprecated soon.
+09-28 17:36:45.072  7252  7799 W native  : W0928 17:36:45.071937    7799 face_tracker_gcam.cc:71] Ignore max_num_faces in face detection.
+09-28 17:36:45.072  7252  7504 E GoLog   : W0928 17:36:45.071937    7799 face_tracker_gcam.cc:71] Ignore max_num_faces in face detection.
+09-28 17:36:45.078  7252  7799 W native  : W0928 17:36:45.078199    7799 face_tracker_gcam.cc:91] Ignore roll_angle in landmark detection.
+09-28 17:36:45.078  7252  7504 E GoLog   : W0928 17:36:45.078199    7799 face_tracker_gcam.cc:91] Ignore roll_angle in landmark detection.
+09-28 17:36:45.088  7252  7293 W pkr     : CaptureResult is present COLOR_CORRECTION_GAINS NEUTRAL.
+09-28 17:36:45.095  7252  8524 W native  : W0928 17:36:45.094964    8524 plane_utils.cc:233] Image is reallocated due to the change of size.
+09-28 17:36:45.096  7252  8524 W native  : W0928 17:36:45.096803    8524 plane_utils.cc:233] Image is reallocated due to the change of size.
+09-28 17:36:45.098  7252  7504 E GoLog   : W0928 17:36:45.094964    8524 plane_utils.cc:233] Image is reallocated due to the change of size.
+09-28 17:36:45.098  7252  7504 E GoLog   : W0928 17:36:45.096803    8524 plane_utils.cc:233] Image is reallocated due to the change of size.
+09-28 17:36:45.099  7252  7799 W native  : W0928 17:36:45.099455    7799 face_tracker_gcam.cc:107] Memcpy incurred. This may hurt performance.
+09-28 17:36:45.099  7252  7504 E GoLog   : W0928 17:36:45.099455    7799 face_tracker_gcam.cc:107] Memcpy incurred. This may hurt performance.
+09-28 17:36:45.105  7252  7293 W pkr     : aeCrop exceeds preCorrectionActiveArraySize.
+09-28 17:36:45.128  7252  7799 W native  : W0928 17:36:45.128565    7799 rectiface_processor.cc:1252] Rectiface expects fully populated external landmark. FrameMetadata may be outdated. Support will be deprecated soon.
+09-28 17:36:45.128  7252  7504 E GoLog   : W0928 17:36:45.128565    7799 rectiface_processor.cc:1252] Rectiface expects fully populated external landmark. FrameMetadata may be outdated. Support will be deprecated soon.
+09-28 17:36:45.322  7252  8160 W CAM_A   : PHOTO > rel Δ(result sensor timestamp) = 1,00 > 0,25
+09-28 17:36:45.322  7252  8160 W CAM_A   : PHOTO > result sensor delay = 2,00 > 1,10
+09-28 17:36:45.328  7252  7325 W pkr     : CaptureResult is present COLOR_CORRECTION_GAINS NEUTRAL.
+09-28 17:36:45.359  7252  7325 W pkr     : aeCrop exceeds preCorrectionActiveArraySize.
+09-28 17:36:45.362  7252  8160 W CAM_A   : PHOTO > rel Δ(result sensor timestamp) = 0,50 > 0,25
+09-28 17:36:45.390  7252  7252 W CAM_A   : Placeholder drawable removed: key=ShotId-1 evicted=false
+09-28 17:36:45.456  7252  8160 W CAM_A   : PHOTO > rel Δ(result sensor timestamp) = 1,00 > 0,25
+09-28 17:36:45.456  7252  8160 W CAM_A   : PHOTO > result sensor delay = 2,00 > 1,10
+09-28 17:36:45.459  7252  7252 W CAM_A   : isListed: unknown activity. mimeType=image/* className=com.facebook.timeline.stagingground.Fb4aProfilePictureShareActivityAlias
+09-28 17:36:45.459  7252  7252 W CAM_A   : isListed: unknown activity. mimeType=image/* className=com.facebook.composer.shareintent.ImplicitShareIntentHandlerDefaultAlias
+09-28 17:36:45.459  7252  7252 W CAM_A   : isListed: unknown activity. mimeType=image/* className=com.facebook.composer.shareintent.ShareToGroupsAlias
+09-28 17:36:45.459  7252  7252 W CAM_A   : isListed: unknown activity. mimeType=image/* className=com.instagram.share.handleractivity.ShareHandlerActivity
+09-28 17:36:45.459  7252  7252 W CAM_A   : isListed: unknown activity. mimeType=image/* className=com.instagram.share.handleractivity.ReelShareHandlerActivity
+09-28 17:36:45.459  7252  7252 W CAM_A   : isListed: unknown activity. mimeType=image/* className=com.instagram.direct.share.handler.DirectExternalMediaShareActivityPhoto
+09-28 17:36:45.459  7252  7252 W CAM_A   : isListed: unknown activity. mimeType=image/* className=com.whatsapp.contact.ui.picker.ContactPicker
+09-28 17:36:45.466  7252  7252 W CAM_A   : isListed: unknown activity. mimeType=video/* className=com.facebook.composer.shareintent.ImplicitShareIntentHandlerDefaultAlias
+09-28 17:36:45.466  7252  7252 W CAM_A   : isListed: unknown activity. mimeType=video/* className=com.facebook.composer.shareintent.ShareToGroupsAlias
+09-28 17:36:45.466  7252  7252 W CAM_A   : isListed: unknown activity. mimeType=video/* className=com.facebook.inspiration.fbshorts.shareintent.InpirationFbShortsShareAlias
+09-28 17:36:45.466  7252  7252 W CAM_A   : isListed: unknown activity. mimeType=video/* className=com.instagram.share.handleractivity.ShareHandlerActivity
+09-28 17:36:45.466  7252  7252 W CAM_A   : isListed: unknown activity. mimeType=video/* className=com.instagram.share.handleractivity.ReelShareHandlerActivity
+09-28 17:36:45.466  7252  7252 W CAM_A   : isListed: unknown activity. mimeType=video/* className=com.instagram.direct.share.handler.DirectExternalMediaShareActivityVideo
+09-28 17:36:45.466  7252  7252 W CAM_A   : isListed: unknown activity. mimeType=video/* className=com.whatsapp.contact.ui.picker.ContactPicker
+09-28 17:36:45.491  7252  8160 W CAM_A   : PHOTO > rel Δ(result sensor timestamp) = 0,50 > 0,25
+09-28 17:36:45.573  7252  7293 W pkr     : CaptureResult is present COLOR_CORRECTION_GAINS NEUTRAL.
+09-28 17:36:45.584  7252  7293 W pkr     : aeCrop exceeds preCorrectionActiveArraySize.
+09-28 17:36:45.752  7252  7293 W pkr     : CaptureResult is present COLOR_CORRECTION_GAINS NEUTRAL.
+09-28 17:36:45.760  7252  7293 W pkr     : aeCrop exceeds preCorrectionActiveArraySize.
+09-28 17:36:45.984  7252  7325 W pkr     : CaptureResult is present COLOR_CORRECTION_GAINS NEUTRAL.
+09-28 17:36:46.000  7252  7325 W pkr     : aeCrop exceeds preCorrectionActiveArraySize.
+09-28 17:36:46.161  7252  7325 W pkr     : CaptureResult is present COLOR_CORRECTION_GAINS NEUTRAL.
+09-28 17:36:46.176  7252  7325 W pkr     : aeCrop exceeds preCorrectionActiveArraySize.
+09-28 17:36:46.348  7252  7293 W pkr     : CaptureResult is present COLOR_CORRECTION_GAINS NEUTRAL.
+09-28 17:36:46.358  7252  7293 W pkr     : aeCrop exceeds preCorrectionActiveArraySize.
+09-28 17:36:46.570  7252  7293 W pkr     : CaptureResult is present COLOR_CORRECTION_GAINS NEUTRAL.
+09-28 17:36:46.582  7252  7293 W pkr     : aeCrop exceeds preCorrectionActiveArraySize.
+09-28 17:36:46.767  7252  7293 W pkr     : CaptureResult is present COLOR_CORRECTION_GAINS NEUTRAL.
+09-28 17:36:46.778  7252  7293 W pkr     : aeCrop exceeds preCorrectionActiveArraySize.
+09-28 17:36:46.964  7252  7293 W pkr     : CaptureResult is present COLOR_CORRECTION_GAINS NEUTRAL.
+09-28 17:36:46.976  7252  7293 W pkr     : aeCrop exceeds preCorrectionActiveArraySize.
+09-28 17:36:47.155  7252  7293 W pkr     : CaptureResult is present COLOR_CORRECTION_GAINS NEUTRAL.
+09-28 17:36:47.169  7252  7293 W pkr     : aeCrop exceeds preCorrectionActiveArraySize.
+09-28 17:36:47.353  7252  7293 W pkr     : CaptureResult is present COLOR_CORRECTION_GAINS NEUTRAL.
+09-28 17:36:47.365  7252  7293 W pkr     : aeCrop exceeds preCorrectionActiveArraySize.
+09-28 17:36:47.557  7252  7325 W pkr     : CaptureResult is present COLOR_CORRECTION_GAINS NEUTRAL.
+09-28 17:36:47.571  7252  7325 W pkr     : aeCrop exceeds preCorrectionActiveArraySize.
+09-28 17:36:47.755  7252  7293 W pkr     : CaptureResult is present COLOR_CORRECTION_GAINS NEUTRAL.
+09-28 17:36:47.764  7252  7293 W pkr     : aeCrop exceeds preCorrectionActiveArraySize.
+09-28 17:36:47.956  7252  7293 W pkr     : CaptureResult is present COLOR_CORRECTION_GAINS NEUTRAL.
+09-28 17:36:47.971  7252  7293 W pkr     : aeCrop exceeds preCorrectionActiveArraySize.
+09-28 17:36:48.156  7252  7293 W pkr     : CaptureResult is present COLOR_CORRECTION_GAINS NEUTRAL.
+09-28 17:36:48.171  7252  7293 W pkr     : aeCrop exceeds preCorrectionActiveArraySize.
+09-28 17:36:48.353  7252  7325 W pkr     : CaptureResult is present COLOR_CORRECTION_GAINS NEUTRAL.
+09-28 17:36:48.364  7252  7325 W pkr     : aeCrop exceeds preCorrectionActiveArraySize.
+09-28 17:36:48.551  7252  7293 W pkr     : CaptureResult is present COLOR_CORRECTION_GAINS NEUTRAL.
+09-28 17:36:48.561  7252  7293 W pkr     : aeCrop exceeds preCorrectionActiveArraySize.
+09-28 17:36:48.756  7252  7325 W pkr     : CaptureResult is present COLOR_CORRECTION_GAINS NEUTRAL.
+09-28 17:36:48.766  7252  7325 W pkr     : aeCrop exceeds preCorrectionActiveArraySize.
+09-28 17:36:48.954  7252  7293 W pkr     : CaptureResult is present COLOR_CORRECTION_GAINS NEUTRAL.
+09-28 17:36:48.975  7252  7293 W pkr     : aeCrop exceeds preCorrectionActiveArraySize.
+09-28 17:36:49.159  7252  7325 W pkr     : CaptureResult is present COLOR_CORRECTION_GAINS NEUTRAL.
+09-28 17:36:49.178  7252  7325 W pkr     : aeCrop exceeds preCorrectionActiveArraySize.
+09-28 17:36:49.354  7252  7293 W pkr     : CaptureResult is present COLOR_CORRECTION_GAINS NEUTRAL.
+09-28 17:36:49.364  7252  7293 W pkr     : aeCrop exceeds preCorrectionActiveArraySize.
+09-28 17:36:49.548  7252  7325 W pkr     : CaptureResult is present COLOR_CORRECTION_GAINS NEUTRAL.
+09-28 17:36:49.560  7252  7325 W pkr     : aeCrop exceeds preCorrectionActiveArraySize.
+09-28 17:36:49.664  7252  7293 E PhenotypeFlagCommitter: Retrieving snapshot for com.google.android.apps.camera#com.google.android.GoogleCameraEngR18F1 failed
+09-28 17:36:49.664  7252  7293 E PhenotypeFlagCommitter: java.util.concurrent.ExecutionException: java.lang.SecurityException: GoogleCertificatesRslt: not allowed: pkg=com.google.android.GoogleCameraEngR18F1, sha256=[a40da80a59d170caa950cf15c18c454d47a39b26989d8b640ecd745ba71bf5dc], atk=false, ver=253830035.true (go/gsrlt)
+09-28 17:36:49.664  7252  7293 E PhenotypeFlagCommitter: 	at mip.fb(Unknown Source:27)
+09-28 17:36:49.664  7252  7293 E PhenotypeFlagCommitter: 	at mip.cd(Unknown Source:63)
+09-28 17:36:49.664  7252  7293 E PhenotypeFlagCommitter: 	at kuc.c(Unknown Source:12)
+09-28 17:36:49.664  7252  7293 E PhenotypeFlagCommitter: 	at kuc.e(Unknown Source:35)
+09-28 17:36:49.664  7252  7293 E PhenotypeFlagCommitter: 	at kuc.b(Unknown Source:1)
+09-28 17:36:49.664  7252  7293 E PhenotypeFlagCommitter: 	at gvh.a(Unknown Source:35)
+09-28 17:36:49.664  7252  7293 E PhenotypeFlagCommitter: 	at gvj.run(Unknown Source:9)
+09-28 17:36:49.664  7252  7293 E PhenotypeFlagCommitter: 	at law.run(Unknown Source:2)
+09-28 17:36:49.664  7252  7293 E PhenotypeFlagCommitter: 	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:524)
+09-28 17:36:49.664  7252  7293 E PhenotypeFlagCommitter: 	at pio.a(Unknown Source:2)
+09-28 17:36:49.664  7252  7293 E PhenotypeFlagCommitter: 	at phs.run(Unknown Source:20)
+09-28 17:36:49.664  7252  7293 E PhenotypeFlagCommitter: 	at pip.run(Unknown Source:4)
+09-28 17:36:49.664  7252  7293 E PhenotypeFlagCommitter: 	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:524)
+09-28 17:36:49.664  7252  7293 E PhenotypeFlagCommitter: 	at java.util.concurrent.FutureTask.run(FutureTask.java:317)
+09-28 17:36:49.664  7252  7293 E PhenotypeFlagCommitter: 	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:348)
+09-28 17:36:49.664  7252  7293 E PhenotypeFlagCommitter: 	at lbh.run(Unknown Source:2)
+09-28 17:36:49.664  7252  7293 E PhenotypeFlagCommitter: 	at lbg.run(Unknown Source:0)
+09-28 17:36:49.664  7252  7293 E PhenotypeFlagCommitter: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1156)
+09-28 17:36:49.664  7252  7293 E PhenotypeFlagCommitter: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:651)
+09-28 17:36:49.664  7252  7293 E PhenotypeFlagCommitter: 	at java.lang.Thread.run(Thread.java:1119)
+09-28 17:36:49.664  7252  7293 E PhenotypeFlagCommitter: 	at lab.run(Unknown Source:5)
+09-28 17:36:49.664  7252  7293 E PhenotypeFlagCommitter: Caused by: java.lang.SecurityException: GoogleCertificatesRslt: not allowed: pkg=com.google.android.GoogleCameraEngR18F1, sha256=[a40da80a59d170caa950cf15c18c454d47a39b26989d8b640ecd745ba71bf5dc], atk=false, ver=253830035.true (go/gsrlt)
+09-28 17:36:49.664  7252  7293 E PhenotypeFlagCommitter: 	at android.os.Parcel.createExceptionOrNull(Parcel.java:3242)
+09-28 17:36:49.664  7252  7293 E PhenotypeFlagCommitter: 	at android.os.Parcel.createException(Parcel.java:3226)
+09-28 17:36:49.664  7252  7293 E PhenotypeFlagCommitter: 	at android.os.Parcel.readException(Parcel.java:3209)
+09-28 17:36:49.664  7252  7293 E PhenotypeFlagCommitter: 	at android.os.Parcel.readException(Parcel.java:3151)
+09-28 17:36:49.664  7252  7293 E PhenotypeFlagCommitter: 	at bmn.z(Unknown Source:10)
+09-28 17:36:49.664  7252  7293 E PhenotypeFlagCommitter: 	at ktz.a(Unknown Source:38)
+09-28 17:36:49.664  7252  7293 E PhenotypeFlagCommitter: 	at kjd.f(Unknown Source:10)
+09-28 17:36:49.664  7252  7293 E PhenotypeFlagCommitter: 	at kkc.t(Unknown Source:9)
+09-28 17:36:49.664  7252  7293 E PhenotypeFlagCommitter: 	at kkc.u(Unknown Source:22)
+09-28 17:36:49.664  7252  7293 E PhenotypeFlagCommitter: 	at kkc.e(Unknown Source:15)
+09-28 17:36:49.664  7252  7293 E PhenotypeFlagCommitter: 	at kkg.handleMessage(Unknown Source:920)
+09-28 17:36:49.664  7252  7293 E PhenotypeFlagCommitter: 	at android.os.Handler.dispatchMessage(Handler.java:108)
+09-28 17:36:49.664  7252  7293 E PhenotypeFlagCommitter: 	at ksg.b(Unknown Source:0)
+09-28 17:36:49.664  7252  7293 E PhenotypeFlagCommitter: 	at ksg.dispatchMessage(Unknown Source:0)
+09-28 17:36:49.664  7252  7293 E PhenotypeFlagCommitter: 	at android.os.Looper.loopOnce(Looper.java:268)
+09-28 17:36:49.664  7252  7293 E PhenotypeFlagCommitter: 	at android.os.Looper.loop(Looper.java:384)
+09-28 17:36:49.664  7252  7293 E PhenotypeFlagCommitter: 	at android.os.HandlerThread.run(HandlerThread.java:103)
+09-28 17:36:49.795  7252  7293 W pkr     : CaptureResult is present COLOR_CORRECTION_GAINS NEUTRAL.
+09-28 17:36:49.813  7252  7293 W pkr     : aeCrop exceeds preCorrectionActiveArraySize.
+09-28 17:36:49.820  7252  8160 W CAM_A   : PHOTO > rel Δ(result sensor timestamp) = 1,00 > 0,25
+09-28 17:36:49.821  7252  8160 W CAM_A   : PHOTO > result sensor delay = 2,00 > 1,10
+09-28 17:36:49.859  7252  8160 W CAM_A   : PHOTO > rel Δ(result sensor timestamp) = 0,50 > 0,25
+09-28 17:36:49.943  7252  8160 W CAM_A   : PHOTO > rel Δ(result sensor timestamp) = 1,00 > 0,25
+09-28 17:36:49.943  7252  8160 W CAM_A   : PHOTO > result sensor delay = 2,00 > 1,10
+09-28 17:36:49.984  7252  8160 W CAM_A   : PHOTO > rel Δ(result sensor timestamp) = 0,50 > 0,25
+09-28 17:36:50.012  7252  7293 W pkr     : CaptureResult is present COLOR_CORRECTION_GAINS NEUTRAL.
+09-28 17:36:50.041  7252  7293 W pkr     : aeCrop exceeds preCorrectionActiveArraySize.
+09-28 17:36:50.214  7252  7293 W pkr     : CaptureResult is present COLOR_CORRECTION_GAINS NEUTRAL.
+09-28 17:36:50.220  7252  7293 W pkr     : aeCrop exceeds preCorrectionActiveArraySize.
+09-28 17:36:50.424  7252  7252 D Surface : Surface::disconnect
+09-28 17:36:50.424  7252  7252 D BufferQueueProducer: [SurfaceView[com.google.android.GoogleCameraEngR18F1/com.google.android.apps.camera.legacy.app.activity.main.CameraActivity](BLAST)#45108(BLAST Consumer)pid:7252](id:1c540000000b,api:4,p:1734,c:7252) disconnect: api -1
+09-28 17:36:50.433  7252  7325 W pkr     : CaptureResult is present COLOR_CORRECTION_GAINS NEUTRAL.
+09-28 17:36:50.439  7252  7252 W CAM_A   : Duplicate call to stopModule; skipping stop.
+09-28 17:36:50.440  7252  7716 E BufferQueueProducer: [SurfaceView[com.google.android.GoogleCameraEngR18F1/com.google.android.apps.camera.legacy.app.activity.main.CameraActivity](BLAST)#45108(BLAST Consumer)pid:7252](id:1c540000000b,api:4,p:1734,c:7252) queueBuffer: BufferQueue has been abandoned
+09-28 17:36:50.453  7252  7504 E GoLog   : E0928 17:36:50.453066    8493 jni_environment.cc:81] Failed to detach current thread from the JVM. JavaVM::DetachCurrentThread returned: -1
+09-28 17:36:50.454  7252  7325 W pkr     : aeCrop exceeds preCorrectionActiveArraySize.
+09-28 17:36:50.454  7252  8493 E native  : E0928 17:36:50.453066    8493 jni_environment.cc:81] Failed to detach current thread from the JVM. JavaVM::DetachCurrentThread returned: -1
+09-28 17:36:50.454  7252  7716 E BufferQueueProducer: [SurfaceView[com.google.android.GoogleCameraEngR18F1/com.google.android.apps.camera.legacy.app.activity.main.CameraActivity](BLAST)#45108(BLAST Consumer)pid:7252](id:1c540000000b,api:4,p:1734,c:7252) dequeueBuffer: BufferQueue has been abandoned
+09-28 17:36:50.459  7252  7271 E BufferQueueProducer: [SurfaceView[com.google.android.GoogleCameraEngR18F1/com.google.android.apps.camera.legacy.app.activity.main.CameraActivity](BLAST)#45108(BLAST Consumer)pid:7252](id:1c540000000b,api:4,p:1734,c:7252) cancelBuffer: BufferQueue has been abandoned
+09-28 17:36:50.461  7252  7252 W CAM_FrameServer: Attempted to invoke unlock3A on FrameServer-1 after close()
+09-28 17:36:50.469  7252  7271 E BufferQueueProducer: [SurfaceView[com.google.android.GoogleCameraEngR18F1/com.google.android.apps.camera.legacy.app.activity.main.CameraActivity](BLAST)#45108(BLAST Consumer)pid:7252](id:1c540000000b,api:4,p:1734,c:7252) cancelBuffer: BufferQueue has been abandoned
+09-28 17:36:50.480  7252  7271 E BufferQueueProducer: [SurfaceView[com.google.android.GoogleCameraEngR18F1/com.google.android.apps.camera.legacy.app.activity.main.CameraActivity](BLAST)#45108(BLAST Consumer)pid:7252](id:1c540000000b,api:4,p:1734,c:7252) cancelBuffer: BufferQueue has been abandoned
+09-28 17:36:50.484  7252  8272 D Surface : Surface::disconnect
+09-28 17:36:50.484  7252  8272 D BufferQueueProducer: [GraphicBufferSource](id:1c540000000c,api:1,p:7252,c:7252) disconnect: api 1
+09-28 17:36:50.484  7252  8272 W GraphicBufferSource: released unpopulated slots: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63]
+09-28 17:36:50.485  7252  7300 D Surface : Surface::disconnect
+09-28 17:36:50.485  7252  7300 D BufferQueueProducer: [com.google.android.GoogleCameraEngR18F1/com.google.android.apps.camera.legacy.app.activity.main.CameraActivity#45102(BLAST Consumer)pid:7252](id:1c5400000008,api:1,p:7252,c:7252) disconnect: api 1
+09-28 17:36:50.486  7252  7716 E BufferQueueProducer: [SurfaceView[com.google.android.GoogleCameraEngR18F1/com.google.android.apps.camera.legacy.app.activity.main.CameraActivity](BLAST)#45108(BLAST Consumer)pid:7252](id:1c540000000b,api:4,p:1734,c:7252) cancelBuffer: BufferQueue has been abandoned
+09-28 17:36:50.487  7252  8271 I MediaCodec: (0x78ed32b800) signalEndOfInputStream
+09-28 17:36:50.487  7252  7748 D BufferPoolAccessor2.0: bufferpool2 0x78d72c8e28 : 3(230400 size) total buffers - 3(230400 size) used buffers - 0/5 (recycle/alloc) - 0/0 (fetch/transfer)
+09-28 17:36:50.487  7252  7748 D BufferPoolAccessor2.0: bufferpool2 0x78ed5a8228 : 4(307200 size) total buffers - 3(230400 size) used buffers - 0/5 (recycle/alloc) - 0/0 (fetch/transfer)
+09-28 17:36:50.488  7252  7716 E BufferQueueProducer: [SurfaceView[com.google.android.GoogleCameraEngR18F1/com.google.android.apps.camera.legacy.app.activity.main.CameraActivity](BLAST)#45108(BLAST Consumer)pid:7252](id:1c540000000b,api:4,p:1734,c:7252) cancelBuffer: BufferQueue has been abandoned
+09-28 17:36:50.489  7252  7716 E BufferQueueProducer: [SurfaceView[com.google.android.GoogleCameraEngR18F1/com.google.android.apps.camera.legacy.app.activity.main.CameraActivity](BLAST)#45108(BLAST Consumer)pid:7252](id:1c540000000b,api:4,p:1734,c:7252) cancelBuffer: BufferQueue has been abandoned
+09-28 17:36:50.492  7252  8294 I MediaCodec: [0x78ed32b800] dequeue 1 output frames in last 135513026 ms, eos
+09-28 17:36:50.494  7252  8270 I MediaCodec: (0x78ed32b800) stop
+09-28 17:36:50.497  7252  7716 E BufferQueueProducer: [SurfaceView[com.google.android.GoogleCameraEngR18F1/com.google.android.apps.camera.legacy.app.activity.main.CameraActivity](BLAST)#45108(BLAST Consumer)pid:7252](id:1c540000000b,api:4,p:1734,c:7252) cancelBuffer: BufferQueue has been abandoned
+09-28 17:36:50.510  7252  8270 I MediaCodec: (0x78ed32b800) releaseAsync
+09-28 17:36:50.524  7252  8295 I hw-BpHwBinder: onLastStrongRef automatically unlinking death recipients
+09-28 17:36:50.696  7252  7346 D BufferQueueProducer: [SurfaceView[com.google.android.GoogleCameraEngR18F1/com.google.android.apps.camera.legacy.app.activity.main.CameraActivity](BLAST)#45108(BLAST Consumer)pid:7252](id:1c540000000b,api:4,p:1734,c:7252) disconnect: api 4
+09-28 17:36:50.697  7252  7346 D BufferQueueProducer: [ImageReader-2320x1740f25m56-7252-2](id:1c5400000006,api:4,p:1734,c:7252) disconnect: api 4
+09-28 17:36:50.709  7252  7346 D BufferQueueProducer: [ImageReader-640x480f23m52-7252-3](id:1c5400000007,api:4,p:1734,c:7252) disconnect: api 4
+09-28 17:36:58.800  7252  7300 I HWUI    : setGrContext validptr-->nullptr
+09-28 17:36:58.971  7252  7261 W MessageQueue: Handler (android.os.Handler) {f00ded5} sending message to a Handler on a dead thread
+09-28 17:36:58.971  7252  7261 W MessageQueue: java.lang.IllegalStateException: Handler (android.os.Handler) {f00ded5} sending message to a Handler on a dead thread
+09-28 17:36:58.971  7252  7261 W MessageQueue: 	at android.os.MessageQueue.enqueueMessage(MessageQueue.java:607)
+09-28 17:36:58.971  7252  7261 W MessageQueue: 	at android.os.Handler.enqueueMessage(Handler.java:805)
+09-28 17:36:58.971  7252  7261 W MessageQueue: 	at android.os.Handler.sendMessageAtTime(Handler.java:747)
+09-28 17:36:58.971  7252  7261 W MessageQueue: 	at android.os.Handler.sendMessageDelayed(Handler.java:717)
+09-28 17:36:58.971  7252  7261 W MessageQueue: 	at android.os.Handler.post(Handler.java:447)
+09-28 17:36:58.971  7252  7261 W MessageQueue: 	at android.hardware.camera2.impl.CameraDeviceImpl$CameraHandlerExecutor.execute(CameraDeviceImpl.java:2559)
+09-28 17:36:58.971  7252  7261 W MessageQueue: 	at android.hardware.camera2.impl.CallbackProxies$SessionStateCallbackProxy.onClosed(CallbackProxies.java:104)
+09-28 17:36:58.971  7252  7261 W MessageQueue: 	at android.hardware.camera2.impl.CameraCaptureSessionImpl.close(CameraCaptureSessionImpl.java:589)
+09-28 17:36:58.971  7252  7261 W MessageQueue: 	at android.hardware.camera2.impl.CameraCaptureSessionImpl.finalize(CameraCaptureSessionImpl.java:895)
+09-28 17:36:58.971  7252  7261 W MessageQueue: 	at java.lang.Daemons$FinalizerDaemon.doFinalize(Daemons.java:387)
+09-28 17:36:58.971  7252  7261 W MessageQueue: 	at java.lang.Daemons$FinalizerDaemon.processReference(Daemons.java:367)
+09-28 17:36:58.971  7252  7261 W MessageQueue: 	at java.lang.
